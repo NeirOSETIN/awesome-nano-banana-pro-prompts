@@ -62,8 +62,8 @@ body:
     id: author_name
     attributes:
       label: Original Author
-      description: Who created this prompt?
-      placeholder: "e.g., @username"
+      description: Author's name or nickname
+      placeholder: "e.g., Jared Liu"
     validations:
       required: true
 
@@ -71,8 +71,8 @@ body:
     id: author_link
     attributes:
       label: Author Profile Link
-      description: Link to author's Twitter/X profile
-      placeholder: "https://x.com/username"
+      description: Link to author's profile (e.g., Twitter, personal site, etc.)
+      placeholder: "e.g., https://x.com/username or https://example.com"
 
   - type: input
     id: source_link
