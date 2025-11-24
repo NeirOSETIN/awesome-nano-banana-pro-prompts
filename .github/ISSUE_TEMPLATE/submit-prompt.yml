@@ -1,0 +1,99 @@
+name: 🍌 Submit a Prompt
+description: Share your creative Nano Banana Pro prompt
+title: "[Prompt] <Short Title>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎨 Submit Your Prompt
+
+        Thank you for contributing! Please fill in the details below.
+
+  - type: input
+    id: title
+    attributes:
+      label: Prompt Title
+      description: A short, descriptive title (max 80 chars)
+      placeholder: "e.g., Watercolor Bar Chart with Flag-Themed Bars"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The full prompt text
+      placeholder: "Paste your prompt here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what this prompt does and when to use it
+      placeholder: "This prompt generates..."
+    validations:
+      required: true
+
+  - type: input
+    id: image_url
+    attributes:
+      label: Generated Image URL
+      description: Link to the image (Imgur, Twitter, etc.)
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: author_name
+    attributes:
+      label: Original Author
+      description: Who created this prompt?
+      placeholder: "e.g., @username"
+    validations:
+      required: true
+
+  - type: input
+    id: author_link
+    attributes:
+      label: Author Profile Link
+      description: Link to author's Twitter/X profile
+      placeholder: "https://x.com/username"
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Source Link
+      description: Original post/tweet URL
+      placeholder: "https://x.com/username/status/..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Prompt Language
+      description: What language is the prompt in?
+      options:
+        - English
+        - Chinese
+        - Japanese
+        - Spanish
+        - French
+        - German
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: License Agreement
+      description: By submitting, you agree to license your contribution under CC BY 4.0
+      options:
+        - label: I confirm I have the right to submit this content
+          required: true
+        - label: I agree to license it under CC BY 4.0
+          required: true
