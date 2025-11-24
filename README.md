@@ -63,7 +63,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **511** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Monday, November 24, 2025 at 3:02:04 AM UTC** |
+| 🔄 Last Updated | **Monday, November 24, 2025 at 3:11:54 AM UTC** |
 
 </div>
 
@@ -7341,23 +7341,178 @@ Make me an infographic for:
 
 ---
 
+### No. 196: Taxi in Kabukicho on a rainy night
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+Japanese prompt for a cinematic shot of a taxi parked on Yasukuni-dori in front of Kabukicho Ichiban-gai on a rainy night.
+
+#### 📝 Prompt
+
+```
+雨の夜の歌舞伎町1番街の前の靖国通りに止まっているタクシーを前方斜めから映画的な角度とライティングで撮影。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QQi6abEAA6AXa.jpg" width="600" alt="Taxi in Kabukicho on a rainy night - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [UMINEKO STUDIO](https://x.com/UminekoStudio)
+- **Source:** [Twitter Post](https://x.com/UminekoStudio/status/1991735510143049864)
+- **Published:** November 21, 2025
+- **Language:** ja
+
+---
+
+### No. 197: Decrypt and annotate an encrypted Santa notice
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+
+#### 📖 Description
+
+Reply includes a detailed instruction prompt asking Nano Banana Pro to interpret a cryptic Santa notice and annotate it with readable Korean text, marking key points.
+
+#### 📝 Prompt
+
+```
+이 공지는 한국인이 이해할 수 있습니다. 혹시 이걸 해석 할 수 있어요? 그리고 만약 해석 가능하다면 원본 이미지 위에 첨삭해서 해석한 키워드나 간략한 문장들을 적어줄 수 있어요? 일종의 암호화된 표현들 중에 포인트가 될 만한 부분은 동그라미 쳐주고, 그 옆에 첨삭해주면
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QQADYbwAEkynP.jpg" width="600" alt="Decrypt and annotate an encrypted Santa notice - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6MIUgXacAkCv6k.jpg" width="600" alt="Decrypt and annotate an encrypted Santa notice - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [lucas](https://x.com/lucas_flatwhite)
+- **Source:** [Twitter Post](https://x.com/lucas_flatwhite/status/1991735206416642216)
+- **Published:** November 21, 2025
+- **Language:** ko
+
+---
+
+### No. 198: Short Japanese prompt for a bureaucrat-style diagram slide
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Description
+
+Clearly states a prompt asking for a bureaucrat-style diagram (“kanryo-fu no zukai”) for dense documents similar to Kasumigaseki slides.
+
+#### 📝 Prompt
+
+```
+官僚風の図解にして
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QQE4vacAQ2pTG.jpg" width="600" alt="Short Japanese prompt for a bureaucrat-style diagram slide - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [SCSC スクスク Official](https://x.com/official74049)
+- **Source:** [Twitter Post](https://x.com/official74049/status/1991735122438279517)
+- **Published:** November 21, 2025
+- **Language:** ja
+
+---
+
+### No. 199: Merge person with their profile picture
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ask Nano Banana Pro to blend or merge the user with their profile picture image.
+
+#### 📝 Prompt
+
+```
+I asked Nano Banana Pro to merge me with my pfp :)
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QOfW2XQAA9euP.jpg" width="600" alt="Merge person with their profile picture - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Wirelyss 👁️‍🗨️💫](https://x.com/wirelyss)
+- **Source:** [Twitter Post](https://x.com/wirelyss/status/1991732889072070683)
+- **Published:** November 21, 2025
+- **Language:** en
+
+---
+
+### No. 200: Aperture comparison portrait at blue hour
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Description
+
+Chinese prompt to generate multiple aperture effects of a gentle beautiful woman model in a city at blue hour using a Canon camera with 85mm lens.
+
+#### 📝 Prompt
+
+```
+佳能相机，85mm 定头，生成 1.8F、2.8F、10F、 14F 光圈逐渐变化的效果，温柔大美女作为模特，背景是黄昏之后的城市蓝调时刻
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6QMSpJacAMbGcx.jpg" width="600" alt="Aperture comparison portrait at blue hour - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [吕立青_JimmyLv (闭关ing) 2𐃏25](https://x.com/Jimmy_JingLv)
+- **Source:** [Twitter Post](https://x.com/Jimmy_JingLv/status/1991730551531925570)
+- **Published:** November 21, 2025
+- **Language:** zh
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 311 more prompts not shown here
+### 🎯 306 more prompts not shown here
 
-Due to GitHub's content length limitations, we can only display 200 prompts in this README.
+Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
-**👉 [View all 506 prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**
-
-The gallery features:
-- ✨ Beautiful masonry grid layout
-- 🔍 Full-text search and filters
-- 🌍 16+ languages support
-- 📱 Mobile-optimized experience
+**👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
 </div>
 
@@ -7406,6 +7561,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-24T03:02:04.206Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-24T03:11:54.917Z</sub>
 
 </div>

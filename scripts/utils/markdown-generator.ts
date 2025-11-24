@@ -25,14 +25,13 @@ interface SortedPrompts {
   };
 }
 
-const MAX_PROMPTS_TO_DISPLAY = 200;
+const MAX_REGULAR_PROMPTS_TO_DISPLAY = 200;
 
 export function generateMarkdown(data: SortedPrompts): string {
   const { featured, regular, stats } = data;
 
-  // 计算还能展示多少 regular prompts
-  const remainingSlots = MAX_PROMPTS_TO_DISPLAY - featured.length;
-  const displayedRegular = regular.slice(0, Math.max(0, remainingSlots));
+  // Featured 全部展示，Regular 最多 200 条
+  const displayedRegular = regular.slice(0, MAX_REGULAR_PROMPTS_TO_DISPLAY);
   const hiddenCount = regular.length - displayedRegular.length;
 
   let md = generateHeader();
@@ -155,13 +154,8 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number): stri
     md += `## 📚 More Prompts Available\n\n`;
     md += `<div align="center">\n\n`;
     md += `### 🎯 ${hiddenCount} more prompts not shown here\n\n`;
-    md += `Due to GitHub's content length limitations, we can only display ${MAX_PROMPTS_TO_DISPLAY} prompts in this README.\n\n`;
-    md += `**👉 [View all ${regular.length + hiddenCount} prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
-    md += `The gallery features:\n`;
-    md += `- ✨ Beautiful masonry grid layout\n`;
-    md += `- 🔍 Full-text search and filters\n`;
-    md += `- 🌍 16+ languages support\n`;
-    md += `- 📱 Mobile-optimized experience\n\n`;
+    md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
+    md += `**👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
     md += `</div>\n\n`;
     md += `---\n\n`;
   }
