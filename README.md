@@ -20,6 +20,14 @@
 
 ## 🌐 View in Web Gallery
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 Browse on YouMind Nano Banana Pro Prompts Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
 Why use our gallery?
@@ -82,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **519** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Friday, November 28, 2025 at 12:48:01 AM UTC** |
+| 🔄 Last Updated | **Friday, November 28, 2025 at 1:58:13 AM UTC** |
 
 </div>
 
@@ -398,7 +406,7 @@ Create an image at {argument name="coordinates_en" default="34°36’07’’S 5
 
 - **Author:** [N≡H](https://x.com/nehuenmk)
 - **Source:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20at%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20on%20%7Bargument%20name%3D%22date_en%22%20default%3D%22July%2018%2C%201994%22%7D%20at%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
@@ -432,7 +440,7 @@ Create an infographic that explains the phases of the day, perfect for a {argume
 
 - **Author:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Source:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20infographic%20that%20explains%20the%20phases%20of%20the%20day%2C%20perfect%20for%20a%20%7Bargument%20name%3D%22child_age%22%20default%3D%226-year-old%22%7D%2C%20in%20the%20style%20of%20distinctive%20claymation%20with%20wide%20expressive%20mouths%2C%20googly%20eyes%2C%20and%20charming%20humor.%20Matte%20clay%20textures%2C%20handcrafted%20props%2C%20and%20warm%2C%20practical%20set%20lighting%20define%20the%20look.)**
@@ -503,7 +511,7 @@ Important:
 
 - **Author:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Source:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%208K%20image%20that%20keeps%20my%20real%20face%2C%20features%2C%20skin%20color%2C%20eyes%2C%20and%20hair%20exactly%20as%20in%20the%20reference%20image.%0AI%20am%20the%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22woman%22%7D%20in%20the%20photo%3B%20preserve%20my%20confident%2C%20charming%2C%20and%20elegant%20expression%2C%20with%20a%20slight%20smile%20and%20relaxed%20posture.%0APlace%20me%20at%20an%20outdoor%20automotive%20event%2C%20in%20a%20grandstand%20or%20VIP%20box%2C%20with%20a%20wide%20view%20of%20the%20track%20and%20the%20crowd%20in%20the%20background.%20The%20weather%20is%20sunny%2C%20with%20an%20intense%20blue%20sky%20and%20natural%20sunlight%20that%20enhances%20the%20colors%20and%20creates%20a%20vibrant%20racing%20atmosphere.%0AUse%20a%20medium-shot%20framing%2C%20capturing%20the%20upper%20body%20and%20the%20busy%20background%20with%20a%20slight%20depth-of-field%20blur.%0AThe%20outfit%20is%20sporty%20yet%20sophisticated%2C%20consisting%20of%3A%0A%20*%20A%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%20cap%2C%20with%20the%20yellow%20prancing%20horse%20(cavallino%20rampante)%20logo%20on%20the%20front%20and%20the%20number%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20white%20on%20the%20brim%3B%0A%20*%20A%20strapless%20structured%20denim%20top%2C%20tight%20with%20visible%20stitching%2C%20emphasizing%20the%20neckline%20and%20silhouette%3B%0A%20*%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20sunglasses%20with%20brown%20gradient%20lenses%20and%20a%20rectangular%20metallic%20frame%2C%20partially%20covering%20the%20eyes%3B%0A%20*%20A%20double%20necklace%20%E2%80%93%20one%20with%20large%20golden%20links%20and%20another%20with%20delicate%20diamonds%20close%20to%20the%20neck%3B%0A%20*%20Geometric%20gold%20earrings%3B%0A%20*%20A%20silver%20bracelet%20on%20the%20right%20wrist%3B%0A%20*%20A%20discreet%20red%20bag%20hanging%20on%20the%20shoulder%2C%20partially%20visible%20beside%20the%20arm.%0AHair%20is%20natural%20and%20loose.%0AMakeup%20is%20impeccable%20and%20glamorous%2C%20with%20glowy%20skin%2C%20defined%20eyes%2C%20pink%20lipstick%2C%20and%20warm%20blush.%0ANails%20are%20long%20and%20decorated%20with%20nail%20art%20in%20shades%20of%20pink%20and%20red%20with%20white%20details%2C%20visible%20while%20holding%20the%20glass.%0AThe%20pose%20should%20convey%20attitude%20and%20sophistication%3A%0A%20*%20Right%20hand%20holding%20the%20brim%20of%20the%20cap%2C%20adjusting%20it%20slightly%3B%0A%20*%20Left%20hand%20holding%20a%20glass%20of%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22white%20wine%22%7D%2C%20with%20the%20arm%20relaxed%3B%0A%20*%20Body%20slightly%20leaned%2C%20face%20turned%20toward%20the%20camera.%0ALighting%20is%20natural%20and%20intense%2C%20with%20subtle%20sun%20reflections%20on%20the%20face%20and%20hair.%0AUse%20a%20vibrant%20color%20palette%20%E2%80%93%20shades%20of%20red%2C%20denim%20blue%2C%20gold%2C%20and%20caramel%2C%20contrasted%20with%20the%20sunny%20background.%0AThe%20overall%20atmosphere%20is%20modern%2C%20luxurious%2C%20and%20relaxed%2C%20expressing%20the%20lifestyle%20of%20someone%20who%20enjoys%20exclusive%20experiences%2C%20with%20elegance%20and%20a%20strong%20presence%20at%20a%20premium%20automotive%20event.%0AQuality%3A%208K%20hyper-realistic%20photo%2C%20sharp%20focus%20on%20the%20face%20and%20outfit%2C%20background%20slightly%20blurred%20with%20a%20colorful%20crowd%20and%20the%20track%20in%20the%20sun.%0AImportant%3A%0A%20*%20Keep%20my%20face%2C%20hair%2C%20and%20skin%20color%20original.%0A%20*%20Preserve%20the%20authentic%20p)**
@@ -554,7 +562,7 @@ The final image should be 4K resolution with a {argument name="aspect_ratio_en" 
 
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20set%20of%20colorful%2C%20hand-drawn%20LINE-style%20half-body%20chibi%20emoji%20portraits%20based%20on%20the%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22characters%20shown%20in%20the%20reference%20image%22%7D%2C%20making%20sure%20their%20head%20accessories%20are%20depicted%20accurately.%0A%0AArrange%20the%20portraits%20in%20a%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%20grid%2C%20featuring%20common%20chat%20phrases%20or%20relevant%20humorous%20memes.%0AUse%20handwritten-style%20fonts%20for%20the%20text.%0AThe%20output%20must%20be%20original%E2%80%94do%20not%20directly%20copy%20the%20reference%20image.%0AThe%20final%20image%20should%20be%204K%20resolution%20with%20a%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D%20aspect%20ratio.)**
@@ -588,7 +596,7 @@ Create an image that corresponds to the following moment: {argument name="coordi
 
 - **Author:** [Alex dc](https://x.com/Alex_dc)
 - **Source:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20that%20corresponds%20to%20the%20following%20moment%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%22April%203%2C%2033%20CE%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20hours%22%7D)**
@@ -622,7 +630,7 @@ Create a hand-drawn isometric schematic diagram of {argument name="landmark_en" 
 
 - **Author:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand-drawn%20isometric%20schematic%20diagram%20of%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20in%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D%20dimensions.)**
@@ -661,7 +669,7 @@ A realistic black-and-white photograph of a young woman with long, dark hair, cl
 
 - **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20realistic%20black-and-white%20photograph%20of%20a%20young%20woman%20with%20long%2C%20dark%20hair%2C%20closely%20matching%20the%20facial%20features%2C%20structure%2C%20and%20expression%20of%20the%20subject%20in%20the%20reference%20image.%20She%20has%20an%20imposing%20or%20serious%20expression%2C%20looking%20directly%20at%20the%20camera.%20She%20is%20wearing%20a%20black%20suit%20jacket%2C%20a%20white%20collared%20shirt%2C%20and%20a%20slim%20black%20tie.%20The%20lighting%20is%20dramatic%2C%20and%20the%20background%20is%20dark%20and%20uniform.%20Style%3A%20photorealistic%2C%20cinematic%2C%20high-contrast%2C%20black%20and%20white.%20Subject%3A%20female%2C%20in%20a%20black%20suit%2C%20white%20shirt%2C%20slim%20black%20tie%2C%20with%20an%20imposing%2C%20serious%2C%20confident%20expression%2C%20framed%20as%20a%20medium%20close-up%2C%20straight-on.)**
@@ -701,7 +709,7 @@ Scan what’s inside the {argument name="container_en" default="fridge"} and sug
 
 - **Author:** [AmirMušić](https://x.com/AmirMushich)
 - **Source:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Published:** November 24, 2025
+- **Published:** November 25, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Scan%20what%E2%80%99s%20inside%20the%20%7Bargument%20name%3D%22container_en%22%20default%3D%22fridge%22%7D%20and%20suggest%20what%20can%20be%20cooked%20with%20the%20available%20ingredients%2C%20providing%20a%20detailed%20step-by-step%20recipe%20presented%20as%20a%20simple%20infographic.)**
@@ -8279,6 +8287,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-28T00:48:02.390Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-28T01:58:13.579Z</sub>
 
 </div>

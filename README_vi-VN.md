@@ -20,6 +20,14 @@
 
 ## 🌐 Xem trong Thư viện Web
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 Duyệt trên Thư viện YouMind Nano Banana Pro](https://youmind.com/nano-banana-pro-prompts)**
 
 Tại sao nên sử dụng thư viện của chúng tôi?
@@ -82,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **519** |
 | ⭐ Nổi bật | **5** |
-| 🔄 Cập nhật lần cuối | **lúc 00:48:09 UTC Thứ Sáu, 28 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 01:58:52 UTC Thứ Sáu, 28 tháng 11, 2025** |
 
 </div>
 
@@ -398,7 +406,7 @@ Tạo một hình ảnh tại {argument name="coordinates_en" default="34°36’
 
 - **Tác giả:** [N≡H](https://x.com/nehuenmk)
 - **Nguồn:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BA%A1i%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20v%C3%A0o%20%7Bargument%20name%3D%22date_en%22%20default%3D%22ng%C3%A0y%2018%20th%C3%A1ng%207%20n%C4%83m%201994%22%7D%20l%C3%BAc%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20s%C3%A1ng%20(UTC-3)%22%7D)**
@@ -432,7 +440,7 @@ Tạo một infographic giải thích các giai đoạn trong ngày, hoàn hảo
 
 - **Tác giả:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Nguồn:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20infographic%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1c%20giai%20%C4%91o%E1%BA%A1n%20trong%20ng%C3%A0y%2C%20ho%C3%A0n%20h%E1%BA%A3o%20cho%20m%E1%BB%99t%20%7Bargument%20name%3D%22child_age%22%20default%3D%22%C4%91%E1%BB%A9a%20tr%E1%BA%BB%206%20tu%E1%BB%95i%22%7D%2C%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91%E1%BA%A5t%20s%C3%A9t%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20v%E1%BB%9Bi%20mi%E1%BB%87ng%20r%E1%BB%99ng%20bi%E1%BB%83u%20c%E1%BA%A3m%2C%20m%E1%BA%AFt%20l%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20duy%C3%AAn%20d%C3%A1ng.%20C%C3%A1c%20k%E1%BA%BFt%20c%E1%BA%A5u%20%C4%91%E1%BA%A5t%20s%C3%A9t%20m%E1%BB%9D%2C%20%C4%91%E1%BA%A1o%20c%E1%BB%A5%20th%E1%BB%A7%20c%C3%B4ng%20v%C3%A0%20%C3%A1nh%20s%C3%A1ng%20s%C3%A2n%20kh%E1%BA%A5u%20%E1%BA%A5m%20%C3%A1p%2C%20th%E1%BB%B1c%20t%E1%BA%BF%20s%E1%BA%BD%20t%E1%BA%A1o%20n%C3%AAn%20v%E1%BA%BB%20ngo%C3%A0i%20%C4%91%E1%BA%B7c%20tr%C6%B0ng.)**
@@ -503,7 +511,7 @@ Quan trọng:
 
 - **Tác giả:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Nguồn:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%208K%20si%C3%AAu%20th%E1%BB%B1c%2C%20gi%E1%BB%AF%20nguy%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%2C%20m%C3%A0u%20da%2C%20m%E1%BA%AFt%20v%C3%A0%20t%C3%B3c%20c%E1%BB%A7a%20t%C3%B4i%20gi%E1%BB%91ng%20h%E1%BB%87t%20nh%C6%B0%20trong%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu.%0AT%C3%B4i%20l%C3%A0%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22ng%C6%B0%E1%BB%9Di%20ph%E1%BB%A5%20n%E1%BB%AF%22%7D%20trong%20%E1%BA%A3nh%3B%20gi%E1%BB%AF%20nguy%C3%AAn%20v%E1%BA%BB%20t%E1%BB%B1%20tin%2C%20quy%E1%BA%BFn%20r%C5%A9%20v%C3%A0%20thanh%20l%E1%BB%8Bch%2C%20v%E1%BB%9Bi%20n%E1%BB%A5%20c%C6%B0%E1%BB%9Di%20nh%E1%BA%B9%20v%C3%A0%20t%C6%B0%20th%E1%BA%BF%20tho%E1%BA%A3i%20m%C3%A1i.%0A%C4%90%E1%BA%B7t%20t%C3%B4i%20t%E1%BA%A1i%20m%E1%BB%99t%20s%E1%BB%B1%20ki%E1%BB%87n%20%C3%B4%20t%C3%B4%20ngo%C3%A0i%20tr%E1%BB%9Di%2C%20trong%20kh%C3%A1n%20%C4%91%C3%A0i%20ho%E1%BA%B7c%20khu%20v%E1%BB%B1c%20VIP%2C%20v%E1%BB%9Bi%20t%E1%BA%A7m%20nh%C3%ACn%20r%E1%BB%99ng%20ra%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91ua%20v%C3%A0%20%C4%91%C3%A1m%20%C4%91%C3%B4ng%20%E1%BB%9F%20ph%C3%ADa%20sau.%20Th%E1%BB%9Di%20ti%E1%BA%BFt%20n%E1%BA%AFng%20%C4%91%E1%BA%B9p%2C%20b%E1%BA%A7u%20tr%E1%BB%9Di%20xanh%20ng%E1%BA%AFt%20v%C3%A0%20%C3%A1nh%20n%E1%BA%AFng%20t%E1%BB%B1%20nhi%C3%AAn%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20m%C3%A0u%20s%E1%BA%AFc%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20%C4%91ua%20xe%20s%C3%B4i%20%C4%91%E1%BB%99ng.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20khung%20h%C3%ACnh%20trung%20b%C3%ACnh%2C%20ch%E1%BB%A5p%20ph%E1%BA%A7n%20th%C3%A2n%20tr%C3%AAn%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20b%E1%BA%ADn%20r%E1%BB%99n%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20h%C6%A1i%20m%E1%BB%9D.%0ATrang%20ph%E1%BB%A5c%20v%E1%BB%ABa%20th%E1%BB%83%20thao%20v%E1%BB%ABa%20tinh%20t%E1%BA%BF%2C%20bao%20g%E1%BB%93m%3A%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20v%E1%BB%9Bi%20logo%20ng%E1%BB%B1a%20ch%E1%BB%93m%20v%C3%A0ng%20(cavallino%20rampante)%20%E1%BB%9F%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%20v%C3%A0%20s%E1%BB%91%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20m%C3%A0u%20tr%E1%BA%AFng%20tr%C3%AAn%20v%C3%A0nh%20m%C5%A9%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20denim%20c%C3%BAp%20ng%E1%BB%B1c%20c%C3%B3%20c%E1%BA%A5u%20tr%C3%BAc%2C%20%C3%B4m%20s%C3%A1t%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20may%20r%C3%B5%20r%C3%A0ng%2C%20l%C3%A0m%20n%E1%BB%95i%20b%E1%BA%ADt%20ph%E1%BA%A7n%20c%E1%BB%95%20v%C3%A0%20v%C3%B3c%20d%C3%A1ng%3B%0A%20*%20K%C3%ADnh%20r%C3%A2m%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20v%E1%BB%9Bi%20tr%C3%B2ng%20k%C3%ADnh%20m%C3%A0u%20n%C3%A2u%20chuy%E1%BB%83n%20s%E1%BA%AFc%20v%C3%A0%20g%E1%BB%8Dng%20kim%20lo%E1%BA%A1i%20h%C3%ACnh%20ch%E1%BB%AF%20nh%E1%BA%ADt%2C%20che%20m%E1%BB%99t%20ph%E1%BA%A7n%20m%E1%BA%AFt%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%B2ng%20c%E1%BB%95%20%C4%91%C3%B4i%20%E2%80%93%20m%E1%BB%99t%20chi%E1%BA%BFc%20v%E1%BB%9Bi%20c%C3%A1c%20m%E1%BA%AFt%20x%C3%ADch%20v%C3%A0ng%20l%E1%BB%9Bn%20v%C3%A0%20m%E1%BB%99t%20chi%E1%BA%BFc%20kh%C3%A1c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20vi%C3%AAn%20kim%20c%C6%B0%C6%A1ng%20tinh%20x%E1%BA%A3o%20s%C3%A1t%20c%E1%BB%95%3B%0A%20*%20Hoa%20tai%20v%C3%A0ng%20h%C3%ACnh%20h%E1%BB%8Dc%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20v%C3%B2ng%20tay%20b%E1%BA%A1c%20%E1%BB%9F%20c%E1%BB%95%20tay%20ph%E1%BA%A3i%3B%0A%20*%20M%E1%BB%99t%20chi%E1%BA%BFc%20t%C3%BAi%20%C4%91%E1%BB%8F%20k%C3%ADn%20%C4%91%C3%A1o%20%C4%91eo%20tr%C3%AAn%20vai%2C%20m%E1%BB%99t%20ph%E1%BA%A7n%20l%E1%BB%99%20ra%20b%C3%AAn%20c%E1%BA%A1nh%20c%C3%A1nh%20tay.%0AT%C3%B3c%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20bu%C3%B4ng%20x%C3%B5a.%0ATrang%20%C4%91i%E1%BB%83m%20ho%C3%A0n%20h%E1%BA%A3o%20v%C3%A0%20quy%E1%BA%BFn%20r%C5%A9%2C%20v%E1%BB%9Bi%20l%C3%A0n%20da%20c%C4%83ng%20b%C3%B3ng%2C%20m%E1%BA%AFt%20%C4%91%C6%B0%E1%BB%A3c%20k%E1%BA%BB%20s%E1%BA%AFc%20n%C3%A9t%2C%20son%20m%C3%B4i%20h%E1%BB%93ng%20v%C3%A0%20m%C3%A1%20h%E1%BB%93ng%20%E1%BA%A5m%20%C3%A1p.%0AM%C3%B3ng%20tay%20d%C3%A0i%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20ngh%E1%BB%87%20thu%E1%BA%ADt%20v%E1%BB%9Bi%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20h%E1%BB%93ng%20v%C3%A0%20%C4%91%E1%BB%8F%20c%C3%B9ng%20chi%20ti%E1%BA%BFt%20tr%E1%BA%AFng%2C%20c%C3%B3%20th%E1%BB%83%20nh%C3%ACn%20th%E1%BA%A5y%20khi%20c%E1%BA%A7m%20ly.%0AT%C6%B0%20th%E1%BA%BF%20n%C3%AAn%20th%E1%BB%83%20hi%E1%BB%87n%20s%E1%BB%B1%20c%C3%A1%20t%C3%ADnh%20v%C3%A0%20tinh%20t%E1%BA%BF%3A%0A%20*%20Tay%20ph%E1%BA%A3i%20gi%E1%BB%AF%20v%C3%A0nh%20m%C5%A9%2C%20h%C6%A1i%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%3B%0A%20*%20Tay%20tr%C3%A1i%20c%E1%BA%A7m%20m%E1%BB%99t%20ly%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22r%C6%B0%E1%BB%A3u%20vang%20tr%E1%BA%AFng%22%7D%2C%20v%E1%BB%9Bi%20c%C3%A1nh%20tay%20th%C6%B0%20gi%C3%A3n%3B%0A%20*%20C%C6%A1%20th%E1%BB%83%20h%C6%A1i%20nghi%C3%AAng%2C%20m%E1%BA%B7t%20quay%20v%E1%BB%81%20ph%C3%ADa%20m%C3%A1y%20%E1%BA%A3nh.%0A%C3%81nh%20s%C3%A1ng%20t%E1%BB%B1%20nhi%C3%AAn%20v%C3%A0%20m%E1%BA%A1nh%20m%E1%BA%BD%2C%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ph%E1%BA%A3n%20chi%E1%BA%BFu%20%C3%A1nh%20n%E1%BA%AFng%20tinh%20t%E1%BA%BF%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20t%C3%B3c.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20b%E1%BA%A3ng%20m%C3%A0u%20r%E1%BB%B1c%20r%E1%BB%A1%20%E2%80%93%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20%C4%91%E1%BB%8F%2C%20xanh%20denim%2C%20v%C3%A0ng%20v%C3%A0%20caramel%2C%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20v%E1%BB%9Bi%20n%E1%BB%81n%20tr%E1%BB%9Di%20n%E1%BA%AFng.%0AB%E1%BA%A7u%20kh%C3%B4ng%20kh%C3%AD%20t%E1%BB%95ng%20th%E1%BB%83%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%2C%20sang%20tr%E1%BB%8Dng%20v%C3%A0%20th%C6%B0%20th%C3%A1i%2C%20th%E1%BB%83%20hi%E1%BB%87n%20l%E1%BB%91i%20s%E1%BB%91ng%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20t%E1%BA%ADn%20h%C6%B0%E1%BB%9Fng%20nh%E1%BB%AFng%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%2C%20v%E1%BB%9Bi%20s%E1%BB%B1%20thanh%20l%E1%BB%8Bch%20v%C3%A0%20phong%20th%C3%A1i%20m%E1%BA%A1nh%20m%E1%BA%BD%20t%E1%BA%A1i%20m%E1%BB%99t%20s%E1%BB%B1%20ki%E1%BB%87n%20%C3%B4%20t%C3%B4%20cao%20c%E1%BA%A5p.%0ACh%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%3A%20%E1%BA%A2nh%208K%20si%C3%AAu%20th%E1%BB%B1c%2C%20l%E1%BA%A5y%20n%C3%A9t%20s%E1%BA%AFc%20n%C3%A9t%20v%C3%A0o%20khu%C3%B4n%20m%E1%BA%B7t%20v%C3%A0%20trang%20ph%E1%BB%A5c%2C%20h%E1%BA%ADu%20c%E1%BA%A3nh%20h%C6%A1i%20m%E1%BB%9D%20v%E1%BB%9Bi%20%C4%91%C3%A1m%20%C4%91%C3%B4ng%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%20v%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91ua%20d%C6%B0%E1%BB%9Bi%20%C3%A1nh%20n%E1%BA%AFng.%0AQuan%20tr%E1%BB%8Dng%3A%0A%20*%20Gi%E1%BB%AF%20nguy%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%2C%20t%C3%B3c%20v%C3%A0%20m%C3%A0u%20da%20c%E1%BB%A7a%20t%C3%B4i.%0A%20*%20Gi%E1%BB%AF%20nguy%C3%AAn%20phong%20c%C3%A1ch%20ch%C3%A2n%20th%E1%BB%B1c.)**
@@ -554,7 +562,7 @@ Hình ảnh cuối cùng phải có độ phân giải 4K với tỷ lệ khung 
 
 - **Tác giả:** [宝玉](https://x.com/dotey)
 - **Nguồn:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%99%20%E1%BA%A3nh%20ch%C3%A2n%20dung%20emoji%20chibi%20b%C3%A1n%20th%C3%A2n%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20v%E1%BA%BD%20tay%20theo%20phong%20c%C3%A1ch%20LINE%20d%E1%BB%B1a%20tr%C3%AAn%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20hi%E1%BB%83n%20th%E1%BB%8B%20trong%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o%22%7D%2C%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20c%C3%A1c%20ph%E1%BB%A5%20ki%E1%BB%87n%20tr%C3%AAn%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4%20t%E1%BA%A3%20ch%C3%ADnh%20x%C3%A1c.%0A%0AS%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20theo%20b%E1%BB%91%20c%E1%BB%A5c%20l%C6%B0%E1%BB%9Bi%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20c%C3%B3%20c%C3%A1c%20c%E1%BB%A5m%20t%E1%BB%AB%20tr%C3%B2%20chuy%E1%BB%87n%20ph%E1%BB%95%20bi%E1%BA%BFn%20ho%E1%BA%B7c%20c%C3%A1c%20meme%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20c%C3%B3%20li%C3%AAn%20quan.%0AS%E1%BB%AD%20d%E1%BB%A5ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20cho%20v%C4%83n%20b%E1%BA%A3n.%0AK%E1%BA%BFt%20qu%E1%BA%A3%20ph%E1%BA%A3i%20l%C3%A0%20b%E1%BA%A3n%20g%E1%BB%91c%E2%80%94kh%C3%B4ng%20sao%20ch%C3%A9p%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o.%0AH%C3%ACnh%20%E1%BA%A3nh%20cu%E1%BB%91i%20c%C3%B9ng%20ph%E1%BA%A3i%20c%C3%B3%20%C4%91%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%204K%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
@@ -588,7 +596,7 @@ Tạo một hình ảnh tương ứng với thời điểm sau: {argument name="
 
 - **Tác giả:** [Alex dc](https://x.com/Alex_dc)
 - **Nguồn:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%20v%E1%BB%9Bi%20th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20sau%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%22ng%C3%A0y%203%20th%C3%A1ng%204%2C%20n%C4%83m%2033%20CN%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20gi%E1%BB%9D%22%7D)**
@@ -622,7 +630,7 @@ Tạo một sơ đồ đẳng cự vẽ tay của {argument name="landmark_en" d
 
 - **Tác giả:** [TechieSA](https://x.com/TechieBySA)
 - **Nguồn:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20s%C6%A1%20%C4%91%E1%BB%93%20%C4%91%E1%BA%B3ng%20c%E1%BB%B1%20v%E1%BA%BD%20tay%20c%E1%BB%A7a%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20v%E1%BB%9Bi%20k%C3%ADch%20th%C6%B0%E1%BB%9Bc%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -661,7 +669,7 @@ Một bức ảnh đen trắng chân thực chụp một phụ nữ trẻ với 
 
 - **Tác giả:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Nguồn:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=M%E1%BB%99t%20b%E1%BB%A9c%20%E1%BA%A3nh%20%C4%91en%20tr%E1%BA%AFng%20ch%C3%A2n%20th%E1%BB%B1c%20ch%E1%BB%A5p%20m%E1%BB%99t%20ph%E1%BB%A5%20n%E1%BB%AF%20tr%E1%BA%BB%20v%E1%BB%9Bi%20m%C3%A1i%20t%C3%B3c%20d%C3%A0i%2C%20s%E1%BA%ABm%20m%C3%A0u%2C%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20khu%C3%B4n%20m%E1%BA%B7t%2C%20c%E1%BA%A5u%20tr%C3%BAc%20v%C3%A0%20bi%E1%BB%83u%20c%E1%BA%A3m%20g%E1%BA%A7n%20nh%C6%B0%20gi%E1%BB%91ng%20h%E1%BB%87t%20ch%E1%BB%A7%20th%E1%BB%83%20trong%20%E1%BA%A3nh%20tham%20kh%E1%BA%A3o.%20C%C3%B4%20%E1%BA%A5y%20c%C3%B3%20v%E1%BA%BB%20m%E1%BA%B7t%20uy%20nghi%C3%AAm%20ho%E1%BA%B7c%20nghi%C3%AAm%20t%C3%BAc%2C%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20m%C3%A1y%20%E1%BA%A3nh.%20C%C3%B4%20%E1%BA%A5y%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20kho%C3%A1c%20vest%20%C4%91en%2C%20%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng%20c%C3%B3%20c%E1%BB%95%20v%C3%A0%20c%C3%A0%20v%E1%BA%A1t%20%C4%91en%20m%E1%BA%A3nh.%20%C3%81nh%20s%C3%A1ng%20k%E1%BB%8Bch%20t%C3%ADnh%2C%20v%C3%A0%20h%E1%BA%ADu%20c%E1%BA%A3nh%20t%E1%BB%91i%2C%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t.%20Phong%20c%C3%A1ch%3A%20ch%C3%A2n%20th%E1%BB%B1c%20nh%C6%B0%20%E1%BA%A3nh%20ch%E1%BB%A5p%2C%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao%2C%20%C4%91en%20tr%E1%BA%AFng.%20Ch%E1%BB%A7%20th%E1%BB%83%3A%20n%E1%BB%AF%2C%20m%E1%BA%B7c%20vest%20%C4%91en%2C%20%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng%2C%20c%C3%A0%20v%E1%BA%A1t%20%C4%91en%20m%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20v%E1%BA%BB%20m%E1%BA%B7t%20uy%20nghi%C3%AAm%2C%20nghi%C3%AAm%20t%C3%BAc%2C%20t%E1%BB%B1%20tin%2C%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5y%20khung%20c%E1%BA%ADn%20trung%2C%20tr%E1%BB%B1c%20di%E1%BB%87n.)**
@@ -701,7 +709,7 @@ Quét những gì có trong {argument name="container_en" default="tủ lạnh"}
 
 - **Tác giả:** [AmirMušić](https://x.com/AmirMushich)
 - **Nguồn:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Đã xuất bản:** 24 tháng 11, 2025
+- **Đã xuất bản:** 25 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/nano-banana-pro-prompts?prompt=Qu%C3%A9t%20nh%E1%BB%AFng%20g%C3%AC%20c%C3%B3%20trong%20%7Bargument%20name%3D%22container_en%22%20default%3D%22t%E1%BB%A7%20l%E1%BA%A1nh%22%7D%20v%C3%A0%20g%E1%BB%A3i%20%C3%BD%20nh%E1%BB%AFng%20m%C3%B3n%20c%C3%B3%20th%E1%BB%83%20n%E1%BA%A5u%20v%E1%BB%9Bi%20c%C3%A1c%20nguy%C3%AAn%20li%E1%BB%87u%20c%C3%B3%20s%E1%BA%B5n%2C%20cung%20c%E1%BA%A5p%20c%C3%B4ng%20th%E1%BB%A9c%20t%E1%BB%ABng%20b%C6%B0%E1%BB%9Bc%20chi%20ti%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%ACnh%20b%C3%A0y%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20%C4%91%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin%20%C4%91%C6%A1n%20gi%E1%BA%A3n.)**
@@ -8279,6 +8287,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-28T00:48:09.652Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-28T01:58:52.369Z</sub>
 
 </div>

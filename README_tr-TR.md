@@ -20,6 +20,14 @@
 
 ## 🌐 Web galerisinde görüntüle
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 YouMind Nano Banana Pro Galerisine Göz Atın](https://youmind.com/nano-banana-pro-prompts)**
 
 Neden galerimizi kullanmalısınız?
@@ -82,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **519** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **28 Kasım 2025 Cuma 00:48:19 UTC** |
+| 🔄 Son Güncelleme | **28 Kasım 2025 Cuma 01:59:37 UTC** |
 
 </div>
 
@@ -398,7 +406,7 @@ Tarihi yeniden yapılandırmalar için ideal olan, enlem, boylam ve kesin bir za
 
 - **Yazar:** [N≡H](https://x.com/nehuenmk)
 - **Kaynak:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20Temmuz%201994%22%7D%20tarihinde%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20(UTC-3)%22%7D%20saatinde%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99G%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99B%22%7D%20konumunda%20bir%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Ftur)**
@@ -432,7 +440,7 @@ Geniş, etkileyici ağızlar, oynak gözler ve büyüleyici bir mizah anlayış�
 
 - **Yazar:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Kaynak:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Geni%C5%9F%2C%20etkileyici%20a%C4%9F%C4%B1zlar%2C%20oynak%20g%C3%B6zler%20ve%20b%C3%BCy%C3%BCleyici%20bir%20mizah%20anlay%C4%B1%C5%9F%C4%B1yla%20kendine%20%C3%B6zg%C3%BC%20bir%20kilden%20animasyon%20tarz%C4%B1nda%2C%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20ya%C5%9F%C4%B1ndaki%22%7D%20bir%20%C3%A7ocuk%20i%C3%A7in%20m%C3%BCkemmel%20olacak%20%C5%9Fekilde%20g%C3%BCn%C3%BCn%20evrelerini%20a%C3%A7%C4%B1klayan%20bir%20infografik%20olu%C5%9Ftur.%20Mat%20kil%20dokular%C4%B1%2C%20el%20yap%C4%B1m%C4%B1%20aksesuarlar%20ve%20s%C4%B1cak%2C%20pratik%20set%20%C4%B1%C5%9F%C4%B1kland%C4%B1rmas%C4%B1%20bu%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC%20tan%C4%B1mlar.)**
@@ -503,7 +511,7 @@ Kalite: 8K hiper-gerçekçi fotoğraf, yüz ve kıyafet üzerinde keskin odak, r
 
 - **Yazar:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Kaynak:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Ger%C3%A7ek%20y%C3%BCz%C3%BCm%C3%BC%2C%20hatlar%C4%B1m%C4%B1%2C%20ten%20rengimi%2C%20g%C3%B6zlerimi%20ve%20sa%C3%A7%C4%B1m%C4%B1%20referans%20g%C3%B6rseldekiyle%20tamamen%20ayn%C4%B1%20tutan%20hiper-ger%C3%A7ek%C3%A7i%20bir%208K%20g%C3%B6rsel%20olu%C5%9Ftur.%0AFoto%C4%9Fraftaki%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22kad%C4%B1n%22%7D%20benim%3B%20kendinden%20emin%2C%20%C3%A7ekici%20ve%20zarif%20ifademi%2C%20hafif%20bir%20g%C3%BCl%C3%BCmseme%20ve%20rahat%20duru%C5%9Fumla%20koru.%0ABeni%20a%C3%A7%C4%B1k%20havada%20bir%20otomobil%20etkinli%C4%9Fine%2C%20trib%C3%BCnde%20veya%20VIP%20locas%C4%B1nda%2C%20pistin%20ve%20arka%20plandaki%20kalabal%C4%B1%C4%9F%C4%B1n%20geni%C5%9F%20bir%20g%C3%B6r%C3%BCn%C3%BCm%C3%BCyle%20yerle%C5%9Ftir.%20Hava%20g%C3%BCne%C5%9Fli%2C%20yo%C4%9Fun%20mavi%20bir%20g%C3%B6ky%C3%BCz%C3%BC%20ve%20renkleri%20art%C4%B1ran%2C%20canl%C4%B1%20bir%20yar%C4%B1%C5%9F%20atmosferi%20yaratan%20do%C4%9Fal%20g%C3%BCne%C5%9F%20%C4%B1%C5%9F%C4%B1%C4%9F%C4%B1%20var.%0A%C3%9Cst%20v%C3%BCcudu%20ve%20yo%C4%9Fun%20arka%20plan%C4%B1%20hafif%20bir%20alan%20derinli%C4%9Fi%20bulan%C4%B1kl%C4%B1%C4%9F%C4%B1yla%20yakalayan%20orta%20%C3%A7ekim%20kadraj%20kullan.%0AK%C4%B1yafet%20sportif%20ama%20sofistike%2C%20%C5%9Funlardan%20olu%C5%9Fuyor%3A%0A%20*%20%C3%96n%C3%BCnde%20sar%C4%B1%20%C5%9Fahlanan%20at%20(cavallino%20rampante)%20logosu%20ve%20siperli%C4%9Finde%20beyaz%20renkte%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20numaras%C4%B1%20olan%20bir%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%20%C5%9Fapka%3B%0A%20*%20Boyun%20%C3%A7izgisini%20ve%20sil%C3%BCeti%20vurgulayan%2C%20g%C3%B6r%C3%BCn%C3%BCr%20diki%C5%9Fli%2C%20straplez%2C%20yap%C4%B1l%C4%B1%2C%20dar%20bir%20denim%20%C3%BCst%3B%0A%20*%20Kahverengi%20degrade%20caml%C4%B1%20ve%20dikd%C3%B6rtgen%20metalik%20%C3%A7er%C3%A7eveli%2C%20g%C3%B6zleri%20k%C4%B1smen%20kapatan%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20g%C3%BCne%C5%9F%20g%C3%B6zl%C3%BC%C4%9F%C3%BC%3B%0A%20*%20%C3%87ift%20kolye%20%E2%80%93%20biri%20b%C3%BCy%C3%BCk%20alt%C4%B1n%20halkal%C4%B1%2C%20di%C4%9Feri%20boyna%20yak%C4%B1n%20narin%20p%C4%B1rlantal%C4%B1%3B%0A%20*%20Geometrik%20alt%C4%B1n%20k%C3%BCpeler%3B%0A%20*%20Sa%C4%9F%20bilekte%20g%C3%BCm%C3%BC%C5%9F%20bir%20bileklik%3B%0A%20*%20Omuzda%20as%C4%B1l%C4%B1%2C%20kolun%20yan%C4%B1nda%20k%C4%B1smen%20g%C3%B6r%C3%BCnen%2C%20zarif%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20%C3%A7anta.%0ASa%C3%A7lar%20do%C4%9Fal%20ve%20da%C4%9F%C4%B1n%C4%B1k.%0AMakyaj%20kusursuz%20ve%20g%C3%B6z%20al%C4%B1c%C4%B1%2C%20%C4%B1%C5%9F%C4%B1lt%C4%B1l%C4%B1%20ten%2C%20belirgin%20g%C3%B6zler%2C%20pembe%20ruj%20ve%20s%C4%B1cak%20all%C4%B1k%20var.%0AT%C4%B1rnaklar%20uzun%20ve%20pembe%20ile%20k%C4%B1rm%C4%B1z%C4%B1%20tonlar%C4%B1nda%2C%20beyaz%20detaylarla%20s%C3%BCslenmi%C5%9F%20t%C4%B1rnak%20sanat%C4%B1%20ile%20dekore%20edilmi%C5%9F%2C%20barda%C4%9F%C4%B1%20tutarken%20g%C3%B6r%C3%BCn%C3%BCyor.%0APoz%20tav%C4%B1r%20ve%20sofistike%20bir%20hava%20ta%C5%9F%C4%B1mal%C4%B1%3A%0A%20*%20Sa%C4%9F%20el%20%C5%9Fapkan%C4%B1n%20siperli%C4%9Fini%20tutuyor%2C%20hafif%C3%A7e%20ayarl%C4%B1yor%3B%0A%20*%20Sol%20el%20bir%20kadeh%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22beyaz%20%C5%9Farap%22%7D%20tutuyor%2C%20kol%20rahat%3B%0A%20*%20V%C3%BCcut%20hafif%C3%A7e%20e%C4%9Fik%2C%20y%C3%BCz%20kameraya%20d%C3%B6n%C3%BCk.%0AAyd%C4%B1nlatma%20do%C4%9Fal%20ve%20yo%C4%9Fun%2C%20y%C3%BCz%20ve%20sa%C3%A7ta%20hafif%20g%C3%BCne%C5%9F%20yans%C4%B1malar%C4%B1%20var.%0ACanl%C4%B1%20bir%20renk%20paleti%20kullan%20%E2%80%93%20k%C4%B1rm%C4%B1z%C4%B1%2C%20denim%20mavisi%2C%20alt%C4%B1n%20ve%20karamel%20tonlar%C4%B1%2C%20g%C3%BCne%C5%9Fli%20arka%20planla%20kontrast%20olu%C5%9Fturuyor.%0AGenel%20atmosfer%20modern%2C%20l%C3%BCks%20ve%20rahat%2C%20se%C3%A7kin%20deneyimlerden%20ho%C5%9Flanan%20birinin%20ya%C5%9Fam%20tarz%C4%B1n%C4%B1%2C%20premium%20bir%20otomobil%20etkinli%C4%9Finde%20zarafet%20ve%20g%C3%BC%C3%A7l%C3%BC%20bir%20duru%C5%9Fla%20ifade%20ediyor.%0AKalite%3A%208K%20hiper-ger%C3%A7ek%C3%A7i%20foto%C4%9Fraf%2C%20y%C3%BCz%20ve%20k%C4%B1yafet%20%C3%BCzerinde%20keskin%20odak%2C%20renkli%20bir%20kalabal%C4%B1k%20ve%20g%C3%BCne%C5%9Fteki%20pist%20ile%20arka%20plan%20hafif%C3%A7e%20bulan%C4%B1k.%0A%C3%96nemli%3A%0A%20*%20Y%C3%BCz%C3%BCm%C3%BC%2C%20sa%C3%A7%C4%B1m%C4%B1%20ve%20ten%20rengimi%20orijinal%20haliyle%20koru.%0A%20*%20Otantik%20p'yi%20koru.)**
@@ -554,7 +562,7 @@ Son görsel, {argument name="aspect_ratio_en" default="16:9"} en boy oranına sa
 
 - **Yazar:** [宝玉](https://x.com/dotey)
 - **Kaynak:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22referans%20g%C3%B6rselinde%20g%C3%B6sterilen%20karakterlere%22%7D%20dayal%C4%B1%2C%20renkli%2C%20elle%20%C3%A7izilmi%C5%9F%2C%20LINE%20tarz%C4%B1%2C%20yar%C4%B1m%20v%C3%BCcut%20chibi%20emoji%20portreleri%20seti%20olu%C5%9Ftur.%20Ba%C5%9F%20aksesuarlar%C4%B1n%C4%B1n%20do%C4%9Fru%20bir%20%C5%9Fekilde%20tasvir%20edildi%C4%9Finden%20emin%20ol.%0A%0APortreleri%2C%20yayg%C4%B1n%20sohbet%20ifadeleri%20veya%20ilgili%20esprili%20memler%20i%C3%A7eren%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%20bir%20%C4%B1zgarada%20d%C3%BCzenle.%0AMetin%20i%C3%A7in%20el%20yaz%C4%B1s%C4%B1%20tarz%C4%B1%20yaz%C4%B1%20tipleri%20kullan.%0A%C3%87%C4%B1kt%C4%B1%20orijinal%20olmal%C4%B1%3B%20referans%20g%C3%B6rselini%20do%C4%9Frudan%20kopyalama.%0ASon%20g%C3%B6rsel%2C%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D%20en%20boy%20oran%C4%B1na%20sahip%204K%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkte%20olmal%C4%B1d%C4%B1r.)**
@@ -588,7 +596,7 @@ Aşağıdaki ana denk gelen bir görsel oluşturun: {argument name="coordinates_
 
 - **Yazar:** [Alex dc](https://x.com/Alex_dc)
 - **Kaynak:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=A%C5%9Fa%C4%9F%C4%B1daki%20ana%20denk%20gelen%20bir%20g%C3%B6rsel%20olu%C5%9Fturun%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20Nisan%2033%20MS%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%22%7D)**
@@ -622,7 +630,7 @@ Kare formatında, el çizimi izometrik dönüm noktası diyagramları oluşturma
 
 - **Yazar:** [TechieSA](https://x.com/TechieBySA)
 - **Kaynak:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20i%C3%A7in%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D%20boyutlar%C4%B1nda%2C%20elle%20%C3%A7izilmi%C5%9F%20izometrik%20bir%20%C5%9Fematik%20diyagram%20olu%C5%9Ftur.)**
@@ -661,7 +669,7 @@ Uzun, koyu renk saçlı genç bir kadının, referans görseldeki öznenin yüz 
 
 - **Yazar:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Kaynak:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=Uzun%2C%20koyu%20renk%20sa%C3%A7l%C4%B1%20gen%C3%A7%20bir%20kad%C4%B1n%C4%B1n%2C%20referans%20g%C3%B6rseldeki%20%C3%B6znenin%20y%C3%BCz%20hatlar%C4%B1na%2C%20yap%C4%B1s%C4%B1na%20ve%20ifadesine%20yak%C4%B1ndan%20uyan%20ger%C3%A7ek%C3%A7i%2C%20siyah%20beyaz%20bir%20foto%C4%9Fraf%C4%B1.%20Do%C4%9Frudan%20kameraya%20bakarken%20heybetli%20veya%20ciddi%20bir%20ifadeye%20sahip.%20Siyah%20bir%20tak%C4%B1m%20elbise%20ceketi%2C%20beyaz%20yakal%C4%B1%20bir%20g%C3%B6mlek%20ve%20ince%20siyah%20bir%20kravat%20giyiyor.%20Ayd%C4%B1nlatma%20dramatik%20ve%20arka%20plan%20karanl%C4%B1k%20ve%20tekd%C3%BCze.%20Stil%3A%20fotoger%C3%A7ek%C3%A7i%2C%20sinematik%2C%20y%C3%BCksek%20kontrastl%C4%B1%2C%20siyah%20beyaz.%20Konu%3A%20kad%C4%B1n%2C%20siyah%20tak%C4%B1m%20elbise%20i%C3%A7inde%2C%20beyaz%20g%C3%B6mlek%2C%20ince%20siyah%20kravat%2C%20heybetli%2C%20ciddi%2C%20kendinden%20emin%20bir%20ifadeyle%2C%20orta%20yak%C4%B1n%20%C3%A7ekim%20olarak%20kadrajlanm%C4%B1%C5%9F%2C%20tam%20kar%C5%9F%C4%B1dan.)**
@@ -701,7 +709,7 @@ Buzdolabının içindekileri basit, adım adım bir yemek tarifi infografiğine 
 
 - **Yazar:** [AmirMušić](https://x.com/AmirMushich)
 - **Kaynak:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Yayınlandı:** 24 Kasım 2025
+- **Yayınlandı:** 25 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22container_en%22%20default%3D%22fridge%22%7D%20i%C3%A7indeki%20malzemeleri%20taray%C4%B1n%20ve%20mevcut%20malzemelerle%20neler%20pi%C5%9Firilebilece%C4%9Fini%2C%20basit%20bir%20infografik%20olarak%20sunulan%20ayr%C4%B1nt%C4%B1l%C4%B1%2C%20ad%C4%B1m%20ad%C4%B1m%20bir%20tarifle%20%C3%B6nerin.)**
@@ -8357,6 +8365,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-28T00:48:19.159Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-28T01:59:37.741Z</sub>
 
 </div>

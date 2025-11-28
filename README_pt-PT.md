@@ -20,6 +20,14 @@
 
 ## 🌐 Ver na galeria web
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 Navegar na galeria YouMind Nano Banana Pro](https://youmind.com/nano-banana-pro-prompts)**
 
 Por que usar nossa galeria?
@@ -82,7 +90,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **519** |
 | ⭐ Destaque | **5** |
-| 🔄 Última atualização | **sexta-feira, 28 de novembro de 2025 às 00:48:18 UTC** |
+| 🔄 Última atualização | **sexta-feira, 28 de novembro de 2025 às 01:59:32 UTC** |
 
 </div>
 
@@ -397,7 +405,7 @@ Criar uma imagem em {argument name="coordinates_en" default="34°36’07’’S 
 
 - **Autor:** [N≡H](https://x.com/nehuenmk)
 - **Fonte:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Criar%20uma%20imagem%20em%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20em%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20de%20julho%20de%201994%22%7D%20%C3%A0s%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20(UTC-3)%22%7D)**
@@ -431,7 +439,7 @@ Crie um infográfico que explique as fases do dia, perfeito para uma criança de
 
 - **Autor:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Fonte:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crie%20um%20infogr%C3%A1fico%20que%20explique%20as%20fases%20do%20dia%2C%20perfeito%20para%20uma%20crian%C3%A7a%20de%20%7Bargument%20name%3D%22child_age%22%20default%3D%226%20anos%22%7D%2C%20no%20estilo%20de%20claymation%20distinto%2C%20com%20bocas%20expressivas%20e%20largas%2C%20olhos%20esbugalhados%20e%20humor%20encantador.%20Texturas%20de%20argila%20foscas%2C%20adere%C3%A7os%20feitos%20%C3%A0%20m%C3%A3o%20e%20ilumina%C3%A7%C3%A3o%20de%20cen%C3%A1rio%20quente%20e%20pr%C3%A1tica%20definem%20o%20visual.)**
@@ -502,7 +510,7 @@ Importante:
 
 - **Autor:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Fonte:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crie%20uma%20imagem%20hiper-realista%20em%208K%20que%20mantenha%20meu%20rosto%20real%2C%20caracter%C3%ADsticas%2C%20cor%20de%20pele%2C%20olhos%20e%20cabelo%20exatamente%20como%20na%20imagem%20de%20refer%C3%AAncia.%0AEu%20sou%20a%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22mulher%22%7D%20na%20foto%3B%20preserve%20minha%20express%C3%A3o%20confiante%2C%20charmosa%20e%20elegante%2C%20com%20um%20leve%20sorriso%20e%20postura%20relaxada.%0AMe%20posicione%20em%20um%20evento%20automotivo%20ao%20ar%20livre%2C%20em%20uma%20arquibancada%20ou%20camarote%20VIP%2C%20com%20uma%20ampla%20vista%20da%20pista%20e%20da%20multid%C3%A3o%20ao%20fundo.%20O%20clima%20est%C3%A1%20ensolarado%2C%20com%20um%20c%C3%A9u%20azul%20intenso%20e%20luz%20solar%20natural%20que%20real%C3%A7a%20as%20cores%20e%20cria%20uma%20atmosfera%20de%20corrida%20vibrante.%0AUse%20um%20enquadramento%20de%20m%C3%A9dio-plano%2C%20capturando%20a%20parte%20superior%20do%20corpo%20e%20o%20fundo%20movimentado%20com%20um%20leve%20desfoque%20de%20profundidade%20de%20campo.%0AO%20traje%20%C3%A9%20esportivo%20e%20sofisticado%2C%20consistindo%20em%3A%0A%20*%20Um%20bon%C3%A9%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20com%20o%20logotipo%20do%20cavalo%20empinado%20(cavallino%20rampante)%20amarelo%20na%20frente%20e%20o%20n%C3%BAmero%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20em%20branco%20na%20aba%3B%0A%20*%20Um%20top%20jeans%20estruturado%20tomara%20que%20caia%2C%20justo%20com%20costuras%20vis%C3%ADveis%2C%20real%C3%A7ando%20o%20decote%20e%20a%20silhueta%3B%0A%20*%20%C3%93culos%20de%20sol%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20com%20lentes%20gradiente%20marrons%20e%20arma%C3%A7%C3%A3o%20met%C3%A1lica%20retangular%2C%20cobrindo%20parcialmente%20os%20olhos%3B%0A%20*%20Um%20colar%20duplo%20%E2%80%93%20um%20com%20elos%20grandes%20dourados%20e%20outro%20com%20diamantes%20delicados%20pr%C3%B3ximos%20ao%20pesco%C3%A7o%3B%0A%20*%20Brincos%20dourados%20geom%C3%A9tricos%3B%0A%20*%20Uma%20pulseira%20prateada%20no%20pulso%20direito%3B%0A%20*%20Uma%20bolsa%20vermelha%20discreta%20pendurada%20no%20ombro%2C%20parcialmente%20vis%C3%ADvel%20ao%20lado%20do%20bra%C3%A7o.%0AO%20cabelo%20est%C3%A1%20natural%20e%20solto.%0AA%20maquiagem%20%C3%A9%20impec%C3%A1vel%20e%20glamorosa%2C%20com%20pele%20iluminada%2C%20olhos%20definidos%2C%20batom%20rosa%20e%20blush%20quente.%0AAs%20unhas%20s%C3%A3o%20longas%20e%20decoradas%20com%20nail%20art%20em%20tons%20de%20rosa%20e%20vermelho%20com%20detalhes%20brancos%2C%20vis%C3%ADveis%20ao%20segurar%20o%20copo.%0AA%20pose%20deve%20transmitir%20atitude%20e%20sofistica%C3%A7%C3%A3o%3A%0A%20*%20M%C3%A3o%20direita%20segurando%20a%20aba%20do%20bon%C3%A9%2C%20ajustando-o%20levemente%3B%0A%20*%20M%C3%A3o%20esquerda%20segurando%20um%20copo%20de%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vinho%20branco%22%7D%2C%20com%20o%20bra%C3%A7o%20relaxado%3B%0A%20*%20Corpo%20levemente%20inclinado%2C%20rosto%20virado%20para%20a%20c%C3%A2mera.%0AA%20ilumina%C3%A7%C3%A3o%20%C3%A9%20natural%20e%20intensa%2C%20com%20reflexos%20sutis%20do%20sol%20no%20rosto%20e%20cabelo.%0AUse%20uma%20paleta%20de%20cores%20vibrante%20%E2%80%93%20tons%20de%20vermelho%2C%20azul%20jeans%2C%20dourado%20e%20caramelo%2C%20contrastando%20com%20o%20fundo%20ensolarado.%0AA%20atmosfera%20geral%20%C3%A9%20moderna%2C%20luxuosa%20e%20relaxada%2C%20expressando%20o%20estilo%20de%20vida%20de%20algu%C3%A9m%20que%20desfruta%20de%20experi%C3%AAncias%20exclusivas%2C%20com%20eleg%C3%A2ncia%20e%20uma%20forte%20presen%C3%A7a%20em%20um%20evento%20automotivo%20premium.%0AQualidade%3A%20foto%20hiper-realista%208K%2C%20foco%20n%C3%ADtido%20no%20rosto%20e%20na%20roupa%2C%20fundo%20levemente%20desfocado%20com%20uma%20multid%C3%A3o%20colorida%20e%20a%20pista%20ao%20sol.%0AImportante%3A%0A%20*%20Mantenha%20meu%20rosto%2C%20cabelo%20e%20cor%20de%20pele%20originais.%0A%20*%20Preserve%20a%20aut%C3%AAntica%20p)**
@@ -553,7 +561,7 @@ A imagem final deve ter resolução 4K com uma proporção de tela de {argument 
 
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Fonte:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crie%20um%20conjunto%20de%20retratos%20de%20emoji%20chibi%20coloridos%2C%20desenhados%20%C3%A0%20m%C3%A3o%2C%20estilo%20LINE%2C%20de%20meio%20corpo%2C%20baseados%20nos%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personagens%20mostrados%20na%20imagem%20de%20refer%C3%AAncia%22%7D%2C%20garantindo%20que%20os%20acess%C3%B3rios%20de%20cabe%C3%A7a%20sejam%20representados%20com%20precis%C3%A3o.%0A%0AOrganize%20os%20retratos%20em%20uma%20grade%20de%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20apresentando%20frases%20de%20bate-papo%20comuns%20ou%20memes%20humor%C3%ADsticos%20relevantes.%0AUse%20fontes%20estilo%20manuscrito%20para%20o%20texto.%0AO%20resultado%20deve%20ser%20original%20%E2%80%94%20n%C3%A3o%20copie%20diretamente%20a%20imagem%20de%20refer%C3%AAncia.%0AA%20imagem%20final%20deve%20ter%20resolu%C3%A7%C3%A3o%204K%20com%20uma%20propor%C3%A7%C3%A3o%20de%20tela%20de%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
@@ -587,7 +595,7 @@ Crie uma imagem que corresponda ao seguinte momento: {argument name="coordinates
 
 - **Autor:** [Alex dc](https://x.com/Alex_dc)
 - **Fonte:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crie%20uma%20imagem%20que%20corresponda%20ao%20seguinte%20momento%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20de%20abril%20de%2033%20d.C.%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20horas%22%7D)**
@@ -621,7 +629,7 @@ Crie um diagrama esquemático isométrico desenhado à mão de {argument name="l
 
 - **Autor:** [TechieSA](https://x.com/TechieBySA)
 - **Fonte:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crie%20um%20diagrama%20esquem%C3%A1tico%20isom%C3%A9trico%20desenhado%20%C3%A0%20m%C3%A3o%20de%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20nas%20dimens%C3%B5es%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -660,7 +668,7 @@ Uma fotografia realista em preto e branco de uma jovem mulher com cabelo longo e
 
 - **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Fonte:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Uma%20fotografia%20realista%20em%20preto%20e%20branco%20de%20uma%20jovem%20mulher%20com%20cabelo%20longo%20e%20escuro%2C%20que%20corresponde%20de%20perto%20%C3%A0s%20caracter%C3%ADsticas%20faciais%2C%20estrutura%20e%20express%C3%A3o%20da%20pessoa%20na%20imagem%20de%20refer%C3%AAncia.%20Ela%20tem%20uma%20express%C3%A3o%20imponente%20ou%20s%C3%A9ria%2C%20olhando%20diretamente%20para%20a%20c%C3%A2mera.%20Ela%20est%C3%A1%20vestindo%20um%20palet%C3%B3%20preto%2C%20uma%20camisa%20branca%20de%20colarinho%20e%20uma%20gravata%20preta%20fina.%20A%20ilumina%C3%A7%C3%A3o%20%C3%A9%20dram%C3%A1tica%2C%20e%20o%20fundo%20%C3%A9%20escuro%20e%20uniforme.%20Estilo%3A%20fotorrealista%2C%20cinematogr%C3%A1fico%2C%20alto%20contraste%2C%20preto%20e%20branco.%20Assunto%3A%20feminino%2C%20em%20um%20terno%20preto%2C%20camisa%20branca%2C%20gravata%20preta%20fina%2C%20com%20uma%20express%C3%A3o%20imponente%2C%20s%C3%A9ria%20e%20confiante%2C%20enquadrada%20como%20um%20close-up%20m%C3%A9dio%2C%20de%20frente.)**
@@ -700,7 +708,7 @@ Digitalize o conteúdo do {argument name="container_en" default="frigorífico"} 
 
 - **Autor:** [AmirMušić](https://x.com/AmirMushich)
 - **Fonte:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Publicado:** 24 de novembro de 2025
+- **Publicado:** 25 de novembro de 2025
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/nano-banana-pro-prompts?prompt=Digitalize%20o%20conte%C3%BAdo%20do%20%7Bargument%20name%3D%22container_en%22%20default%3D%22frigor%C3%ADfico%22%7D%20e%20sugira%20o%20que%20pode%20ser%20cozinhado%20com%20os%20ingredientes%20dispon%C3%ADveis%2C%20fornecendo%20uma%20receita%20detalhada%20passo%20a%20passo%20apresentada%20como%20um%20infogr%C3%A1fico%20simples.)**
@@ -8281,6 +8289,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-11-28T00:48:18.020Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-11-28T01:59:32.961Z</sub>
 
 </div>

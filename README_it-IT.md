@@ -20,6 +20,14 @@
 
 ## 🌐 Vedi nella galleria web
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 Sfoglia la galleria YouMind Nano Banana Pro](https://youmind.com/nano-banana-pro-prompts)**
 
 Perché usare la nostra galleria?
@@ -82,7 +90,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **519** |
 | ⭐ In evidenza | **5** |
-| 🔄 Ultimo aggiornamento | **venerdì 28 novembre 2025 alle ore 00:48:15 UTC** |
+| 🔄 Ultimo aggiornamento | **venerdì 28 novembre 2025 alle ore 01:59:20 UTC** |
 
 </div>
 
@@ -398,7 +406,7 @@ Crea un'immagine a {argument name="coordinates_en" default="34°36’07’’S 5
 
 - **Autore:** [N≡H](https://x.com/nehuenmk)
 - **Fonte:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%20a%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20il%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20luglio%201994%22%7D%20alle%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
@@ -432,7 +440,7 @@ Crea un'infografica che spieghi le fasi della giornata, perfetta per un {argumen
 
 - **Autore:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Fonte:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'infografica%20che%20spieghi%20le%20fasi%20della%20giornata%2C%20perfetta%20per%20un%20%7Bargument%20name%3D%22child_age%22%20default%3D%22bambino%20di%206%20anni%22%7D%2C%20nello%20stile%20distintivo%20della%20claymation%20con%20bocche%20ampie%20ed%20espressive%2C%20occhi%20a%20palla%20e%20un%20umorismo%20affascinante.%20Texture%20di%20argilla%20opaca%2C%20oggetti%20di%20scena%20fatti%20a%20mano%20e%20un'illuminazione%20calda%20e%20pratica%20definiscono%20il%20look.)**
@@ -503,7 +511,7 @@ Importante:
 
 - **Autore:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Fonte:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%208K%20iperrealistica%20che%20mantenga%20il%20mio%20viso%2C%20i%20tratti%2C%20il%20colore%20della%20pelle%2C%20gli%20occhi%20e%20i%20capelli%20esattamente%20come%20nell'immagine%20di%20riferimento.%0ASono%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22donna%22%7D%20nella%20foto%3B%20conserva%20la%20mia%20espressione%20sicura%2C%20affascinante%20ed%20elegante%2C%20con%20un%20leggero%20sorriso%20e%20una%20postura%20rilassata.%0APosizionami%20a%20un%20evento%20automobilistico%20all'aperto%2C%20su%20una%20tribuna%20o%20in%20un%20palco%20VIP%2C%20con%20un'ampia%20vista%20della%20pista%20e%20della%20folla%20sullo%20sfondo.%20Il%20tempo%20%C3%A8%20soleggiato%2C%20con%20un%20cielo%20blu%20intenso%20e%20luce%20solare%20naturale%20che%20esalta%20i%20colori%20e%20crea%20un'atmosfera%20di%20gara%20vibrante.%0AUsa%20un'inquadratura%20a%20mezzo%20busto%2C%20che%20catturi%20la%20parte%20superiore%20del%20corpo%20e%20lo%20sfondo%20affollato%20con%20una%20leggera%20sfocatura%20della%20profondit%C3%A0%20di%20campo.%0AL'outfit%20%C3%A8%20sportivo%20ma%20sofisticato%2C%20composto%20da%3A%0A%20*%20Un%20cappellino%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20con%20il%20logo%20del%20cavallino%20rampante%20giallo%20sul%20davanti%20e%20il%20numero%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20bianco%20sulla%20visiera%3B%0A%20*%20Un%20top%20in%20denim%20strutturato%20senza%20spalline%2C%20aderente%20con%20cuciture%20a%20vista%2C%20che%20enfatizza%20la%20scollatura%20e%20la%20silhouette%3B%0A%20*%20Occhiali%20da%20sole%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20con%20lenti%20sfumate%20marroni%20e%20una%20montatura%20metallica%20rettangolare%2C%20che%20coprono%20parzialmente%20gli%20occhi%3B%0A%20*%20Una%20doppia%20collana%20%E2%80%93%20una%20con%20grandi%20maglie%20dorate%20e%20un'altra%20con%20delicati%20diamanti%20vicino%20al%20collo%3B%0A%20*%20Orecchini%20geometrici%20dorati%3B%0A%20*%20Un%20braccialetto%20d'argento%20al%20polso%20destro%3B%0A%20*%20Una%20discreta%20borsa%20rossa%20a%20tracolla%2C%20parzialmente%20visibile%20accanto%20al%20braccio.%0AI%20capelli%20sono%20naturali%20e%20sciolti.%0AIl%20trucco%20%C3%A8%20impeccabile%20e%20glamour%2C%20con%20pelle%20luminosa%2C%20occhi%20definiti%2C%20rossetto%20rosa%20e%20blush%20caldo.%0ALe%20unghie%20sono%20lunghe%20e%20decorate%20con%20nail%20art%20nei%20toni%20del%20rosa%20e%20del%20rosso%20con%20dettagli%20bianchi%2C%20visibili%20mentre%20si%20tiene%20il%20bicchiere.%0ALa%20posa%20dovrebbe%20trasmettere%20atteggiamento%20e%20sofisticazione%3A%0A%20*%20Mano%20destra%20che%20tiene%20la%20visiera%20del%20cappellino%2C%20aggiustandola%20leggermente%3B%0A%20*%20Mano%20sinistra%20che%20tiene%20un%20bicchiere%20di%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vino%20bianco%22%7D%2C%20con%20il%20braccio%20rilassato%3B%0A%20*%20Corpo%20leggermente%20inclinato%2C%20viso%20rivolto%20verso%20la%20fotocamera.%0AL'illuminazione%20%C3%A8%20naturale%20e%20intensa%2C%20con%20sottili%20riflessi%20del%20sole%20sul%20viso%20e%20sui%20capelli.%0AUsa%20una%20palette%20di%20colori%20vibrante%20%E2%80%93%20sfumature%20di%20rosso%2C%20blu%20denim%2C%20oro%20e%20caramello%2C%20contrastate%20con%20lo%20sfondo%20soleggiato.%0AL'atmosfera%20generale%20%C3%A8%20moderna%2C%20lussuosa%20e%20rilassata%2C%20esprimendo%20lo%20stile%20di%20vita%20di%20chi%20ama%20esperienze%20esclusive%2C%20con%20eleganza%20e%20una%20forte%20presenza%20a%20un%20evento%20automobilistico%20di%20prestigio.%0AQualit%C3%A0%3A%20foto%208K%20iperrealistica%2C%20messa%20a%20fuoco%20nitida%20sul%20viso%20e%20sull'outfit%2C%20sfondo%20leggermente%20sfocato%20con%20una%20folla%20colorata%20e%20la%20pista%20al%20sole.%0AImportante%3A%0A%20*%20Mantieni%20il%20mio%20viso%2C%20i%20capelli%20e%20il%20colore%20della%20pelle%20originali.%0A%20*%20Preserva%20l'autentica%20p)**
@@ -554,7 +562,7 @@ L'immagine finale dovrebbe avere una risoluzione 4K con un rapporto d'aspetto {a
 
 - **Autore:** [宝玉](https://x.com/dotey)
 - **Fonte:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20serie%20di%20emoji%20ritratto%20chibi%20a%20mezzo%20busto%2C%20colorate%20e%20disegnate%20a%20mano%2C%20in%20stile%20LINE%2C%20basate%20sui%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personaggi%20mostrati%20nell'immagine%20di%20riferimento%22%7D%2C%20assicurandoti%20che%20i%20loro%20accessori%20per%20la%20testa%20siano%20raffigurati%20accuratamente.%0A%0ADisponi%20i%20ritratti%20in%20una%20griglia%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20con%20frasi%20comuni%20di%20chat%20o%20meme%20umoristici%20pertinenti.%0AUsa%20caratteri%20in%20stile%20manoscritto%20per%20il%20testo.%0AL'output%20deve%20essere%20originale%E2%80%94non%20copiare%20direttamente%20l'immagine%20di%20riferimento.%0AL'immagine%20finale%20dovrebbe%20avere%20una%20risoluzione%204K%20con%20un%20rapporto%20d'aspetto%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
@@ -588,7 +596,7 @@ Crea un'immagine che corrisponda al seguente momento: {argument name="coordinate
 
 - **Autore:** [Alex dc](https://x.com/Alex_dc)
 - **Fonte:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un'immagine%20che%20corrisponda%20al%20seguente%20momento%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20aprile%2033%20d.C.%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%22ore%2015%3A00%22%7D)**
@@ -622,7 +630,7 @@ Crea un diagramma schematico isometrico disegnato a mano di {argument name="land
 
 - **Autore:** [TechieSA](https://x.com/TechieBySA)
 - **Fonte:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20diagramma%20schematico%20isometrico%20disegnato%20a%20mano%20di%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20con%20dimensioni%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -661,7 +669,7 @@ Una fotografia realistica in bianco e nero di una giovane donna con lunghi capel
 
 - **Autore:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Fonte:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20fotografia%20realistica%20in%20bianco%20e%20nero%20di%20una%20giovane%20donna%20con%20lunghi%20capelli%20scuri%2C%20che%20corrisponde%20fedelmente%20ai%20tratti%20del%20viso%2C%20alla%20struttura%20e%20all'espressione%20del%20soggetto%20nell'immagine%20di%20riferimento.%20Ha%20un'espressione%20imponente%20o%20seria%2C%20e%20guarda%20direttamente%20la%20fotocamera.%20Indossa%20una%20giacca%20da%20completo%20nera%2C%20una%20camicia%20bianca%20con%20colletto%20e%20una%20cravatta%20nera%20sottile.%20L'illuminazione%20%C3%A8%20drammatica%20e%20lo%20sfondo%20%C3%A8%20scuro%20e%20uniforme.%20Stile%3A%20fotorealistico%2C%20cinematografico%2C%20ad%20alto%20contrasto%2C%20bianco%20e%20nero.%20Soggetto%3A%20donna%2C%20in%20completo%20nero%2C%20camicia%20bianca%2C%20cravatta%20nera%20sottile%2C%20con%20un'espressione%20imponente%2C%20seria%2C%20sicura%20di%20s%C3%A9%2C%20inquadrata%20in%20un%20primo%20piano%20medio%2C%20frontale.)**
@@ -701,7 +709,7 @@ Scansiona il contenuto del {argument name="container_en" default="frigo"} e sugg
 
 - **Autore:** [AmirMušić](https://x.com/AmirMushich)
 - **Fonte:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Pubblicato:** 24 novembre 2025
+- **Pubblicato:** 25 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/nano-banana-pro-prompts?prompt=Scansiona%20il%20contenuto%20del%20%7Bargument%20name%3D%22container_en%22%20default%3D%22frigo%22%7D%20e%20suggerisci%20cosa%20si%20pu%C3%B2%20cucinare%20con%20gli%20ingredienti%20disponibili%2C%20fornendo%20una%20ricetta%20dettagliata%20passo-passo%20presentata%20come%20una%20semplice%20infografica.)**
@@ -8379,6 +8387,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-28T00:48:15.909Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-28T01:59:20.789Z</sub>
 
 </div>

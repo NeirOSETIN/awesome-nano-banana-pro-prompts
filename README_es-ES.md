@@ -20,6 +20,14 @@
 
 ## 🌐 Ver en la galería web
 
+<div align="center">
+
+![Cover](public/images/nano-banana-pro-prompts-cover-en.png)
+
+![List](public/images/nano-banana-pro-prompts-list-en.png)
+
+</div>
+
 **[👉 Explorar en la galería de prompts de YouMind](https://youmind.com/nano-banana-pro-prompts)**
 
 ¿Por qué usar nuestra galería?
@@ -82,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **519** |
 | ⭐ Destacado | **5** |
-| 🔄 Última actualización | **viernes, 28 de noviembre de 2025, 0:48:11 UTC** |
+| 🔄 Última actualización | **viernes, 28 de noviembre de 2025, 1:59:01 UTC** |
 
 </div>
 
@@ -398,7 +406,7 @@ Crear una imagen en {argument name="coordinates_en" default="34°36’07’’S 
 
 - **Autor:** [N≡H](https://x.com/nehuenmk)
 - **Fuente:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crear%20una%20imagen%20en%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20el%20%7Bargument%20name%3D%22date_en%22%20default%3D%2218%20de%20julio%20de%201994%22%7D%20a%20las%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
@@ -432,7 +440,7 @@ Crea una infografía que explique las fases del día, perfecta para un/a {argume
 
 - **Autor:** [Jaclyn Konzelmann](https://x.com/jacalulu)
 - **Fuente:** [Twitter Post](https://x.com/jacalulu/status/1993077750991860110)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20infograf%C3%ADa%20que%20explique%20las%20fases%20del%20d%C3%ADa%2C%20perfecta%20para%20un%2Fa%20%7Bargument%20name%3D%22child_age%22%20default%3D%22ni%C3%B1o%2Fa%20de%206%20a%C3%B1os%22%7D%2C%20al%20estilo%20de%20una%20distintiva%20animaci%C3%B3n%20de%20plastilina%20con%20bocas%20expresivas%20y%20grandes%2C%20ojos%20saltones%20y%20un%20humor%20encantador.%20Las%20texturas%20de%20plastilina%20mate%2C%20los%20accesorios%20hechos%20a%20mano%20y%20una%20iluminaci%C3%B3n%20c%C3%A1lida%20y%20pr%C3%A1ctica%20del%20set%20definen%20el%20aspecto.)**
@@ -503,7 +511,7 @@ Importante:
 
 - **Autor:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Fuente:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20hiperrealista%20en%208K%20que%20mantenga%20mi%20rostro%20real%2C%20mis%20rasgos%2C%20el%20color%20de%20mi%20piel%2C%20mis%20ojos%20y%20mi%20cabello%20exactamente%20como%20en%20la%20imagen%20de%20referencia.%0ASoy%20la%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22mujer%22%7D%20de%20la%20foto%3B%20conserva%20mi%20expresi%C3%B3n%20segura%2C%20encantadora%20y%20elegante%2C%20con%20una%20ligera%20sonrisa%20y%20una%20postura%20relajada.%0ASit%C3%BAame%20en%20un%20evento%20automovil%C3%ADstico%20al%20aire%20libre%2C%20en%20una%20tribuna%20o%20palco%20VIP%2C%20con%20una%20amplia%20vista%20de%20la%20pista%20y%20la%20multitud%20de%20fondo.%20El%20clima%20es%20soleado%2C%20con%20un%20cielo%20azul%20intenso%20y%20luz%20solar%20natural%20que%20realza%20los%20colores%20y%20crea%20una%20vibrante%20atm%C3%B3sfera%20de%20carreras.%0AUtiliza%20un%20encuadre%20de%20plano%20medio%2C%20capturando%20la%20parte%20superior%20del%20cuerpo%20y%20el%20ajetreado%20fondo%20con%20un%20ligero%20desenfoque%20de%20profundidad%20de%20campo.%0AEl%20atuendo%20es%20deportivo%20pero%20sofisticado%2C%20y%20consta%20de%3A%0A%20*%20Una%20gorra%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%2C%20con%20el%20logotipo%20del%20caballo%20rampante%20(cavallino%20rampante)%20en%20amarillo%20en%20la%20parte%20delantera%20y%20el%20n%C3%BAmero%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20en%20blanco%20en%20la%20visera%3B%0A%20*%20Un%20top%20de%20mezclilla%20estructurado%20sin%20tirantes%2C%20ajustado%20con%20costuras%20visibles%2C%20que%20realza%20el%20escote%20y%20la%20silueta%3B%0A%20*%20Gafas%20de%20sol%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20con%20lentes%20degradadas%20marrones%20y%20una%20montura%20met%C3%A1lica%20rectangular%2C%20que%20cubren%20parcialmente%20los%20ojos%3B%0A%20*%20Un%20collar%20doble%3A%20uno%20con%20grandes%20eslabones%20dorados%20y%20otro%20con%20delicados%20diamantes%20cerca%20del%20cuello%3B%0A%20*%20Pendientes%20geom%C3%A9tricos%20de%20oro%3B%0A%20*%20Una%20pulsera%20plateada%20en%20la%20mu%C3%B1eca%20derecha%3B%0A%20*%20Un%20discreto%20bolso%20rojo%20colgado%20del%20hombro%2C%20parcialmente%20visible%20junto%20al%20brazo.%0AEl%20cabello%20es%20natural%20y%20suelto.%0AEl%20maquillaje%20es%20impecable%20y%20glamuroso%2C%20con%20piel%20luminosa%2C%20ojos%20definidos%2C%20l%C3%A1piz%20labial%20rosa%20y%20rubor%20c%C3%A1lido.%0ALas%20u%C3%B1as%20son%20largas%20y%20est%C3%A1n%20decoradas%20con%20nail%20art%20en%20tonos%20rosas%20y%20rojos%20con%20detalles%20blancos%2C%20visibles%20al%20sostener%20la%20copa.%0ALa%20pose%20debe%20transmitir%20actitud%20y%20sofisticaci%C3%B3n%3A%0A%20*%20La%20mano%20derecha%20sujetando%20la%20visera%20de%20la%20gorra%2C%20ajust%C3%A1ndola%20ligeramente%3B%0A%20*%20La%20mano%20izquierda%20sosteniendo%20una%20copa%20de%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22vino%20blanco%22%7D%2C%20con%20el%20brazo%20relajado%3B%0A%20*%20El%20cuerpo%20ligeramente%20inclinado%2C%20el%20rostro%20girado%20hacia%20la%20c%C3%A1mara.%0ALa%20iluminaci%C3%B3n%20es%20natural%20e%20intensa%2C%20con%20sutiles%20reflejos%20del%20sol%20en%20el%20rostro%20y%20el%20cabello.%0AUtiliza%20una%20paleta%20de%20colores%20vibrantes%3A%20tonos%20de%20rojo%2C%20azul%20denim%2C%20dorado%20y%20caramelo%2C%20contrastados%20con%20el%20fondo%20soleado.%0AEl%20ambiente%20general%20es%20moderno%2C%20lujoso%20y%20relajado%2C%20expresando%20el%20estilo%20de%20vida%20de%20alguien%20que%20disfruta%20de%20experiencias%20exclusivas%2C%20con%20elegancia%20y%20una%20fuerte%20presencia%20en%20un%20evento%20automovil%C3%ADstico%20de%20primera%20categor%C3%ADa.%0ACalidad%3A%20foto%20hiperrealista%20en%208K%2C%20enfoque%20n%C3%ADtido%20en%20el%20rostro%20y%20el%20atuendo%2C%20fondo%20ligeramente%20desenfocado%20con%20una%20multitud%20colorida%20y%20la%20pista%20bajo%20el%20sol.%0AImportante%3A%0A%20*%20Mant%C3%A9n%20mi%20rostro%2C%20cabello%20y%20color%20de%20piel%20originales.%0A%20*%20Conserva%20la%20aut%C3%A9ntica%20p)**
@@ -554,7 +562,7 @@ La imagen final debe tener una resolución 4K con una relación de aspecto de {a
 
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Fuente:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20conjunto%20de%20retratos%20emoji%20chibi%20de%20medio%20cuerpo%2C%20coloridos%20y%20dibujados%20a%20mano%2C%20al%20estilo%20de%20LINE%2C%20basados%20en%20los%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22personajes%20que%20se%20muestran%20en%20la%20imagen%20de%20referencia%22%7D%2C%20asegur%C3%A1ndote%20de%20que%20sus%20accesorios%20de%20cabeza%20se%20representen%20con%20precisi%C3%B3n.%0A%0AOrganiza%20los%20retratos%20en%20una%20cuadr%C3%ADcula%20de%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%2C%20con%20frases%20de%20chat%20comunes%20o%20memes%20humor%C3%ADsticos%20relevantes.%0AUsa%20fuentes%20de%20estilo%20manuscrito%20para%20el%20texto.%0AEl%20resultado%20debe%20ser%20original%3B%20no%20copies%20directamente%20la%20imagen%20de%20referencia.%0ALa%20imagen%20final%20debe%20tener%20una%20resoluci%C3%B3n%204K%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D.)**
@@ -588,7 +596,7 @@ Crea una imagen que corresponda al siguiente momento: {argument name="coordinate
 
 - **Autor:** [Alex dc](https://x.com/Alex_dc)
 - **Fuente:** [Twitter Post](https://x.com/Alex_dc/status/1993035532117721560)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20que%20corresponda%20al%20siguiente%20momento%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2231.7785%C2%B0%20N%2C%2035.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date_en%22%20default%3D%223%20de%20abril%20de%2033%20d.%20C.%22%7D%2C%20%7Bargument%20name%3D%22time_en%22%20default%3D%2215%3A00%20horas%22%7D)**
@@ -622,7 +630,7 @@ Crea un diagrama esquemático isométrico dibujado a mano de {argument name="lan
 
 - **Autor:** [TechieSA](https://x.com/TechieBySA)
 - **Fuente:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20diagrama%20esquem%C3%A1tico%20isom%C3%A9trico%20dibujado%20a%20mano%20de%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20en%20dimensiones%20de%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D.)**
@@ -661,7 +669,7 @@ Una fotografía realista en blanco y negro de una mujer joven con cabello largo 
 
 - **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Fuente:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20fotograf%C3%ADa%20realista%20en%20blanco%20y%20negro%20de%20una%20mujer%20joven%20con%20cabello%20largo%20y%20oscuro%2C%20que%20coincide%20estrechamente%20con%20los%20rasgos%20faciales%2C%20la%20estructura%20y%20la%20expresi%C3%B3n%20del%20sujeto%20de%20la%20imagen%20de%20referencia.%20Tiene%20una%20expresi%C3%B3n%20imponente%20o%20seria%2C%20mirando%20directamente%20a%20la%20c%C3%A1mara.%20Viste%20una%20chaqueta%20de%20traje%20negra%2C%20una%20camisa%20blanca%20con%20cuello%20y%20una%20corbata%20negra%20delgada.%20La%20iluminaci%C3%B3n%20es%20dram%C3%A1tica%20y%20el%20fondo%20es%20oscuro%20y%20uniforme.%20Estilo%3A%20fotorrealista%2C%20cinematogr%C3%A1fico%2C%20alto%20contraste%2C%20blanco%20y%20negro.%20Sujeto%3A%20mujer%2C%20con%20traje%20negro%2C%20camisa%20blanca%2C%20corbata%20negra%20delgada%2C%20con%20una%20expresi%C3%B3n%20imponente%2C%20seria%20y%20segura%2C%20enmarcada%20en%20un%20primer%20plano%20medio%2C%20de%20frente.)**
@@ -701,7 +709,7 @@ Escanea lo que hay dentro de la {argument name="container_en" default="nevera"} 
 
 - **Autor:** [AmirMušić](https://x.com/AmirMushich)
 - **Fuente:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Publicado:** 24 de noviembre de 2025
+- **Publicado:** 25 de noviembre de 2025
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Escanea%20lo%20que%20hay%20dentro%20de%20la%20%7Bargument%20name%3D%22container_en%22%20default%3D%22nevera%22%7D%20y%20sugiere%20qu%C3%A9%20se%20puede%20cocinar%20con%20los%20ingredientes%20disponibles%2C%20proporcionando%20una%20receta%20detallada%20paso%20a%20paso%20presentada%20como%20una%20infograf%C3%ADa%20sencilla.)**
@@ -8277,6 +8285,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-28T00:48:11.803Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-28T01:59:01.509Z</sub>
 
 </div>
