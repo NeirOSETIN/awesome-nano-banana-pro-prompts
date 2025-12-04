@@ -90,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **550** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Thursday, December 4, 2025 at 12:21:57 PM UTC** |
+| 🔄 Last Updated | **Thursday, December 4, 2025 at 4:15:11 PM UTC** |
 
 </div>
 
@@ -788,19 +788,21 @@ A woman sits on the edge of a minimalist modern bed. She has long dark wavy hair
 
 ---
 
-### No. 10: Felt toys full body Nano Banana Pro prompt template
+### No. 10: Felt toy character prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A concise Nano Banana Pro prompt template for generating full-body felt toy characters with customizable subject, attributes, expressions, and environments, ideal for cute, soft, cartoonish renders.
+A flexible template prompt for generating full-body felt toy characters in different places, lighting, and moods, ideal for cute, soft-looking illustrations.
 
 #### 📝 Prompt
 
 ```
-Full body {argument name="subject" default="[Subject]"} toy, {argument name="attributes and accessories" default="[attributes/accessories]"}, {argument name="expression" default="[expression]"}, made of felt, in a {argument name="place" default="[place]"}, {argument name="lighting" default="[lighting]"}, friendly and cartoonish appearance, rich and soft textures
+Felt toys
+
+Full body {argument name="subject" default="[Subject]"} toy, {argument name="attributes and accessories" default="[attributes/accessories]"}, {argument name="expression" default="[expression]"}, made of felt, in a {argument name="place" default="[place]"}, {argument name="lighting" default="[lighting]"}, with a friendly, cartoonish appearance and rich, soft textures.
 ```
 
 #### 🖼️ Generated Images
@@ -808,25 +810,25 @@ Full body {argument name="subject" default="[Subject]"} toy, {argument name="att
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Felt toys full body Nano Banana Pro prompt template - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg" width="600" alt="Felt toy character prompt for Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Felt toys full body Nano Banana Pro prompt template - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg" width="600" alt="Felt toy character prompt for Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Felt toys full body Nano Banana Pro prompt template - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg" width="600" alt="Felt toy character prompt for Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Felt toys full body Nano Banana Pro prompt template - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg" width="600" alt="Felt toy character prompt for Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Details
@@ -836,7 +838,7 @@ Full body {argument name="subject" default="[Subject]"} toy, {argument name="att
 - **Published:** November 30, 2025
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Full%20body%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSubject%5D%22%7D%20toy%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Battributes%2Faccessories%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bexpression%5D%22%7D%2C%20made%20of%20felt%2C%20in%20a%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Bplace%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Blighting%5D%22%7D%2C%20friendly%20and%20cartoonish%20appearance%2C%20rich%20and%20soft%20textures)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Felt%20toys%0A%0AFull%20body%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSubject%5D%22%7D%20toy%2C%20%7Bargument%20name%3D%22attributes%20and%20accessories%22%20default%3D%22%5Battributes%2Faccessories%5D%22%7D%2C%20%7Bargument%20name%3D%22expression%22%20default%3D%22%5Bexpression%5D%22%7D%2C%20made%20of%20felt%2C%20in%20a%20%7Bargument%20name%3D%22place%22%20default%3D%22%5Bplace%5D%22%7D%2C%20%7Bargument%20name%3D%22lighting%22%20default%3D%22%5Blighting%5D%22%7D%2C%20with%20a%20friendly%2C%20cartoonish%20appearance%20and%20rich%2C%20soft%20textures.)**
 
 ---
 
@@ -964,41 +966,40 @@ A Nano Banana Pro JSON prompt describing a cinematic, motion-blurred film still 
 
 ---
 
-### No. 14: Nano Banana Pro contact sheet multi-shot camera prompt
+### No. 14: 3x3 cinematic contact sheet from a reference image
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A powerful instruction-style prompt that analyzes an input image and generates a 3x3 cinematic contact sheet with nine different shot types of the same subject.
+A detailed Nano Banana Pro instruction prompt for generating a 3x3 cinematic storyboard grid from an uploaded reference image, keeping the same subject while varying shot types and angles.
 
 #### 📝 Prompt
 
 ```
-Analyze the entire composition of the input image. Identify all key subjects present (whether {argument name="type of subject" default="a single person, a group/couple, a vehicle, or a specific object"}) along with their spatial relationships and interactions.
-Generate a coherent 3x3 “contact sheet” grid that shows 9 different shots of these subjects in the same environment.
-You must adapt standard cinematic shot types to fit the content (for example, keep the group together if it’s a group; include the whole object if it’s an object):
-Row 1 (Establishing the environment):
-Extreme Long Shot (ELS): The subject appears small within a vast environment.
-Long Shot (LS): The subject or group is fully visible from top to bottom (head to toe / wheels to roof).
-Medium Long Shot (American shot / three-quarter): Framed from above the knees for people, or a 3/4 view for objects.
-Row 2 (Core coverage):
-4. Medium Shot (MS): Framed from the waist up (or the central core of an object), focusing on interaction/action.
-5. Medium Close-Up (MCU): Framed from the chest up. An intimate framing of the main subject.
-6. Close-Up (CU): Tight framing on the face or the “front” of the object.
-Row 3 (Details and angles):
-7. Extreme Close-Up (ECU): Strong focus on micro details of key features (eyes, hands, logos, textures).
-8. Low Angle Shot (worm’s-eye view): Looking up at the subject from the ground (dramatic/heroic feel).
-9. High Angle Shot (bird’s-eye view): Looking down on the subject from above.
-Ensure strict consistency: across all 9 panels, the same person/object, same clothing, and same lighting. Depth of field should vary realistically (with background blur in close-ups).
+Analyze the entire composition of the input image. Identify all key subjects present (whether a single person, group/couple, vehicle, or specific object) and their spatial relationships/interactions.
+Generate a coherent 3x3 contact sheet grid that shows 9 different shots of exactly these same subjects in the same environment.
+You must adapt standard cinematic shot types to fit the content (for example, if it is a group, keep the group together; if it is an object, frame the whole object):
+Row 1 (establishing the setting):
+Extreme long shot (ELS): the subject appears small in a vast environment.
+Long shot (LS): the full subject or group is visible from top to bottom (head to toe / wheels to roof).
+Medium long shot (American shot / three-quarters): framed from above the knees (for people) or at a 3/4 perspective (for objects).
+Row 2 (core coverage):
+4. Medium shot (MS): framed from the waist up (or the central core of the object), focusing on interaction/action.
+5. Medium close-up (MCU): framed from the chest up, an intimate framing of the main subject.
+6. Close-up (CU): a tight framing on the face or the “front” of the object.
+Row 3 (details and angles):
+7. Extreme close-up (ECU): intense focus on key features (eyes, hands, logos, textures) with macro-level detail.
+8. Low-angle shot (worm’s-eye view): looking up at the subject from ground level (epic/heroic feel).
+9. High-angle shot (bird’s-eye view): looking down on the subject from above.
+Ensure strict consistency: the same person/object, the same clothing, and the same lighting must appear in all 9 panels. Depth of field should vary realistically (background blur in close-up shots).
 
 A professional 3x3 cinematic storyboard grid with 9 panels.
-The grid presents the specific subject/scene from the input image across a full range of focal lengths.
-Top row: wide environmental shot, full view, 3/4 crop (above the knees).
+The grid presents the specific subject/scene from the input image across a comprehensive range of focal lengths.
+Top row: wide environmental shot, full view, 3/4 crop (knee shot).
 Middle row: waist-up view, chest-up view, face/front close-up.
-Bottom row: macro details, low angle, high angle.
-All frames must have photorealistic textures, consistent cinematic color grading, and correct composition for the number and type of subjects or objects analyzed.
+Bottom row: macro detail, low angle, high angle.
+All frames have photorealistic textures, consistent cinematic color grading, and correct framing for the particular number of subjects or objects analyzed.
 ```
 
 #### 🖼️ Generated Images
@@ -1006,31 +1007,31 @@ All frames must have photorealistic textures, consistent cinematic color grading
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Nano Banana Pro contact sheet multi-shot camera prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="3x3 cinematic contact sheet from a reference image - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Nano Banana Pro contact sheet multi-shot camera prompt - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="3x3 cinematic contact sheet from a reference image - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Nano Banana Pro contact sheet multi-shot camera prompt - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="3x3 cinematic contact sheet from a reference image - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Nano Banana Pro contact sheet multi-shot camera prompt - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="3x3 cinematic contact sheet from a reference image - Image 4">
 </div>
 
 ##### Image 5
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Nano Banana Pro contact sheet multi-shot camera prompt - Image 5">
+<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="3x3 cinematic contact sheet from a reference image - Image 5">
 </div>
 
 #### 📌 Details
@@ -1040,7 +1041,7 @@ All frames must have photorealistic textures, consistent cinematic color grading
 - **Published:** November 29, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Analyze%20the%20entire%20composition%20of%20the%20input%20image.%20Identify%20all%20key%20subjects%20present%20(whether%20%7Bargument%20name%3D%22type%20of%20subject%22%20default%3D%22a%20single%20person%2C%20a%20group%2Fcouple%2C%20a%20vehicle%2C%20or%20a%20specific%20object%22%7D)%20along%20with%20their%20spatial%20relationships%20and%20interactions.%0AGenerate%20a%20coherent%203x3%20%E2%80%9Ccontact%20sheet%E2%80%9D%20grid%20that%20shows%209%20different%20shots%20of%20these%20subjects%20in%20the%20same%20environment.%0AYou%20must%20adapt%20standard%20cinematic%20shot%20types%20to%20fit%20the%20content%20(for%20example%2C%20keep%20the%20group%20together%20if%20it%E2%80%99s%20a%20group%3B%20include%20the%20whole%20object%20if%20it%E2%80%99s%20an%20object)%3A%0ARow%201%20(Establishing%20the%20environment)%3A%0AExtreme%20Long%20Shot%20(ELS)%3A%20The%20subject%20appears%20small%20within%20a%20vast%20environment.%0ALong%20Shot%20(LS)%3A%20The%20subject%20or%20group%20is%20fully%20visible%20from%20top%20to%20bottom%20(head%20to%20toe%20%2F%20wheels%20to%20roof).%0AMedium%20Long%20Shot%20(American%20shot%20%2F%20three-quarter)%3A%20Framed%20from%20above%20the%20knees%20for%20people%2C%20or%20a%203%2F4%20view%20for%20objects.%0ARow%202%20(Core%20coverage)%3A%0A4.%20Medium%20Shot%20(MS)%3A%20Framed%20from%20the%20waist%20up%20(or%20the%20central%20core%20of%20an%20object)%2C%20focusing%20on%20interaction%2Faction.%0A5.%20Medium%20Close-Up%20(MCU)%3A%20Framed%20from%20the%20chest%20up.%20An%20intimate%20framing%20of%20the%20main%20subject.%0A6.%20Close-Up%20(CU)%3A%20Tight%20framing%20on%20the%20face%20or%20the%20%E2%80%9Cfront%E2%80%9D%20of%20the%20object.%0ARow%203%20(Details%20and%20angles)%3A%0A7.%20Extreme%20Close-Up%20(ECU)%3A%20Strong%20focus%20on%20micro%20details%20of%20key%20features%20(eyes%2C%20hands%2C%20logos%2C%20textures).%0A8.%20Low%20Angle%20Shot%20(worm%E2%80%99s-eye%20view)%3A%20Looking%20up%20at%20the%20subject%20from%20the%20ground%20(dramatic%2Fheroic%20feel).%0A9.%20High%20Angle%20Shot%20(bird%E2%80%99s-eye%20view)%3A%20Looking%20down%20on%20the%20subject%20from%20above.%0AEnsure%20strict%20consistency%3A%20across%20all%209%20panels%2C%20the%20same%20person%2Fobject%2C%20same%20clothing%2C%20and%20same%20lighting.%20Depth%20of%20field%20should%20vary%20realistically%20(with%20background%20blur%20in%20close-ups).%0A%0AA%20professional%203x3%20cinematic%20storyboard%20grid%20with%209%20panels.%0AThe%20grid%20presents%20the%20specific%20subject%2Fscene%20from%20the%20input%20image%20across%20a%20full%20range%20of%20focal%20lengths.%0ATop%20row%3A%20wide%20environmental%20shot%2C%20full%20view%2C%203%2F4%20crop%20(above%20the%20knees).%0AMiddle%20row%3A%20waist-up%20view%2C%20chest-up%20view%2C%20face%2Ffront%20close-up.%0ABottom%20row%3A%20macro%20details%2C%20low%20angle%2C%20high%20angle.%0AAll%20frames%20must%20have%20photorealistic%20textures%2C%20consistent%20cinematic%20color%20grading%2C%20and%20correct%20composition%20for%20the%20number%20and%20type%20of%20subjects%20or%20objects%20analyzed.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Analyze%20the%20entire%20composition%20of%20the%20input%20image.%20Identify%20all%20key%20subjects%20present%20(whether%20a%20single%20person%2C%20group%2Fcouple%2C%20vehicle%2C%20or%20specific%20object)%20and%20their%20spatial%20relationships%2Finteractions.%0AGenerate%20a%20coherent%203x3%20contact%20sheet%20grid%20that%20shows%209%20different%20shots%20of%20exactly%20these%20same%20subjects%20in%20the%20same%20environment.%0AYou%20must%20adapt%20standard%20cinematic%20shot%20types%20to%20fit%20the%20content%20(for%20example%2C%20if%20it%20is%20a%20group%2C%20keep%20the%20group%20together%3B%20if%20it%20is%20an%20object%2C%20frame%20the%20whole%20object)%3A%0ARow%201%20(establishing%20the%20setting)%3A%0AExtreme%20long%20shot%20(ELS)%3A%20the%20subject%20appears%20small%20in%20a%20vast%20environment.%0ALong%20shot%20(LS)%3A%20the%20full%20subject%20or%20group%20is%20visible%20from%20top%20to%20bottom%20(head%20to%20toe%20%2F%20wheels%20to%20roof).%0AMedium%20long%20shot%20(American%20shot%20%2F%20three-quarters)%3A%20framed%20from%20above%20the%20knees%20(for%20people)%20or%20at%20a%203%2F4%20perspective%20(for%20objects).%0ARow%202%20(core%20coverage)%3A%0A4.%20Medium%20shot%20(MS)%3A%20framed%20from%20the%20waist%20up%20(or%20the%20central%20core%20of%20the%20object)%2C%20focusing%20on%20interaction%2Faction.%0A5.%20Medium%20close-up%20(MCU)%3A%20framed%20from%20the%20chest%20up%2C%20an%20intimate%20framing%20of%20the%20main%20subject.%0A6.%20Close-up%20(CU)%3A%20a%20tight%20framing%20on%20the%20face%20or%20the%20%E2%80%9Cfront%E2%80%9D%20of%20the%20object.%0ARow%203%20(details%20and%20angles)%3A%0A7.%20Extreme%20close-up%20(ECU)%3A%20intense%20focus%20on%20key%20features%20(eyes%2C%20hands%2C%20logos%2C%20textures)%20with%20macro-level%20detail.%0A8.%20Low-angle%20shot%20(worm%E2%80%99s-eye%20view)%3A%20looking%20up%20at%20the%20subject%20from%20ground%20level%20(epic%2Fheroic%20feel).%0A9.%20High-angle%20shot%20(bird%E2%80%99s-eye%20view)%3A%20looking%20down%20on%20the%20subject%20from%20above.%0AEnsure%20strict%20consistency%3A%20the%20same%20person%2Fobject%2C%20the%20same%20clothing%2C%20and%20the%20same%20lighting%20must%20appear%20in%20all%209%20panels.%20Depth%20of%20field%20should%20vary%20realistically%20(background%20blur%20in%20close-up%20shots).%0A%0AA%20professional%203x3%20cinematic%20storyboard%20grid%20with%209%20panels.%0AThe%20grid%20presents%20the%20specific%20subject%2Fscene%20from%20the%20input%20image%20across%20a%20comprehensive%20range%20of%20focal%20lengths.%0ATop%20row%3A%20wide%20environmental%20shot%2C%20full%20view%2C%203%2F4%20crop%20(knee%20shot).%0AMiddle%20row%3A%20waist-up%20view%2C%20chest-up%20view%2C%20face%2Ffront%20close-up.%0ABottom%20row%3A%20macro%20detail%2C%20low%20angle%2C%20high%20angle.%0AAll%20frames%20have%20photorealistic%20textures%2C%20consistent%20cinematic%20color%20grading%2C%20and%20correct%20framing%20for%20the%20particular%20number%20of%20subjects%20or%20objects%20analyzed.)**
 
 ---
 
@@ -1118,24 +1119,85 @@ A Nano Banana Pro JSON-style prompt focused on recreating a woman exactly like t
 
 ---
 
-### No. 17: Ultra-realistic portrait JSON prompt with reference image
+### No. 17: Ultra-realistic seaside hotel portrait prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A Nano Banana Pro JSON prompt configuration for ultra-realistic portraits that strictly match a reference photo’s face and outfit using high reference fidelity.
+A comprehensive JSON-style prompt for creating an ultra-realistic close-up portrait of a woman at a luxury seaside hotel table, matching a reference image exactly, with detailed fashion, jewelry, props, and lighting options.
 
 #### 📝 Prompt
 
 ```
 {
-  "project": "{argument name="project name" default="Ultra-Realistic Portrait"}",
+  "project": "Ultra-Realistic Portrait",
   "reference_settings": {
     "use_reference_image": true,
-    "fidelity_strength": "{argument name="fidelity strength" default="100%"}",
+    "fidelity_strength": "100%",
     "instruction": "Face and outfit must match reference photo 100% with absolutely no alterations."
+  },
+  "subject": {
+    "demographics": "{argument name="subject" default="Woman"}",
+    "focus_features": ["Eyes", "Nose", "Lips"],
+    "expression": "{argument name="expression" default="Smiling, cute, fresh, dreamy, slightly sensual"}",
+    "pose": "{argument name="pose" default="Sitting at a white table, resting chin on both hands, turning slightly"}",
+    "hair": {
+      "style": "{argument name="hair style" default="Straight, large top bun"}",
+      "accessory": "{argument name="hair accessory" default="Bow matching the outfit"}",
+      "texture": "Soft layered, loose strands falling naturally across face",
+      "movement": "Slightly blown by wind"
+    },
+    "makeup": {
+      "cheeks": "Natural blush on cheeks and nose",
+      "lips": "Full lips, soft pink-peach tone"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "Exact match to reference image",
+    "shoes": "High-heel shoes (matching reference)",
+    "bag": "Same bag as reference photo",
+    "jewelry": {
+      "necklace": "Thin gold with alternating charms (heart, crescent moon, Gucci pendant)",
+      "bracelet": "Delicate Gucci bracelet with charms",
+      "rings": "Gold rings",
+      "watch": "Steel-band Patek Philippe",
+      "earrings": "Small gold Gucci earrings"
+    }
+  },
+  "environment": {
+    "location": "{argument name="location" default="Luxury hotel terrace / Seaside"}",
+    "time_of_day_options": [
+      "Option A: {argument name="evening option" default="Deep blue evening sky, stars, shooting star, moonlight"}",
+      "Option B: {argument name="sunrise option" default="Early sunrise, orange-yellow sky tones"}"
+    ],
+    "background_elements": [
+      "Warm reflections from luxury hotel",
+      "Calm seascape"
+    ]
+  },
+  "props": {
+    "table_setting": "White table",
+    "items": [
+      "Glass with a single white rose",
+      "Wine glass",
+      "Wine bottle",
+      "Plate set with knife and fork",
+      "Large T-bone steak in center",
+      "Candle glass (adding warm highlight)"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "2000s digital-camera flash style",
+    "lighting": "Realistic flash brightness, warm tone, slight shine on skin",
+    "mood": "Relaxing, warm, nostalgic, stylish, elegant, slightly sexy",
+    "shot_type": "Close-up portrait"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "detail_level": "8k",
+    "style_tags": ["photo", "realistic", "flash photography"]
   }
 }
 ```
@@ -1145,7 +1207,7 @@ A Nano Banana Pro JSON prompt configuration for ultra-realistic portraits that s
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Ultra-realistic portrait JSON prompt with reference image - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Ultra-realistic seaside hotel portrait prompt for Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -1155,22 +1217,22 @@ A Nano Banana Pro JSON prompt configuration for ultra-realistic portraits that s
 - **Published:** November 29, 2025
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%7Bargument%20name%3D%22project%20name%22%20default%3D%22Ultra-Realistic%20Portrait%22%7D%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%22fidelity%20strength%22%20default%3D%22100%25%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Face%20and%20outfit%20must%20match%20reference%20photo%20100%25%20with%20absolutely%20no%20alterations.%22%0A%20%20%7D%0A%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22Ultra-Realistic%20Portrait%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22100%25%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22Face%20and%20outfit%20must%20match%20reference%20photo%20100%25%20with%20absolutely%20no%20alterations.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%22subject%22%20default%3D%22Woman%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22Eyes%22%2C%20%22Nose%22%2C%20%22Lips%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%22expression%22%20default%3D%22Smiling%2C%20cute%2C%20fresh%2C%20dreamy%2C%20slightly%20sensual%22%7D%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%7Bargument%20name%3D%22pose%22%20default%3D%22Sitting%20at%20a%20white%20table%2C%20resting%20chin%20on%20both%20hands%2C%20turning%20slightly%22%7D%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%22hair%20style%22%20default%3D%22Straight%2C%20large%20top%20bun%22%7D%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%7Bargument%20name%3D%22hair%20accessory%22%20default%3D%22Bow%20matching%20the%20outfit%22%7D%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22Soft%20layered%2C%20loose%20strands%20falling%20naturally%20across%20face%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22Slightly%20blown%20by%20wind%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22Natural%20blush%20on%20cheeks%20and%20nose%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Full%20lips%2C%20soft%20pink-peach%20tone%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Exact%20match%20to%20reference%20image%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22High-heel%20shoes%20(matching%20reference)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22Same%20bag%20as%20reference%20photo%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22Thin%20gold%20with%20alternating%20charms%20(heart%2C%20crescent%20moon%2C%20Gucci%20pendant)%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22Delicate%20Gucci%20bracelet%20with%20charms%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22Gold%20rings%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22Steel-band%20Patek%20Philippe%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22Small%20gold%20Gucci%20earrings%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%7Bargument%20name%3D%22location%22%20default%3D%22Luxury%20hotel%20terrace%20%2F%20Seaside%22%7D%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22Option%20A%3A%20%7Bargument%20name%3D%22evening%20option%22%20default%3D%22Deep%20blue%20evening%20sky%2C%20stars%2C%20shooting%20star%2C%20moonlight%22%7D%22%2C%0A%20%20%20%20%20%20%22Option%20B%3A%20%7Bargument%20name%3D%22sunrise%20option%22%20default%3D%22Early%20sunrise%2C%20orange-yellow%20sky%20tones%22%7D%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22Warm%20reflections%20from%20luxury%20hotel%22%2C%0A%20%20%20%20%20%20%22Calm%20seascape%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22White%20table%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22Glass%20with%20a%20single%20white%20rose%22%2C%0A%20%20%20%20%20%20%22Wine%20glass%22%2C%0A%20%20%20%20%20%20%22Wine%20bottle%22%2C%0A%20%20%20%20%20%20%22Plate%20set%20with%20knife%20and%20fork%22%2C%0A%20%20%20%20%20%20%22Large%20T-bone%20steak%20in%20center%22%2C%0A%20%20%20%20%20%20%22Candle%20glass%20(adding%20warm%20highlight)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%222000s%20digital-camera%20flash%20style%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22Realistic%20flash%20brightness%2C%20warm%20tone%2C%20slight%20shine%20on%20skin%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Relaxing%2C%20warm%2C%20nostalgic%2C%20stylish%2C%20elegant%2C%20slightly%20sexy%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22Close-up%20portrait%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%228k%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22photo%22%2C%20%22realistic%22%2C%20%22flash%20photography%22%5D%0A%20%20%7D%0A%7D)**
 
 ---
 
-### No. 18: Nano Banana Pro prompt for restoring old photos into modern portraits
+### No. 18: Old photo restoration to modern portrait prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A detailed English–Chinese prompt pair for using Nano Banana Pro to turn an old photo into a modern, high-quality digital portrait while preserving the original pose and expression. Great for photo restoration workflows where you want updated colors and styling but high likeness to the original image.
+A bilingual prompt for turning an old photo into a modern high-quality digital portrait while preserving pose and expression, suitable for Nano Banana Pro photo restoration.
 
 #### 📝 Prompt
 
 ```
-Transform the image into a modern, high-quality digital portrait with vibrant updated colors, smooth and realistic skin textures, and natural lighting. Upgrade the outfit and background into a clean, modern aesthetic while preserving the authenticity of the original pose and expression.
+Transform into a modern high-quality digital portrait with vibrant updated colors, smooth realistic skin textures, and natural lighting. The outfit and background should be upgraded into a clean, modern aesthetic while preserving the authenticity of the original pose and expression.
 ```
 
 #### 🖼️ Generated Images
@@ -1178,25 +1240,25 @@ Transform the image into a modern, high-quality digital portrait with vibrant up
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Nano Banana Pro prompt for restoring old photos into modern portraits - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Old photo restoration to modern portrait prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Nano Banana Pro prompt for restoring old photos into modern portraits - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Old photo restoration to modern portrait prompt - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Nano Banana Pro prompt for restoring old photos into modern portraits - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Old photo restoration to modern portrait prompt - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Nano Banana Pro prompt for restoring old photos into modern portraits - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Old photo restoration to modern portrait prompt - Image 4">
 </div>
 
 #### 📌 Details
@@ -1206,7 +1268,7 @@ Transform the image into a modern, high-quality digital portrait with vibrant up
 - **Published:** November 29, 2025
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Transform%20the%20image%20into%20a%20modern%2C%20high-quality%20digital%20portrait%20with%20vibrant%20updated%20colors%2C%20smooth%20and%20realistic%20skin%20textures%2C%20and%20natural%20lighting.%20Upgrade%20the%20outfit%20and%20background%20into%20a%20clean%2C%20modern%20aesthetic%20while%20preserving%20the%20authenticity%20of%20the%20original%20pose%20and%20expression.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Transform%20into%20a%20modern%20high-quality%20digital%20portrait%20with%20vibrant%20updated%20colors%2C%20smooth%20realistic%20skin%20textures%2C%20and%20natural%20lighting.%20The%20outfit%20and%20background%20should%20be%20upgraded%20into%20a%20clean%2C%20modern%20aesthetic%20while%20preserving%20the%20authenticity%20of%20the%20original%20pose%20and%20expression.)**
 
 ---
 
@@ -1306,30 +1368,29 @@ Please use the person in the attached image. Their name is {argument name="name"
 ### No. 21: Futuristic glassmorphism PPT design prompt for Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A detailed PPT-generation prompt that turns you into an expert UI/UX slide designer, creating high-fidelity, futuristic glassmorphism-style 16:9 presentations inspired by Apple Keynote and modern SaaS design.
+A long-form Nano Banana Pro prompt for generating high-fidelity, futuristic 16:9 presentation slides in a glassmorphism SaaS/Keynote style, suitable for PPT generation features.
 
 #### 📝 Prompt
 
 ```
-You are an expert-level UI/UX presentation designer. Generate high-fidelity, futuristic 16:9 presentation slides. Based on principles of visual balance and aesthetics, automatically choose the most perfect composition among a cover, grid layout, or data visualization.
+You are an expert-level UI/UX presentation designer. Generate high-fidelity, futuristic 16:9 presentation slides. Based on visual balance and aesthetics, automatically choose the most perfect composition among a cover layout, grid layout, or data visualization.
 
-For the global visual language, the style should seamlessly blend Apple Keynote minimalism, modern SaaS product design, and glassmorphism. The overall mood should feel high-end, immersive, clean, and breathable. Use cinematic volumetric lighting, soft ray-traced reflections, and ambient occlusion. The color scheme should use {argument name="base color" default="deep void black or pure ceramic white"} as the foundation, accented with flowing aurora gradients such as {argument name="gradient accent colors" default="neon purple, electric blue, soft coral orange, cyan"} for the background and UI highlights.
+For the overall visual language, the style should seamlessly blend the minimalism of Apple Keynote, modern SaaS product design, and glassmorphism. The overall mood should feel high-end, immersive, clean, and breathable. Use cinematic volumetric lighting, soft ray-traced reflections, and ambient occlusion. For the color scheme, choose either deep void black or pure ceramic white as the base, accented with flowing aurora gradients—neon purple, electric blue, soft coral orange, and cyan—as the background and UI highlights.
 
-For the content modules in the visuals, intelligently integrate the following elements:
+For the content modules on each slide, intelligently integrate the following elements:
 
-1. Use a bento-box grid system as the layout engine, organizing content into modular rounded-rectangle containers. The containers must have a frosted glass material with blur, delicate white borders, and soft shadows, and they must preserve large internal whitespace to avoid crowding.
+1. Use a Bento-box grid system as the layout engine, organizing content into modular rounded-rectangle containers. The containers must have a frosted glass material with blur, delicate white edges, and soft shadows, while enforcing generous internal white space to avoid clutter.
 
-2. Insert 3D objects with a luxurious gift-like texture, rendering unique high-end abstract 3D pieces as visual anchors. Their appearance should resemble expensive physical gifts or collectibles, with materials such as {argument name="3D object materials" default="polished metal, iridescent acrylic, transparent glass, or soft silicone"}, and shapes such as {argument name="3D object shapes" default="floating capsules, spheres, shields, Möbius strips, or fluid waves"}.
+2. Insert gift-like 3D objects, rendering unique high-end abstract 3D pieces as visual anchors. They should look like tangible, expensive gifts or collectibles, with materials such as polished metal, iridescent acrylic, transparent glass, or soft silicone, and shapes like floating capsules, spheres, shields, Möbius strips, or fluid waves.
 
-3. For typography and data, use clean sans-serif fonts with high contrast. If there are charts, use glowing 3D donut charts, capsule-shaped progress bars, or floating digits, and make the charts look like glowing neon toys.
+3. For typography and data, use clean sans-serif fonts with strong contrast. If there are charts, use glowing 3D donut charts, capsule-shaped progress bars, or floating numbers; the charts should look like glowing neon toys.
 
-Composition logic reference: If generating a cover slide, place a huge, complex 3D glass object in the center, overlay bold large text, and extend aurora waves in the background. If generating a content slide, use a bento grid layout, placing 3D icons in small cards and text in large cards. If generating a data slide, use a split-screen layout: text arranged on the left, and a huge floating glowing 3D data visualization chart on the right.
+Composition logic reference: If generating a cover page, place a large, complex 3D glass object in the center with bold large text over it, and extended aurora waves in the background. If generating a content page, use a Bento grid layout with 3D icons on small cards and text on large cards. If generating a data page, use a split-screen design with text typeset on the left and a large, glowing 3D data visualization chart floating on the right.
 
-Rendering requirements: Unreal Engine 5 rendering, 8K resolution, ultra-detailed textures, strong UI design sense, UX interface quality, trending on Dribbble, award-winning design work.
+Rendering quality requirements: Unreal Engine 5 rendering, 8K resolution, ultra-detailed textures, strong UI design sense, UX interface quality, Dribbble trending style, award-winning design work.
 ```
 
 #### 🖼️ Generated Images
@@ -1347,7 +1408,7 @@ Rendering requirements: Unreal Engine 5 rendering, 8K resolution, ultra-detailed
 - **Published:** November 29, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=You%20are%20an%20expert-level%20UI%2FUX%20presentation%20designer.%20Generate%20high-fidelity%2C%20futuristic%2016%3A9%20presentation%20slides.%20Based%20on%20principles%20of%20visual%20balance%20and%20aesthetics%2C%20automatically%20choose%20the%20most%20perfect%20composition%20among%20a%20cover%2C%20grid%20layout%2C%20or%20data%20visualization.%0A%0AFor%20the%20global%20visual%20language%2C%20the%20style%20should%20seamlessly%20blend%20Apple%20Keynote%20minimalism%2C%20modern%20SaaS%20product%20design%2C%20and%20glassmorphism.%20The%20overall%20mood%20should%20feel%20high-end%2C%20immersive%2C%20clean%2C%20and%20breathable.%20Use%20cinematic%20volumetric%20lighting%2C%20soft%20ray-traced%20reflections%2C%20and%20ambient%20occlusion.%20The%20color%20scheme%20should%20use%20%7Bargument%20name%3D%22base%20color%22%20default%3D%22deep%20void%20black%20or%20pure%20ceramic%20white%22%7D%20as%20the%20foundation%2C%20accented%20with%20flowing%20aurora%20gradients%20such%20as%20%7Bargument%20name%3D%22gradient%20accent%20colors%22%20default%3D%22neon%20purple%2C%20electric%20blue%2C%20soft%20coral%20orange%2C%20cyan%22%7D%20for%20the%20background%20and%20UI%20highlights.%0A%0AFor%20the%20content%20modules%20in%20the%20visuals%2C%20intelligently%20integrate%20the%20following%20elements%3A%0A%0A1.%20Use%20a%20bento-box%20grid%20system%20as%20the%20layout%20engine%2C%20organizing%20content%20into%20modular%20rounded-rectangle%20containers.%20The%20containers%20must%20have%20a%20frosted%20glass%20material%20with%20blur%2C%20delicate%20white%20borders%2C%20and%20soft%20shadows%2C%20and%20they%20must%20preserve%20large%20internal%20whitespace%20to%20avoid%20crowding.%0A%0A2.%20Insert%203D%20objects%20with%20a%20luxurious%20gift-like%20texture%2C%20rendering%20unique%20high-end%20abstract%203D%20pieces%20as%20visual%20anchors.%20Their%20appearance%20should%20resemble%20expensive%20physical%20gifts%20or%20collectibles%2C%20with%20materials%20such%20as%20%7Bargument%20name%3D%223D%20object%20materials%22%20default%3D%22polished%20metal%2C%20iridescent%20acrylic%2C%20transparent%20glass%2C%20or%20soft%20silicone%22%7D%2C%20and%20shapes%20such%20as%20%7Bargument%20name%3D%223D%20object%20shapes%22%20default%3D%22floating%20capsules%2C%20spheres%2C%20shields%2C%20M%C3%B6bius%20strips%2C%20or%20fluid%20waves%22%7D.%0A%0A3.%20For%20typography%20and%20data%2C%20use%20clean%20sans-serif%20fonts%20with%20high%20contrast.%20If%20there%20are%20charts%2C%20use%20glowing%203D%20donut%20charts%2C%20capsule-shaped%20progress%20bars%2C%20or%20floating%20digits%2C%20and%20make%20the%20charts%20look%20like%20glowing%20neon%20toys.%0A%0AComposition%20logic%20reference%3A%20If%20generating%20a%20cover%20slide%2C%20place%20a%20huge%2C%20complex%203D%20glass%20object%20in%20the%20center%2C%20overlay%20bold%20large%20text%2C%20and%20extend%20aurora%20waves%20in%20the%20background.%20If%20generating%20a%20content%20slide%2C%20use%20a%20bento%20grid%20layout%2C%20placing%203D%20icons%20in%20small%20cards%20and%20text%20in%20large%20cards.%20If%20generating%20a%20data%20slide%2C%20use%20a%20split-screen%20layout%3A%20text%20arranged%20on%20the%20left%2C%20and%20a%20huge%20floating%20glowing%203D%20data%20visualization%20chart%20on%20the%20right.%0A%0ARendering%20requirements%3A%20Unreal%20Engine%205%20rendering%2C%208K%20resolution%2C%20ultra-detailed%20textures%2C%20strong%20UI%20design%20sense%2C%20UX%20interface%20quality%2C%20trending%20on%20Dribbble%2C%20award-winning%20design%20work.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=You%20are%20an%20expert-level%20UI%2FUX%20presentation%20designer.%20Generate%20high-fidelity%2C%20futuristic%2016%3A9%20presentation%20slides.%20Based%20on%20visual%20balance%20and%20aesthetics%2C%20automatically%20choose%20the%20most%20perfect%20composition%20among%20a%20cover%20layout%2C%20grid%20layout%2C%20or%20data%20visualization.%0A%0AFor%20the%20overall%20visual%20language%2C%20the%20style%20should%20seamlessly%20blend%20the%20minimalism%20of%20Apple%20Keynote%2C%20modern%20SaaS%20product%20design%2C%20and%20glassmorphism.%20The%20overall%20mood%20should%20feel%20high-end%2C%20immersive%2C%20clean%2C%20and%20breathable.%20Use%20cinematic%20volumetric%20lighting%2C%20soft%20ray-traced%20reflections%2C%20and%20ambient%20occlusion.%20For%20the%20color%20scheme%2C%20choose%20either%20deep%20void%20black%20or%20pure%20ceramic%20white%20as%20the%20base%2C%20accented%20with%20flowing%20aurora%20gradients%E2%80%94neon%20purple%2C%20electric%20blue%2C%20soft%20coral%20orange%2C%20and%20cyan%E2%80%94as%20the%20background%20and%20UI%20highlights.%0A%0AFor%20the%20content%20modules%20on%20each%20slide%2C%20intelligently%20integrate%20the%20following%20elements%3A%0A%0A1.%20Use%20a%20Bento-box%20grid%20system%20as%20the%20layout%20engine%2C%20organizing%20content%20into%20modular%20rounded-rectangle%20containers.%20The%20containers%20must%20have%20a%20frosted%20glass%20material%20with%20blur%2C%20delicate%20white%20edges%2C%20and%20soft%20shadows%2C%20while%20enforcing%20generous%20internal%20white%20space%20to%20avoid%20clutter.%0A%0A2.%20Insert%20gift-like%203D%20objects%2C%20rendering%20unique%20high-end%20abstract%203D%20pieces%20as%20visual%20anchors.%20They%20should%20look%20like%20tangible%2C%20expensive%20gifts%20or%20collectibles%2C%20with%20materials%20such%20as%20polished%20metal%2C%20iridescent%20acrylic%2C%20transparent%20glass%2C%20or%20soft%20silicone%2C%20and%20shapes%20like%20floating%20capsules%2C%20spheres%2C%20shields%2C%20M%C3%B6bius%20strips%2C%20or%20fluid%20waves.%0A%0A3.%20For%20typography%20and%20data%2C%20use%20clean%20sans-serif%20fonts%20with%20strong%20contrast.%20If%20there%20are%20charts%2C%20use%20glowing%203D%20donut%20charts%2C%20capsule-shaped%20progress%20bars%2C%20or%20floating%20numbers%3B%20the%20charts%20should%20look%20like%20glowing%20neon%20toys.%0A%0AComposition%20logic%20reference%3A%20If%20generating%20a%20cover%20page%2C%20place%20a%20large%2C%20complex%203D%20glass%20object%20in%20the%20center%20with%20bold%20large%20text%20over%20it%2C%20and%20extended%20aurora%20waves%20in%20the%20background.%20If%20generating%20a%20content%20page%2C%20use%20a%20Bento%20grid%20layout%20with%203D%20icons%20on%20small%20cards%20and%20text%20on%20large%20cards.%20If%20generating%20a%20data%20page%2C%20use%20a%20split-screen%20design%20with%20text%20typeset%20on%20the%20left%20and%20a%20large%2C%20glowing%203D%20data%20visualization%20chart%20floating%20on%20the%20right.%0A%0ARendering%20quality%20requirements%3A%20Unreal%20Engine%205%20rendering%2C%208K%20resolution%2C%20ultra-detailed%20textures%2C%20strong%20UI%20design%20sense%2C%20UX%20interface%20quality%2C%20Dribbble%20trending%20style%2C%20award-winning%20design%20work.)**
 
 ---
 
@@ -1831,24 +1892,85 @@ Create a perspective drawing from the rough sketch of an exhibition booth.
 
 ---
 
-### No. 31: Gym yoga mat portrait Nano Banana prompt
+### No. 31: Gym selfie-style yoga mat portrait prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A Nano Banana prompt describing a young woman post-workout on a yoga mat, meant for photorealistic gym photography-style generations and likely used as a template for similar fitness shots.
+A structured JSON prompt for generating a modern gym selfie of a young woman on a yoga mat, with detailed clothing, accessories, background, and lighting.
 
 #### 📝 Prompt
 
 ```
 {
   "subject": {
-    "description": "{argument name="subject description" default="A young woman sitting on a yoga mat, wiping sweat with a towel, holding a water bottle"}",
-    "mirror_rules": "{argument name="mirror rules" default="N/A - direct gym photo"}",
-    "age": "{argument name="age" default="late 20s"}",
-    "expression": "{argument name="expression" default="accomplished, slightly out of breath, confident"}"
+    "description": "A young woman sitting on a yoga mat, wiping sweat with a towel, holding a water bottle",
+    "mirror_rules": "N/A - direct gym photo",
+    "age": "late 20s",
+    "expression": "accomplished, slightly out of breath, confident smile",
+    "hair": {
+      "color": "{argument name="hair color" default="blonde with highlights"}",
+      "style": "{argument name="hair style" default="high ponytail, slightly messy with flyaways from workout"}"
+    },
+    "clothing": {
+      "top": {
+        "type": "sports bra",
+        "color": "{argument name="top color" default="dusty rose pink"}",
+        "details": "medium support, strappy back detail, moisture visible from sweat"
+      },
+      "bottom": {
+        "type": "high-waisted leggings",
+        "color": "black with mesh panels",
+        "details": "ankle length, mesh cutouts on calves, compression fit"
+      }
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "minimal, dewy from workout, naturally flushed cheeks, no eye makeup"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "none",
+      "details": "hair pulled back in a scrunchie"
+    },
+    "jewelry": {
+      "earrings": "small diamond studs",
+      "necklace": "none",
+      "wrist": "rose gold fitness tracker, black hair ties on wrist",
+      "rings": "none"
+    },
+    "device": {
+      "type": "smartphone",
+      "details": "propped against a dumbbell, recording a workout selfie"
+    },
+    "prop": {
+      "type": "insulated water bottle",
+      "details": "matte black 32oz bottle with a motivational quote sticker, condensation visible"
+    }
+  },
+  "photography": {
+    "camera_style": "gym selfie aesthetic, smartphone front camera",
+    "angle": "slightly above eye level, sitting position",
+    "shot_type": "full upper body and crossed legs, centered composition",
+    "aspect_ratio": "{argument name="aspect ratio" default="9:16 vertical"}",
+    "texture": "crisp detail, bright gym lighting, energetic feel"
+  },
+  "background": {
+    "setting": "modern gym studio",
+    "wall_color": "light gray with a motivational mural",
+    "elements": [
+      "purple yoga mat laid out",
+      "set of dumbbells scattered nearby",
+      "white towel draped over her shoulder",
+      "blurred gym equipment in the background",
+      "large mirror reflecting the back wall",
+      "resistance bands coiled on the floor"
+    ],
+    "atmosphere": "energetic, accomplished, health-focused",
+    "lighting": "bright overhead LED gym lighting, even coverage"
   }
 }
 ```
@@ -1858,7 +1980,7 @@ A Nano Banana prompt describing a young woman post-workout on a yoga mat, meant 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Gym yoga mat portrait Nano Banana prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Gym selfie-style yoga mat portrait prompt for Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Details
@@ -1868,7 +1990,7 @@ A Nano Banana prompt describing a young woman post-workout on a yoga mat, meant 
 - **Published:** November 28, 2025
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%7Bargument%20name%3D%22subject%20description%22%20default%3D%22A%20young%20woman%20sitting%20on%20a%20yoga%20mat%2C%20wiping%20sweat%20with%20a%20towel%2C%20holding%20a%20water%20bottle%22%7D%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%7Bargument%20name%3D%22mirror%20rules%22%20default%3D%22N%2FA%20-%20direct%20gym%20photo%22%7D%22%2C%0A%20%20%20%20%22age%22%3A%20%22%7Bargument%20name%3D%22age%22%20default%3D%22late%2020s%22%7D%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%7Bargument%20name%3D%22expression%22%20default%3D%22accomplished%2C%20slightly%20out%20of%20breath%2C%20confident%22%7D%22%0A%20%20%7D%0A%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22A%20young%20woman%20sitting%20on%20a%20yoga%20mat%2C%20wiping%20sweat%20with%20a%20towel%2C%20holding%20a%20water%20bottle%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22N%2FA%20-%20direct%20gym%20photo%22%2C%0A%20%20%20%20%22age%22%3A%20%22late%2020s%22%2C%0A%20%20%20%20%22expression%22%3A%20%22accomplished%2C%20slightly%20out%20of%20breath%2C%20confident%20smile%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%22hair%20color%22%20default%3D%22blonde%20with%20highlights%22%7D%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%22hair%20style%22%20default%3D%22high%20ponytail%2C%20slightly%20messy%20with%20flyaways%20from%20workout%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22sports%20bra%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%7Bargument%20name%3D%22top%20color%22%20default%3D%22dusty%20rose%20pink%22%7D%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22medium%20support%2C%20strappy%20back%20detail%2C%20moisture%20visible%20from%20sweat%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22high-waisted%20leggings%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22black%20with%20mesh%20panels%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22ankle%20length%2C%20mesh%20cutouts%20on%20calves%2C%20compression%20fit%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22minimal%2C%20dewy%20from%20workout%2C%20naturally%20flushed%20cheeks%2C%20no%20eye%20makeup%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22none%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22hair%20pulled%20back%20in%20a%20scrunchie%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22small%20diamond%20studs%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22none%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22rose%20gold%20fitness%20tracker%2C%20black%20hair%20ties%20on%20wrist%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22none%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22smartphone%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22propped%20against%20a%20dumbbell%2C%20recording%20a%20workout%20selfie%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22insulated%20water%20bottle%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22matte%20black%2032oz%20bottle%20with%20a%20motivational%20quote%20sticker%2C%20condensation%20visible%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22gym%20selfie%20aesthetic%2C%20smartphone%20front%20camera%22%2C%0A%20%20%20%20%22angle%22%3A%20%22slightly%20above%20eye%20level%2C%20sitting%20position%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22full%20upper%20body%20and%20crossed%20legs%2C%20centered%20composition%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%229%3A16%20vertical%22%7D%22%2C%0A%20%20%20%20%22texture%22%3A%20%22crisp%20detail%2C%20bright%20gym%20lighting%2C%20energetic%20feel%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22modern%20gym%20studio%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22light%20gray%20with%20a%20motivational%20mural%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22purple%20yoga%20mat%20laid%20out%22%2C%0A%20%20%20%20%20%20%22set%20of%20dumbbells%20scattered%20nearby%22%2C%0A%20%20%20%20%20%20%22white%20towel%20draped%20over%20her%20shoulder%22%2C%0A%20%20%20%20%20%20%22blurred%20gym%20equipment%20in%20the%20background%22%2C%0A%20%20%20%20%20%20%22large%20mirror%20reflecting%20the%20back%20wall%22%2C%0A%20%20%20%20%20%20%22resistance%20bands%20coiled%20on%20the%20floor%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22energetic%2C%20accomplished%2C%20health-focused%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22bright%20overhead%20LED%20gym%20lighting%2C%20even%20coverage%22%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -6376,19 +6498,23 @@ Create a video ad for a new artisan bakery.
 
 ---
 
-### No. 146: Tang poetry learning cards
+### No. 146: Educational flashcard and learning card prompts
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A prompt for generating learning cards for famous Tang poems, combining full text, matching imagery, and simple annotations to help students understand the poem’s mood and background.
+A set of three Nano Banana Pro prompts for generating physics law infographics, English situational dialogue cards, and Chinese poetry learning cards for students.
 
 #### 📝 Prompt
 
 ```
-Create {argument name="poem_count_en" default="10"} learning cards for famous Tang poems. Each image should contain the full text of the poem, and the visuals must match the content of the lines and the overall mood, making it easier for students to understand the background and atmosphere of the poem. Include simple Chinese annotations.
+Physics law prompt: Generate infographic cards for {argument name="physics law scope" default="all physics laws in the middle school textbook"}, one image per law. The content should be easy to understand and accessible so that middle school students can read and grasp it easily.
+
+English card prompt: Help me generate English learning cards, one image per card, presented through everyday life scenarios such as {argument name="English scenario examples" default="ordering food, asking for directions when traveling, hotels, airport check-in, and other common situations"}. Each card should include a dialogue scene between people and the main commonly used sentences, and also list the key vocabulary (with phonetic transcription and meanings, etc.). Start with {argument name="number of English scenarios" default="12"} scenarios for me to review.
+
+Poetry card prompt: Generate learning cards for {argument name="number of poems" default="10"} famous Tang poems. Each image should include the full text of the poem, and the visuals should match the content of the lines and align with the poem’s mood and imagery, helping students understand the background and atmosphere. Include simple Chinese annotations.
 ```
 
 #### 🖼️ Generated Images
@@ -6396,7 +6522,7 @@ Create {argument name="poem_count_en" default="10"} learning cards for famous Ta
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Tang poetry learning cards - Image 1">
+<img src="https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg" width="600" alt="Educational flashcard and learning card prompts - Image 1">
 </div>
 
 #### 📌 Details
@@ -6406,7 +6532,7 @@ Create {argument name="poem_count_en" default="10"} learning cards for famous Ta
 - **Published:** November 22, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20learning%20cards%20for%20famous%20Tang%20poems.%20Each%20image%20should%20contain%20the%20full%20text%20of%20the%20poem%2C%20and%20the%20visuals%20must%20match%20the%20content%20of%20the%20lines%20and%20the%20overall%20mood%2C%20making%20it%20easier%20for%20students%20to%20understand%20the%20background%20and%20atmosphere%20of%20the%20poem.%20Include%20simple%20Chinese%20annotations.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Physics%20law%20prompt%3A%20Generate%20infographic%20cards%20for%20%7Bargument%20name%3D%22physics%20law%20scope%22%20default%3D%22all%20physics%20laws%20in%20the%20middle%20school%20textbook%22%7D%2C%20one%20image%20per%20law.%20The%20content%20should%20be%20easy%20to%20understand%20and%20accessible%20so%20that%20middle%20school%20students%20can%20read%20and%20grasp%20it%20easily.%0A%0AEnglish%20card%20prompt%3A%20Help%20me%20generate%20English%20learning%20cards%2C%20one%20image%20per%20card%2C%20presented%20through%20everyday%20life%20scenarios%20such%20as%20%7Bargument%20name%3D%22English%20scenario%20examples%22%20default%3D%22ordering%20food%2C%20asking%20for%20directions%20when%20traveling%2C%20hotels%2C%20airport%20check-in%2C%20and%20other%20common%20situations%22%7D.%20Each%20card%20should%20include%20a%20dialogue%20scene%20between%20people%20and%20the%20main%20commonly%20used%20sentences%2C%20and%20also%20list%20the%20key%20vocabulary%20(with%20phonetic%20transcription%20and%20meanings%2C%20etc.).%20Start%20with%20%7Bargument%20name%3D%22number%20of%20English%20scenarios%22%20default%3D%2212%22%7D%20scenarios%20for%20me%20to%20review.%0A%0APoetry%20card%20prompt%3A%20Generate%20learning%20cards%20for%20%7Bargument%20name%3D%22number%20of%20poems%22%20default%3D%2210%22%7D%20famous%20Tang%20poems.%20Each%20image%20should%20include%20the%20full%20text%20of%20the%20poem%2C%20and%20the%20visuals%20should%20match%20the%20content%20of%20the%20lines%20and%20align%20with%20the%20poem%E2%80%99s%20mood%20and%20imagery%2C%20helping%20students%20understand%20the%20background%20and%20atmosphere.%20Include%20simple%20Chinese%20annotations.)**
 
 ---
 
@@ -8548,6 +8674,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-12-04T12:21:58.013Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-12-04T16:15:11.760Z</sub>
 
 </div>

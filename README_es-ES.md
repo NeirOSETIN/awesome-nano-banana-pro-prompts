@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **550** |
 | ⭐ Destacado | **5** |
-| 🔄 Última actualización | **jueves, 4 de diciembre de 2025, 12:22:19 UTC** |
+| 🔄 Última actualización | **jueves, 4 de diciembre de 2025, 16:15:25 UTC** |
 
 </div>
 
@@ -8547,6 +8547,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-04T12:22:19.835Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-04T16:15:26.002Z</sub>
 
 </div>
