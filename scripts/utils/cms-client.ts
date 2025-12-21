@@ -125,6 +125,11 @@ export interface Prompt {
   sort?: number;
   needReferenceImages?: boolean; // Whether this prompt requires user to input images
   sourceMeta?: Record<string, any>;
+  imageCategories?: {
+    useCases?: Array<PromptCategory>;
+    styles?: Array<PromptCategory>;
+    subjects?: Array<PromptCategory>;
+  };
 }
 
 interface CMSResponse {
@@ -142,7 +147,7 @@ export async function fetchAllPrompts(
 ): Promise<{ docs: Prompt[]; total: number }> {
   const query = {
     limit: 200,
-    sort: ['-featured', 'sort', '-sourcePublishedAt'].join(','),
+    sort: ["-featured", "sort", "-sourcePublishedAt"].join(","),
     depth: 2,
     locale,
     where: {
@@ -196,7 +201,6 @@ export async function fetchAllPrompts(
  * @param total 可选的总数（用于显示真实总数，而非当前获取的数量）
  */
 export function sortPrompts(prompts: Prompt[], total?: number) {
-
   const featured = prompts.filter((p) => p.featured);
   const regular = prompts.filter((p) => !p.featured);
 
@@ -306,11 +310,11 @@ export async function updatePrompt(
 /**
  * Category from CMS
  */
-export interface CMSPromptCategory {
+export interface PromptCategory {
   id: number;
   title: string;
   slug: string;
-  parent?: CMSPromptCategory | null;
+  parent?: PromptCategory | null;
   featured?: boolean;
   sort?: number;
 }
@@ -339,16 +343,14 @@ export interface CategoryGroup {
 }
 
 interface CMSCategoryResponse {
-  docs: CMSPromptCategory[];
+  docs: PromptCategory[];
   totalDocs: number;
 }
 
 /**
  * Fetch prompt categories from CMS
  */
-export async function fetchPromptCategories(
-  locale: string = "en-US"
-): Promise<{
+export async function fetchPromptCategories(locale: string = "en-US"): Promise<{
   allCategories: FilterCategory[];
   featuredCategories: FilterCategory[];
 }> {
