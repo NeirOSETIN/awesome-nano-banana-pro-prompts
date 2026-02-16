@@ -4967,3 +4967,2643 @@ json{
 </div>
 
 ---
+### № 81: Комикс / Раскадровка - Шаблон иллюстрации постера комикса
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Структурированный шаблон JSON-промпта для Nano Banana Pro, предназначенный для создания динамичной современной иллюстрации постера комикса (соотношение сторон 16:9) с коллажем комиксных панелей, эффектами полутонов и драматическим освещением. Включает плейсхолдеры для главного персонажа, заголовка и конкретного содержимого панелей, требует строгого сохранения идентичности из референсного изображения.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "meta": {
+    "purpose": "Comic book poster illustration for viral sci-fi storytelling or graphic novels",
+    "style": "Modern comic/graphic novel with halftone and dynamic effects, 4K resolution"
+  },
+  "reference_image": {
+    "use": true,
+    "identity_preservation": "strict",
+    "face_similarity": "high"
+  },
+  "canvas": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal poster"
+  },
+  "title_text": {
+    "text": "{argument name="title text" default="ZOOM!!! OR Your Title"}",
+    "position": "top_center",
+    "style": "bold comic lettering, thick hand-drawn font",
+    "color": "cream white with black outline",
+    "effects": ["3D emboss", "ink shadow", "halftone texture"]
+  },
+  "main_character": {
+    "subject": "{argument name="main character" default="Space pilot with metallic implant OR Your hero"}",
+    "pose": "[e.g., Angry heroic OR Dynamic action]",
+    "lighting": "dramatic rim lighting",
+    "render_style": "Japanese Anime comic illustration"
+  },
+  "comic_panels": [
+    {
+      "position": "top_left",
+      "subject": "[e.g., Extreme close-up behind cracked glass]",
+      "expression": "[e.g., Angry]",
+      "panel_effect": "[e.g., Burst explosion, sound effect CRAAACK]"
+    },
+    {
+      "position": "top_right",
+      "subject": "[e.g., Pilot mouth open]",
+      "expression": "[e.g., Worried]",
+      "speech_text": "[e.g., NOOO!]"
+    },
+    {
+      "position": "bottom_left",
+      "subject": "[e.g., Spacecraft profile]",
+      "speech_text": "[e.g., WHAAA?!]",
+      "motion_lines": true
+    },
+    {
+      "position": "bottom_right",
+      "subject": "[e.g., Pilot scared]",
+      "speech_text": "[e.g., LAZARUS!]",
+      "panel_effect": "[e.g., Starburst]"
+    }
+  ],
+  "background": {
+    "style": "comic panels collage",
+    "colors": ["orange", "yellow", "blue", "teal"],
+    "elements": ["halftone dots", "ink splashes", "action lines", "explosion shapes"],
+    "bottom_scene": "[e.g., Asteroid field with gold veins]"
+  },
+  "art_style": {
+    "genre": "modern comic book",
+    "influences": ["Marvel covers", "DC posters", "Pop-art"],
+    "line_work": "clean bold outlines",
+    "shading": "soft painterly with halftone"
+  },
+  "render_quality": {
+    "detail_level": "high",
+    "sharpness": "crisp",
+    "color_grading": "vibrant cinematic"
+  },
+  "constraints": {
+    "no_blur": true,
+    "no_extra_faces": true,
+    "no_watermark": true
+  },
+  "negative_prompt": ["low quality", "blurry", "extra limbs", "distorted face", "bad anatomy", "realistic photo"]
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770532808397_ujmk1l_HAkaf_pXYAAe3ik.jpg" width="600" alt="Comic / Storyboard - Comic Book Poster Illustration Template - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770532808377_1ecwqa_HAkaf_cXUAA3che.jpg" width="600" alt="Comic / Storyboard - Comic Book Poster Illustration Template - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770532809361_jx3iu6_HAkaf_gXgAA_XAA.jpg" width="600" alt="Comic / Storyboard - Comic Book Poster Illustration Template - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770532809700_lpzdgw_HAkaf_hW4AASiEO.jpg" width="600" alt="Comic / Storyboard - Comic Book Poster Illustration Template - Изображение 4">
+</div>
+
+
+---
+
+
+### № 82: Комикс / Раскадровка - Преобразование видео в 4-панельную мангу
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+
+#### 📖 Описание
+
+Описание рабочего процесса, где история создается с помощью GPT, уточняется с помощью GenSpark, а затем видео из Kling преобразуется в 4-панельную мангу с использованием Nano Banana Pro.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+From Kling video footage to 4-panel manga using Nano Banana Pro
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770532854474_sb8ocu_HAinpWrasAADmnj.jpg" width="600" alt="Comic / Storyboard - Converting Video to 4-Panel Manga - Изображение 1">
+</div>
+
+
+---
+
+
+### № 83: Маркетинг продукта - Промпт гиперреалистичной миниатюрной рекламы продукта
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Универсальный промпт макросъемки, предназначенный для создания гиперреалистичных миниатюрных рекламных объявлений продуктов. Использует плейсхолдеры для продукта, материала и цвета фона, делая акцент на высококачественных макетах, профессиональном освещении и малой глубине резкости.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+macro photograph, minimalist advertising style, a hyper-realistic miniature {argument name="product" default="[PRODUCT]"} crafted from {argument name="material" default="[MATERIAL]"}, delicately poised between a person's thumb and forefinger against a seamless, matte {argument name="background color" default="[BG_COLOR]"} cyclorama under professional Top-Down_Spotlight that casts subtle, soft shadows, with the impeccably groomed hand accentuating the object's intricate contours while the composition remains perfectly centered with a shallow depth of field to highlight its exquisite craftsmanship
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961364_iq65ey_HBO8adjaIAAXS9U.jpg" width="600" alt="Product Marketing - Hyper-Realistic Miniature Product Ad Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961241_yyns5u_HBO6yc9awAA10yL.jpg" width="600" alt="Product Marketing - Hyper-Realistic Miniature Product Ad Prompt - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961321_8sl55a_HBO6ycZXsAAe9Lz.jpg" width="600" alt="Product Marketing - Hyper-Realistic Miniature Product Ad Prompt - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961961_gehtxf_HBO9eUpWUAA0hlI.jpg" width="600" alt="Product Marketing - Hyper-Realistic Miniature Product Ad Prompt - Изображение 4">
+</div>
+
+
+---
+
+
+### № 84: Маркетинг продукта - Промпт редакционной съемки в стиле высокой моды на городском тротуаре
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Детализированный промпт для фэшн-фотографии, предназначенный для создания редакционных снимков в высоком разрешении на городских тротуарах с естественным освещением, глубиной резкости и точными параметрами камеры, плюс плейсхолдер для описания наряда.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "image": {
+    "main_description": "A high-fashion editorial shot of a woman in a provocative pose on a modern city sidewalk at dusk, featuring dramatic backlighting and a sleek, minimalist aesthetic.",
+    "characters": {
+      "main_reference_character": {
+        "identity_anchor": "The character based on the provided reference photo, preserving strictly the user's identity source.",
+        "ethnicity_and_phenotype": "Determined by the user provided reference photo.",
+        "face_and_skin": "Skin texture and lighting interaction consistent with the scene, but facial features are strictly derived from the reference.",
+        "expression": "A confident, over-the-shoulder sultry gaze toward the camera through black-rimmed rectangular glasses.",
+        "hair": "Voluminous, long layered hair with soft waves and significant body, styled in a glamorous blowout.",
+        "body_and_pose": "Squatting low to the ground on the balls of the feet, torso twisted back toward the camera to showcase the back, one hand resting lightly on the knee.",
+        "outfit": "A white, ultra-low-back thong bodysuit with thin spaghetti straps, paired with low-rise black tailored trousers and black strappy high-heel sandals with metallic stiletto heels."
+      },
+      "supporting_characters": []
+    },
+    "text_elements": {
+      "content": "{argument name="text content" default="76"}",
+      "typography": "Thin, minimalist sans-serif font.",
+      "placement": "Etched or mounted on the grey marble pillar in the background.",
+      "integration": "Subtle architectural detail, blending naturally with the building exterior."
+    },
+    "environment": {
+      "location": "Upscale urban sidewalk adjacent to a modern building with marble and glass facades.",
+      "elements": "Concrete pavement slabs, a large potted shrub, distant palm trees lining a street, parked cars in the far background.",
+      "atmosphere": "Clear, twilight air with the soft glow of a setting sun in the distance."
+    },
+    "cinematography": {
+      "lighting_setup": "Warm golden hour backlight creating a rim light effect on the hair; soft, cool fill light on the subject's face and back.",
+      "color_grading": "Muted urban tones with high contrast; deep blacks and bright whites against a neutral concrete and marble palette.",
+      "shadows_and_highlights": "Soft shadows stretching across the pavement; sharp specular highlights on the metallic heels and glasses frames.",
+      "reflections": "Subtle reflections on the glass windows and polished marble surfaces."
+    },
+    "camera_and_tech": {
+      "framing": "Full shot, wide-angle lens, low camera height looking slightly upward at the subject.",
+      "optics": "35mm focal length, f/2.8 for a moderate depth of field that keeps the background recognizable but soft.",
+      "visual_fidelity": "8k resolution, raw photo, realistic skin pores, sharp focus on the subject, slight film grain."
+    },
+    "style_and_mood": {
+      "aesthetic": "High-end fash"
+    }
+  }
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223971384_rnzd3n_HBOL8muXkAEQAAq.jpg" width="600" alt="Product Marketing - High-Fashion Editorial Shot on City Sidewalk Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223971403_qlf43m_HBOL8laacAAKi7c.jpg" width="600" alt="Product Marketing - High-Fashion Editorial Shot on City Sidewalk Prompt - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223971449_rhewp3_HBOL8k8WIAAznd0.jpg" width="600" alt="Product Marketing - High-Fashion Editorial Shot on City Sidewalk Prompt - Изображение 3">
+</div>
+
+
+---
+
+
+### № 85: Маркетинг продукта - Промпт ультрафотореалистичной гламурной студийной позы на полу
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Всеобъемлющий промпт для создания студийных портретов сидящих моделей высокого класса с драматическим освещением, малой глубиной резкости, кинематографическими деталями и опциональной адаптацией референсного изображения с идентификацией лица. Включает подробные технические характеристики для продвинутых пользователей и варианты редактирования изображений.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+
+
+
+
+
+```
+{
+  "type": "ultra_photorealistic_studio_glamour_floor_pose_full_body_lock",
+  "scene": {
+    "location": "professional photography studio",
+    "floor": {
+      "type": "smooth matte studio floor",
+      "color": "neutral gray",
+      "surface_behavior": "non-reflective with soft micro-texture",
+      "shadow_interaction": "soft contact shadows beneath legs and heels"
+    },
+    "background": {
+      "type": "seamless studio backdrop",
+      "color": "medium neutral gray",
+      "gradient_behavior": "subtle vertical tonal falloff from top to bottom",
+      "texture": "smooth, uncluttered, minimal"
+    },
+    "lighting": {
+      "setup": "two-light studio configuration",
+      "key_light": {
+        "position": "front-left at approximately 35° horizontal angle and 25° elevation",
+        "modifier": "large softbox",
+        "effect": "soft sculpting across face and torso with gentle highlight rolloff"
+      },
+      "fill_light": {
+        "position": "front-right low intensity",
+        "ratio": "approximately 1:2 relative to key",
+        "effect": "controlled shadow softness without flattening contours"
+      },
+      "rim_light": {
+        "optional_subtle_edge": "low-intensity rear kicker defining hair and shoulder outline"
+      }
+    }
+  },
+  "subject": {
+    "description": "{argument name="subject name" default="anya taylor joy"}, realistic anatomy, natural proportions",
+    "skin": {
+      "tone": "even natural tone",
+      "texture_detail": "visible fine skin texture without artificial smoothing",
+      "highlight_behavior": "soft specular highlights on cheekbones, collarbones, and knees"
+    },
+    "face_lock": {
+      "visibility": "fully visible",
+      "expression": "calm, confident, subtly glamorous",
+      "gaze_direction": "toward camera lens",
+      "head_alignment": "neutral vertical axis with slight tilt (~4°)"
+    },
+    "hair": {
+      "style": "styled smooth with controlled volume",
+      "behavior": "resting naturally along shoulders with slight lift from rim light"
+    }
+  },
+  "precise_pose_geometry": {
+    "base_position": "seated directly on studio floor",
+    "pelvis": {
+      "tilt": "slight posterior tilt (~8°)",
+      "rotation": "rotated approximately 20° relative to camera plane",
+      "weight_distribution": "primary load through left hip and posterior thigh"
+    },
+    "torso": {
+      "inclination": "upright with subtle backward lean (~6°)",
+      "spinal_curve": "natural lumbar curve maintained",
+      "shoulder_alignment": "right shoulder slightly forward (~5°)"
+    },
+    "head": {
+      "tilt": "subtle lateral tilt (~4°)",
+      "rotation": "approximately 10–15° toward key light",
+      "chin_position": "slightly lowered (~3°) for defined jawline"
+    },
+    "arm_position": {
+      "left_arm": {
+        "elbow_flexion": "approximately 100°",
+        "placement": "forearm resting lightly on bent knee",
+        "hand_pose": "relaxed fingers with gold bang"
+      }
+    }
+  }
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223971934_rimhl4_HBOJL2NbkAED_ko.jpg" width="600" alt="Product Marketing - Ultra Photorealistic Studio Glamour Floor Pose Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223972051_cy078h_HBOJMNeXsAADk5y.jpg" width="600" alt="Product Marketing - Ultra Photorealistic Studio Glamour Floor Pose Prompt - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223972474_b5w7to_HBOJMrhWYAAyf1F.jpg" width="600" alt="Product Marketing - Ultra Photorealistic Studio Glamour Floor Pose Prompt - Изображение 3">
+</div>
+
+
+---
+
+
+### № 86: Маркетинг продукта - Гиперреалистичный портрет с татуировками на костяшках пальцев
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Промпт для создания интимных портретов крупным планом с фокусом на руке у лица, с видимыми татуировками на костяшках пальцев. Подчеркивает мягкое естественное освещение, малую глубину резкости и фотореалистичную эстетику в стиле высокой моды.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Hyper-realistic Portrait Of A Woman Standing Close To Camera, Fists Extended Forward In Sharp Focus, Knuckles Dominating The Frame. Bold Black Ink Knuckle Tattoos Spell [{argument name="left hand tattoo" default="Fear"}] On The Left Hand And [{argument name="right hand tattoo" default="Less"}] On The Right. She Wears A Fitted Black Leather Jacket Over A White Tank Top, Silver Statement Earrings Catching Soft Light. Neutral Studio Background, Shallow Depth Of Field, Intense Eye Contact Slightly Blurred Behind The Fists. Natural Skin Texture, Cinematic Contrast, Modern Editorial Realism. Background Is Set Outdoors On A City Street At Night.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223977993_gwka9t_HBNUx4pbAAEybeP.jpg" width="600" alt="Product Marketing - Hyper-realistic Portrait with Knuckle Tattoos - Изображение 1">
+</div>
+
+
+---
+
+
+### № 87: Маркетинг продукта - Структурированный JSON-промпт для портретов в латексном боди
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Детализированный структурированный JSON-промпт с несколькими сценами для создания портретов моделей в латексных боди в помещении. Определяет тип сцены, характеристики объекта, композицию камеры, освещение, стиль и технические ограничения для получения фотореалистичных редакционных изображений с исключительной детализацией кожи и ткани.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+[
+  {
+    "subject": "Maya Hawke",
+    "outfit": {
+      "type": "Glossy latex bodysuit",
+      "primary_color": "Navy Blue",
+      "details": "Sleek finish with white racing stripes on the sides and a front zipper design."
+    },
+    "footwear": "Classic white high-top sneakers",
+    "pose": "Athletic low-angle crouch with hands on the ground",
+    "background": "Minimalist grey studio setting",
+    "composition": "Featured with a bold 'BLACKED' text overlay at the top."
+  },
+  {
+    "subject": "Sadie Sink",
+    "outfit": {
+      "type": "Two-tone latex bodysuit",
+      "colors": ["Vibrant Red", "Sunshine Yellow"],
+      "details": "Contrasting yellow panels on a red base, featuring a plunging neckline."
+    },
+    "footwear": "White canvas high-top sneakers",
+    "pose": "Dynamic crawling stance facing the camera",
+    "background": "Soft grey gradient background",
+    "composition": "Double exposure effect creating a twin-like visual."
+  },
+  {
+    "subject": "Natalia Dyer",
+    "outfit": {
+      "type": "Monochromatic latex bodysuit",
+      "color": "Cream / Off-white",
+      "details": "Deep V-neckline with matching vertical side stripes."
+    },
+    "footwear": "White high-top athletic shoes",
+    "pose": "Forward-leaning kneeling position",
+    "background": "Neutral studio grey",
+    "composition": "Ghosted mirror reflection effect in the background."
+  },
+  {
+    "subject": "Maya Hawke",
+    "outfit": {
+      "type": "Contrast-stripe latex bodysuit",
+      "colors": ["Obsidian Black", "Hot Pink"],
+      "details": "Black body with vibrant pink stripes running down the sleeves and sides."
+    },
+    "footwear": "Clean white high-top sneakers",
+    "pose": "Crouched on a red brick ledge",
+    "background": "Matte black wall providing high contrast",
+    "composition": "Multi-angle view showing both the front and back of the subject."
+  },
+  {
+    "subject": "Millie Bobby Brown",
+    "outfit": {
+      "type": "Striped latex bodysuit",
+      "colors": ["Royal Blue", "Bright White"],
+      "details": "Symmetric white graphic patterns on the sides of a blue base."
+    },
+    "footwear": "White high-top sneakers",
+    "pose": "Kneeling central pose on a reflective surface",
+    "background": "Warm peach-toned studio",
+    "composition": "Triple-reflection / Kaleidoscope mirror effect."
+  }
+]
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961562_do02wj_HBNJv3naEAA6XV8.jpg" width="600" alt="Product Marketing - Structured JSON Prompt for Latex Bodysuit Portraits - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961622_rls0y4_HBNJv14a8AI_g97.jpg" width="600" alt="Product Marketing - Structured JSON Prompt for Latex Bodysuit Portraits - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223961769_y7baro_HBNJv19bAAA2N6a.jpg" width="600" alt="Product Marketing - Structured JSON Prompt for Latex Bodysuit Portraits - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223962470_syduqf_HBNJv1xbQAA0Pnb.jpg" width="600" alt="Product Marketing - Structured JSON Prompt for Latex Bodysuit Portraits - Изображение 4">
+</div>
+
+
+---
+
+
+### № 88: Маркетинг продукта - Минималистичный портрет карандашным наброском
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Краткий промпт для создания простых карандашных набросков женского портрета (16:9) с четкими линиями и чистым белым фоном, минимальной штриховкой.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Minimalist portrait of a young woman’s face in delicate pencil sketch style, soft monochrome tones on warm ivory paper. Focus on expressive almond-shaped eyes with subtle eyeliner, long lashes, and gentle shading around the eyelids. Smooth porcelain skin rendered with very light graphite shading. Slightly parted lips with soft highlights. Thin flowing hair strands crossing the face, drawn with loose elegant lines.
+Clean composition with lots of negative space, refined fashion illustration aesthetic, soft studio lighting effect, ultra-fine linework, realistic yet artistic, high detail, calm and elegant mood, luxury beauty sketch style, high-resolution.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223977728_5ui9l6_HBNIweTbkAAwQHh.jpg" width="600" alt="Product Marketing - Minimalist Pencil Sketch Portrait - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223977850_ruds64_HBNIwenbgAI8MeP.jpg" width="600" alt="Product Marketing - Minimalist Pencil Sketch Portrait - Изображение 2">
+</div>
+
+
+---
+
+
+### № 89: Маркетинг продукта - Промпт редакционного портрета Сэди Синк из Очень странных дел
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт, вдохновленный персонажем Макс из Очень странных дел, для создания драматических, наполненных эмоциями портретов в мягком рассеянном освещении с минималистичным редакционным стилем.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+"A cinematic, high-resolution photograph depicts a young woman with long, wavy copper-red hair and a calm, composed expression, seated atop a wooden school desk in a nostalgic classroom setting. She is styled in a form-fitting, dark emerald green one-piece bodysuit featuring a deep v-neckline, layered under an open green and cream varsity letterman jacket that displays a circular patch with a fox mascot and collegiate lettering on the chest. The background is softly blurred, showing the silhouettes of empty student desks and a chalkboard, creating an atmospheric, moody academic environment. The lighting is subtle and directional, casting soft shadows that emphasize the textures of the fabric and the leather-style sleeves of the jacket, resulting in a professional, editorial aesthetic with a vintage-inspired film quality."
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223959949_y0hiyl_HBNFmXLbgAApkgN.jpg" width="600" alt="Product Marketing - Sadie Sink Stranger Things Editorial Portrait Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 90: Маркетинг продукта - Портрет косплея с фотографией со вспышкой
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Пример промпта для создания резких, ярко освещенных косплей-портретов с интенсивным контрастом и драматическими тенями от использования встроенной вспышки.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Realistic vertical 9:16 portrait of a young Caucasian blonde American girl in her early 20s with natural fair-to-light skin tone, soft neutral-to-warm undertones, and a healthy youthful glow with slight flash sheen. She has long, straight, sleek platinum-blonde hair, center-parted, falling over her shoulders. Her face is heart-shaped with a sharp jawline, smooth forehead, almond-shaped light hazel or blue eyes, subtle smokey eye makeup, long lashes, and groomed arched brows in darker blonde/light brown. She has a straight nose with a refined button tip and slight highlighter, high cheekbones with contour and soft glowing highlighter, and full plump nude-pink glossy lips with a neutral, slightly pouty expression and confident direct gaze.
+She has a fit, athletic, toned body with visible muscle definition in shoulders and thighs. She wears a Spider-Man inspired tight spandex/lycra bodysuit: sleeveless with a high-neck choker collar, keyhole chest cutout, red upper panel with black web pattern, and blue textured bodice. Detached long blue arm warmers with red trim and white elbow accents. High-cut legs with blue thigh-high stockings featuring a red band and a small white/pink spider emblem on the thigh.
+Pose: leaning back against a waist-high rough concrete rooftop wall, arms extended sideways gripping the edge, legs close together with right leg slightly crossed, facing the camera.
+Setting: rooftop or high-rise balcony at night with a dark sky and blurred city skyline full of illuminated windows and bokeh lights, urban nightlife atmosphere.
+Lighting: direct on-camera flash creating bright subject illumination, strong contrast, and hard shadows on the wall behind.
+Camera: eye-level, straight-on.
+Style: realism, amateur flash photography, cosplay portrait, influencer aesthetic.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223981346_ugmlrg_HBM8V7tbgAAJ6Xn.jpg" width="600" alt="Product Marketing - Cosplay Portrait with Flash Photography - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223981335_bqnq20_HBM8V7EbwAA_5HM.jpg" width="600" alt="Product Marketing - Cosplay Portrait with Flash Photography - Изображение 2">
+</div>
+
+
+---
+
+
+### № 91: Маркетинг продукта - Промпт фэшн-редакции Стива Харрингтона в мандариновом стиле
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Редакционный промпт в винтажной моде 80-х с кинематографическим освещением, теплыми мандариновыми тонами и портретной композицией, вдохновленный персонажем из Очень странных дел.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "prompt": "A high-contrast, low-angle fashion editorial photograph from a 24mm lens, capturing Steve Harrington in a tailored bright orange suit, white shirt, and orange tie. He leans against a sharp corner in a monochrome orange studio with clean geometric lines. A pair of oversized orange and black sneakers in forced perspective dominates the foreground. A vintage orange hatchback (e.g., a Ford Fiesta Mk1) is parked in the background. The lighting is dramatic, with strong shadows. The overall aesthetic is luxury street-style. 4:5 aspect ratio."
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223955754_zrfjao_HBM2kSRasAAf9nc.jpg" width="600" alt="Product Marketing - Steve Harrington Tangerine Fashion Editorial Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223955824_wl2i62_HBM2kQWbsAAByoD.jpg" width="600" alt="Product Marketing - Steve Harrington Tangerine Fashion Editorial Prompt - Изображение 2">
+</div>
+
+
+---
+
+
+### № 92: Главное изображение для электронной коммерции - Промпт редактирования изображения: корректировка положения кольца
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Пример промпта редактирования для манипуляции существующей фотографией — изменение положения кольца на руке с пальца на большой палец, демонстрирующий возможности редактирования изображений AI.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+change image1 so the rings have the positioning of image 2.  you're just moving the ring on the right side up higher, do not touch the ring on the left. no other changes
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223986446_7m1xm5_HBKkeg_WQAAJI_O.jpg" width="600" alt="E-commerce Main Image - Image Editing Prompt: Adjusting Ring Position - Изображение 1">
+</div>
+
+
+---
+
+
+### № 93: Главное изображение для электронной коммерции - Макроснимок героя оптического литого стеклянного объекта с каустикой
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Технический промпт для создания потрясающих макрофотографий продуктов из литого стекла с паттернами каустики, радужной дисперсией и драматической игрой света на темном фоне. Подчеркивает профессиональную фотографию продукта.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Task: Ultra-close macro hero shot of a {argument name="subject" default="SUBJECT"} as premium optical cast glass with diagonal light-band shadows, stronger rainbow caustics, and clean readable high-detail areas (no refraction “mush”). Subject is FULLY visible and NOT cropped. The subject is placed on the surface or floating in the air at a low altitude above the surface.
+Style: Photoreal luxury product; seamless blue-gray gradient background #9FAFBC (cool, slightly blue, low saturation); glossy reflective plane; smooth clear optical glass with crisp edges, controlled internal highlights, subtle star glints; pronounced caustic streaks + vivid prismatic rainbow arcs cast onto the surface from the subject.
+Framing: extreme close-up, subject fills ~90–95% of the frame, fully visible and not cropped.
+Readability (fix mush): preserve crisp facial/edge details—minimize internal warping, lensing, and overlapping caustic patterns on fine features; keep the interior visually “quiet” so the surface sculpt reads clean.
+Optical control: low-distortion, low-aberration glass look (reduced dispersion inside the object) with strong external caustics on the surface.
+Lighting: broad diagonal soft light bands; long soft cast shadow with smooth penumbra; rainbow caustics should be stronger and more numerous around the base and across the floor. Clean white color.
+Environment control: seamless studio only; gray/black flags controlling reflections; no window/room elements.
+Negative prompt: excessive refraction, heavy distortion, lens effect, warped facial features, chaotic highlights, milky/foggy glass, random reflections, window, interior, wall corner, faceted, polygonal, low poly, text, watermark, clutter
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137201725_ivabrq_HBIWOOIXUAE6yom.jpg" width="600" alt="E-commerce Main Image - Macro Hero Shot of Optical Cast Glass Object with Caustics - Изображение 1">
+</div>
+
+
+---
+
+
+### № 94: Главное изображение для электронной коммерции - Ультрареалистичная фотография продукта банки газировки OLIPOP
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Детализированный промпт для фотографии продуктов напитков, описывающий полностью открытую алюминиевую банку газировки OLIPOP с интенсивными красными тонами, минималистичным дизайном и кинематографическим освещением в формате 9:16 для вертикальных рекламных объявлений.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Ultra-realistic commercial product photography of a pastel {argument name="soda color" default="peach"}-colored soda can labeled “OLIPOP – {argument name="flavor" default="Peaches & Cream"}” placed upright in the center, surrounded tightly by fresh whole peaches at the bottom and large transparent ice cubes stacked around and partially covering the top of the can, heavy condensation droplets covering the can and fruit, tiny carbonation bubbles visible on the peaches, crushed ice texture with sharp edges and frosty highlights, soft diffused studio lighting.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137195753_bgfnt4_HBH-uiOa0AAOC4p.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Product Photography of OLIPOP Soda Can - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137195782_oh4xra_HBH-ukhawAAyv7P.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Product Photography of OLIPOP Soda Can - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137195753_hr3um5_HBH-uiTakAQ2rfA.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Product Photography of OLIPOP Soda Can - Изображение 3">
+</div>
+
+
+---
+
+
+### № 95: Главное изображение для электронной коммерции - Подводная реклама роскошного продукта по уходу за кожей
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Творческий промпт для создания подводных рекламных изображений продуктов по уходу за кожей с плавающими продуктами, мягкими пузырьками, синим светом и эфирным настроением для роскошных брендов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Ultra-realistic underwater luxury skincare advertisement.
+A matte turquoise lip treatment tube standing upright, slightly angled, centered in frame. The tube is smooth soft-touch plastic with subtle specular highlights and realistic surface texture. Vertical elegant white typography reading “MODA SKIN” and smaller text near the bottom “Lip Treatment 15 ml”. Text is sharp, clean, and perfectly legible.
+The product is placed among dense, bioluminescent coral reef formations in shades of teal, aqua, blue, and violet. Coral branches surround the tube naturally without covering the label. Several translucent jellyfish float around the product at different depths, softly glowing, with delicate semi-transparent tentacles.
+Ocean floor visible at bottom with sandy texture and realistic underwater caustic light patterns. Strong volumetric god rays shining from the water surface above. Cinematic underwater lighting, high contrast, deep blue atmosphere, subtle haze for depth. Sharp focus on product, shallow depth of field on background coral.
+Luxury skincare commercial style, hyper-detailed, photorealistic, global illumination, physically accurate underwater light refraction, 8k resolution, macro product photography.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137192721_1drv56_HBHlTOiakAA95VP.jpg" width="600" alt="E-commerce Main Image - Underwater Luxury Skincare Product Ad - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137192767_h16d7d_HBHlTPHaQAAoCmg.jpg" width="600" alt="E-commerce Main Image - Underwater Luxury Skincare Product Ad - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137192788_fmd6g8_HBHlTOkbIAAQQ4W.jpg" width="600" alt="E-commerce Main Image - Underwater Luxury Skincare Product Ad - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137194370_2miu6h_HBHlTO6aYAA97LH.jpg" width="600" alt="E-commerce Main Image - Underwater Luxury Skincare Product Ad - Изображение 4">
+</div>
+
+
+---
+
+
+### № 96: Главное изображение для электронной коммерции - Интеграция VR-гарнитуры на модель
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт для редактирования изображения, который добавляет VR-гарнитуру к модели на существующей фотографии, сохраняя позу, освещение и контекст для реалистичной композиции продукта.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Make the model wear the VR Headset (do not change the style of the VR Headset) https://t.co/C0Gd0pGg5T
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050447522_0mo1hy_HBDZ_VbbwAEsfOS.jpg" width="600" alt="E-commerce Main Image - Integrate VR Headset onto Model - Изображение 1">
+</div>
+
+
+---
+
+
+### № 97: Главное изображение для электронной коммерции - Промпт фотографии роскошного диффузора с тростниковыми палочками
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Элегантный промпт фотографии продукта для роскошных стеклянных диффузоров с тростниковыми палочками, подчеркивающий естественный свет, минималистичную композицию, мягкие тени и редакционную эстетику для высококлассных рекламных кампаний.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Ultra-realistic premium product photography of a deep obsidian glass reed diffuser bottle labeled “MIDNIGHT OUD – Signature Reserve – NOIRÉ” in refined metallic gold serif lettering. The bottle features a tall, softly rounded square silhouette with beveled edges and a high-gloss mirror finish. A subtle embossed gold crest logo is positioned near the upper center, adding an understated luxury detail. Slim matte charcoal diffuser reeds rise elegantly from the neck.
+The glass surface is coated with lifelike condensation and scattered water droplets, as though captured moments after a cool mist. The diffuser is nestled among dark crimson roses and scattered plum-toned petals, layered with lush emerald foliage that glistens with moisture. The setting feels rich and atmospheric, with a shadowy botanical backdrop softly fading into blur (shallow depth of field with creamy bokeh).
+Lighting is dramatic and cinematic, featuring low-key illumination with gentle rim lighting to accentuate the curves of the bottle. Subtle cool hues, deep forest greens and midnight navy tones, create a mysterious, high-end ambiance. Metallic typography and the embossed crest catch delicate highlights for a sophisticated, luxury fragrance campaign feel.
+Composition: Vertical 4:5 portrait ratio, hero product centered and slightly angled for dimension. Foreground florals subtly frame the base of the bottle, while background foliage dissolves into darkness.
+Texture focus: Ultra-detailed condensation beads, reflective lacquered glass, velvety rose textures, and soft matte reeds.
+Style: Luxury home fragrance advertising, macro photography aesthetic, 85mm lens, f/2 aperture, razor-sharp focus on product, dramatic contrast, rich shadows, ultra-photorealistic 8K detail, premium editorial finish.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050467413_pzxehl_HBDDIkMa8AE0V3Z.jpg" width="600" alt="E-commerce Main Image - Luxury Reed Diffuser Product Photography Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050467371_zb9h1o_HBDDIjrbkAALB6r.jpg" width="600" alt="E-commerce Main Image - Luxury Reed Diffuser Product Photography Prompt - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050467413_14omz7_HBDDImJb0AAdufN.jpg" width="600" alt="E-commerce Main Image - Luxury Reed Diffuser Product Photography Prompt - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050468222_5y34ww_HBDDIo-aUAEqhX5.jpg" width="600" alt="E-commerce Main Image - Luxury Reed Diffuser Product Photography Prompt - Изображение 4">
+</div>
+
+
+---
+
+
+### № 98: Главное изображение для электронной коммерции - Промпт ультра-детализированной скульптуры оригами
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт для невероятно детализированных макрофотографий скульптур оригами с захватывающими сгибами бумаги, объемными тенями, мягким освещением и художественной композицией, подходящий для редакционных фото или витрин продуктов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Ultra-hyper-detailed origami sculpture of a human character, meticulously hand-folded from premium artisan paper with ultra-crisp razor-sharp creases and visible fiber grain texture. Every fold forms precise geometric planes that sculpt the facial structure, posture, and emotional expression with mathematical symmetry. Complex layered tessellations and micro-fold patterns subtly define contours and depth.
+Paper surface features soft matte finish with delicate light diffusion — no black tones, strictly using the exact color palette of the reference photo, translated into layered paper gradients. Edges are clean and sharply defined, with subtle paper thickness visible along folds.
+Placed on a minimalist high-end studio pedestal with a smooth neutral surface. Soft directional daylight from one side creates realistic falloff shadows and gentle ambient bounce light. Slight depth of field for premium product photography feel.
+Luxury designer collectible aesthetic — museum display quality, conceptual paper art installation, ultra-photorealistic macro detail, sharp focus, 8K resolution, 1080×1080 square composition, high dynamic range, cinematic lighting, global illumination, professional studio render.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050432799_oodyfi_HBCwTGbbYAAmZB3.jpg" width="600" alt="E-commerce Main Image - Ultra-Hyper-Detailed Origami Sculpture Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 99: Главное изображение для электронной коммерции - Промпт ретро-футуристической фотографии продукта
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Креативный промпт для генерации ретро-футуристических сцен продуктов в 80-х годов с неоновым освещением, хромированными поверхностями, синтвейв-эстетикой и драматическим ночным настроением для рекламных кампаний в социальных сетях.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Highly detailed retro-futurism {argument name="object name" default="[OBJECT NAME]"}, inspired by 1950s–1960s space-age design, aerodynamic silhouette, polished chrome elements, bold geometric accents, pastel tones, analog gauges and mechanical detailing, light surface aging for authenticity, positioned on an old wooden block with textured wood grain, isolated against a plain light {argument name="background color" default="[BACKGROUND COLOR]"} background, soft natural studio lighting, gentle shadows, shallow depth of field, professional product photography, ultra-realistic, 4k detail.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050434122_mievnx_HBB3TJ8WAAArAhz.jpg" width="600" alt="E-commerce Main Image - Retro-Futuristic Product Photography Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 100: Главное изображение для электронной коммерции - Двойные промпты моды и продукта на День святого Валентина
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Коллекция из двух промптов — один для фэшн-портрета модели с розами, другой для стилизованной фотографии продукта шоколадных конфет, оба с темой Дня святого Валентина с красными тонами и романтичным освещением.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+```
+Fashion editorial shoot of a woman in an elegant long red satin gown holding a bouquet of deep burgundy roses, minimal ivory studio background, wind effect in hair and fabric, high-fashion lighting, luxury magazine aesthetic.
+High-end Valentine’s Day perfume advertisement, crystal perfume bottle placed on a velvet red pedestal, surrounded by scattered rose petals and golden heart charms, soft pink mist swirling around the bottle, glossy reflective surface, dramatic spotlight, luxury editorial photography, rich red and gold palette, 1080x1080.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050441469_yhknw3_HBBNavGa0AACPNo.jpg" width="600" alt="E-commerce Main Image - Dual Valentine's Day Fashion and Product Prompts - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050441502_e4lv6o_HBBNZ-wbsAQEkAD.jpg" width="600" alt="E-commerce Main Image - Dual Valentine's Day Fashion and Product Prompts - Изображение 2">
+</div>
+
+
+---
+
+
+### № 101: Главное изображение для электронной коммерции - Промпт концепции упаковки фруктов из гофрированного картона
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Уникальный промпт концептуального дизайна, изображающий фрукты, полностью созданные из гофрированного картона, с акцентом на детали текстуры, мягкое студийное освещение и минималистичную композицию для инновационной презентации упаковки.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+```
+A high-quality professional product photography of a creative structural packaging design for {argument name="fruit name" default="[Fruit Name]"}. The packaging is made of premium corrugated cardboard, intricately crafted into the literal shape of a giant stylized {argument name="shape" default="[Shape e.g. spherical, curved, elongated]"} {argument name="fruit name 2" default="[Fruit Name]"}.
+The exterior surface features a vibrant and sophisticated printed pattern of minimalist {argument name="pattern description" default="[Pattern Description e.g. geometric hexagons, organic wavy lines, dotted stippling, botanical line-art, or horizontal ridges]"}, mimicking the Natural Skin of the Fruit in a duo-tone palette of [Color 1] and [Color 2].
+Features clever die-cut windows that reveal the actual [Actual Product Inside] stored inside. Minimalist modern typography on the side saying "[NAME]". Includes eco-friendly details like a small recycling logo and a [3D Corrugated Cardboard Detail: Stem/green Leaf/Crown] on top. Soft studio lighting with gentle shadows, placed on a clean solid pastel [Background Color] background. 8k resolution, photorealistic, cinematic composition, industrial design aesthetic.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050443055_p4smk1_HBBLtEEbYAA05so.jpg" width="600" alt="E-commerce Main Image - Corrugated Cardboard Fruit Packaging Concept Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 102: Главное изображение для электронной коммерции - Промпт фотографии продукта с хромированным волнистым потоком
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Визуально поразительный промпт для абстрактной фотографии продукта с жидкими хромированными волнами, отражающими поверхностями, чистым белым фоном и динамичной волнообразной композицией, идеальный для роскошных косметических или технологических продуктов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "image_generation_request": {
+    "subject": "{argument name="product name" default="PRODUCT"}",
+    "product_finish": {
+      "primary": "matte black with subtle light absorption",
+      "secondary": "polished metallic silver with mirror-like reflections",
+      "treatment": "duotone — matte black body with metallic silver accents, trim, edges, or panel insets"
+    },
+    "composition": {
+      "placement": "dead center, full view, floating suspended within the folded surface environment",
+      "scale": "product occupies roughly 30-40% of the frame",
+      "constraints": [
+        "product must be entirely visible with no cropping",
+        "no pedestals, stands, platforms, or ground planes",
+        "the surface folds frame the product but never obscure more than 10% of it",
+        "product is the sharpest element in the scene"
+      ]
+    },
+    "background_environment": {
+      "description": "A single continuous undulating surface that fills the entire frame, folding over and around itself in large voluminous waves — like a massive sheet of pleated metallic silk or a single machined metal panel that has been softly twisted and draped. This is NOT multiple separate ribbons or strands. It is ONE connected surface.",
+      "base_color": "{argument name="deep background color" default="INSERT DEEP BACKGROUND COLOR visible in crevices — e.g. pure black, midnight navy"}",
+      "surface_color_1": "{argument name="gradient color A" default="INSERT GRADIENT COLOR A — e.g. soft lavender, warm copper, pearl rose"}",
+      "surface_color_2": "[INSERT GRADIENT COLOR B — e.g. deep indigo, cobalt blue, violet]",
+      "color_behavior": "The two colors blend in a smooth continuous gradient across the single surface, shifting based on the surface's curvature and light angle. Where the surface faces the light it shows color_1, where it curves away it transitions to color_2. The transition is seamless with no hard edges or stripes.",
+      "surface_texture": {
+        "type": "fine parallel ribs embossed into the surface — like the grooves on a vinyl record or finely pleated accordion fabric",
+        "rib_description": "extremely fine, uniform, tightly spaced parallel lines that follow the flow direction of the surface. The ribs are a TEXTURE on the surface, not separate objects. They create a subtle corrugated micro-relief that catches light along each tiny ridge.",
+        "rib_density": "very high — approximately 50-100 visible lines per inch of surface, creating a dense linear grain",
+        "rib_depth": "shallow — the ribs are subtle surface detail, not deep cuts. They create gentle highlight-shadow alternation across the surface"
+      },
+      "surface_form": {
+        "fold_style": "large, smooth, voluminous folds like draped heavy silk — broad sweeping curves with gentle twists",
+        "fold_count": "3-5 major folds visible, each one wide and generous, NOT many small tangled ribbons",
+        "fold_behavior": "folds overlap softly, tucking under and over each other with smooth transitions. Where folds meet they create dee"
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964542027_zvtlha_HA-HvY7XwAAasmn.jpg" width="600" alt="E-commerce Main Image - Chrome Ripple Flow Product Photography Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 103: Главное изображение для электронной коммерции - Редакция роскошной панамы
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Редакционный промпт фэшн-фотографии, фокусирующийся на роскошной панаме в минималистичной студийной обстановке с мягким направленным освещением, четкими краями и премиум-презентацией продукта.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+```
+Premium fictional bucket hat with a softly structured crown.
+Balanced crown height, neither too tall nor too shallow.
+Brim has a gentle downward slope with a rounded edge.
+Fabric is premium brushed cotton in deep espresso brown.
+Front embroidery is a small star symbol stitched in warm amber thread.
+No other branding.
+Cinematic portrait lighting with a single soft side light.
+Deep shadows and warm highlights.
+Background is an amber-to-dark-brown gradient.
+Analog film grain, luxury editorial photography.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964572965_tzzjt5_HA9l3nLawAAFeAO.jpg" width="600" alt="E-commerce Main Image - Luxury Bucket Hat Product Editorial - Изображение 1">
+</div>
+
+
+---
+
+
+### № 104: Главное изображение для электронной коммерции - Роскошная фотография продукта: черный диффузор Удх
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Роскошный промпт фотографии продукта, демонстрирующий элегантный черный диффузор уд в темной, капризной обстановке с драматическим освещением, золотыми акцентами и богатой атмосферой для премиум-маркетинга ароматов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+
+
+
+```
+Ultra-realistic luxury product photography of a black glass reed diffuser bottle labeled “{argument name="product name" default="BLACK OUDH – Private Collection – RITUALS"}” in elegant gold serif typography. The bottle has a curved rectangular shape with soft edges, a glossy reflective surface, and a gold wax-seal style emblem centered near the top. Thin black diffuser reeds extend upward from the bottle neck.
+The bottle is covered in realistic water droplets and condensation, as if freshly misted after rain. It is placed among deep black roses and dark burgundy petals with visible water droplets, surrounded by rich green leaves. The scene is moody and dramatic with a dark botanical background, softly blurred (shallow depth of field, bokeh effect).
+Lighting is cinematic and low-key, with soft diffused highlights reflecting off the wet glass surface. Cool-toned lighting (deep greens and midnight blues) enhances the dark, luxurious atmosphere. The gold emblem and lettering subtly catch the light, creating a premium, high-end aesthetic.
+Composition: vertical portrait orientation (4:5 ratio), centered product placement, slightly angled bottle resting naturally among roses. Foreground roses partially frame the bottom of the bottle. Background is dark foliage fading into shadow.
+Texture emphasis: hyper-detailed water droplets, glossy glass reflections, velvety rose petals, matte black reeds.
+Style: high-end commercial fragrance advertising, macro lens, 85mm, f/2.0, shallow depth of field, photorealistic, 8K resolution, sharp focus on bottle, dramatic contrast, rich blacks, luxury perfume campaign aesthetic.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964547661_c18d4f_HA9fhJXaYAAnrzU.jpg" width="600" alt="E-commerce Main Image - Luxury Product Photography: Black Oudh Diffuser - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964547646_kgwn4t_HA9fhJLbsAM7U_1.jpg" width="600" alt="E-commerce Main Image - Luxury Product Photography: Black Oudh Diffuser - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964547700_shy12b_HA9fhHvbsAIao2q.jpg" width="600" alt="E-commerce Main Image - Luxury Product Photography: Black Oudh Diffuser - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964548349_q60nr1_HA9fhKBbsAIMMuE.jpg" width="600" alt="E-commerce Main Image - Luxury Product Photography: Black Oudh Diffuser - Изображение 4">
+</div>
+
+
+---
+
+
+### № 105: Главное изображение для электронной коммерции - Летняя фотография продукта по уходу за кожей на пляже
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Яркий промпт фотографии продукта, представляющий товары по уходу за кожей на солнечной пляжной обстановке с естественными элементами, теплым солнечным светом, прибрежной эстетикой и свежим летним настроением для сезонных кампаний.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "resolution": "8K UHD",
+  "image_type": "AI-edited photorealistic product photography",
+  "aspect_ratio": "portrait (approximately 3:4)",
+  "scene_environment": {
+    "location": "sandy beach shoreline",
+    "ground": {
+      "material": "fine golden-brown sand",
+      "texture": "wet, compacted sand with visible grains",
+      "surface_details": [
+        "small water-filled depressions",
+        "natural uneven sand patterns",
+        "subtle ripples caused by receding water"
+      ]
+    },
+    "water": {
+      "type": "sea water",
+      "state": "shallow, moving",
+      "foam": {
+        "color": "white",
+        "texture": "fine bubbles of varying sizes",
+        "distribution": "partially surrounding and flowing around the product"
+      },
+      "motion": "gentle wave wash with visible flow direction"
+    }
+  },
+  "primary_subject": {
+    "object_type": "cosmetic serum dropper bottle",
+    "position": "lying flat on sand",
+    "orientation": {
+      "angle": "slightly diagonal",
+      "dropper_direction": "top angled toward upper-left of frame"
+    },
+    "material": {
+      "bottle": "transparent glass",
+      "finish": "glossy",
+      "cap": "matte white plastic dropper cap"
+    },
+    "color": {
+      "liquid_inside": "deep translucent red",
+      "bottle_tint": "red glass",
+      "cap_color": "white"
+    },
+    "surface_details": [
+      "multiple visible water droplets on glass",
+      "light reflections on curved edges",
+      "subtle refraction through liquid"
+    ],
+    "shadow": {
+      "presence": true,
+      "direction": "extends diagonally downward",
+      "edge": "soft but clearly defined"
+    }
+  },
+  "branding_and_text": {
+    "label_style": {
+      "shape": "rectangular",
+      "border": "thin gold outline",
+      "finish": "flat, clean"
+    },
+    "text_color": "gold",
+    "readable_text": [
+      "RED GLOW",
+      "US WIETOLY",
+      "RED GLOW",
+      "BRONZING ELIXIR",
+      "30 ml"
+    ],
+    "typography": {
+      "style": "modern sans-serif",
+      "alignment": "centered",
+      "case": "uppercase"
+    }
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "direction": "from upper side of frame",
+    "intensity": "bright but soft",
+    "effects": [
+      "specular highlights on glass",
+      "sparkle on water surface",
+      "clear shadow definition"
+    ]
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "deep red",
+      "golden sand",
+      "white foam"
+    ],
+    "contrast": "high contrast between red bottle and neutral background",
+    "tone": "warm"
+  },
+  "camera_and_composition": {
+    "camera_angle": "top-down with slight perspective",
+    "focus": "sharp focus on bottle and nearby sand",
+    "depth_of_field": "moderate, background remains detailed",
+    "framing": "subject centered slightly lower in frame"
+  },
+  "post_processing_style": {
+    "look": "AI-enhanced realism",
+    "clarity": "high micro-detail",
+    "noise": "none visi
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567308_3j591y_HA8TNZOaYAA2t_j.jpg" width="600" alt="E-commerce Main Image - Summer Skincare Product Photography on Beach - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567383_m9jjlm_HA8TNc_bYAA6kWh.jpg" width="600" alt="E-commerce Main Image - Summer Skincare Product Photography on Beach - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567345_d7rxr5_HA8TNavbAAA1nWC.jpg" width="600" alt="E-commerce Main Image - Summer Skincare Product Photography on Beach - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567934_z8g08c_HA8TNjabsAQ8xu_.jpg" width="600" alt="E-commerce Main Image - Summer Skincare Product Photography on Beach - Изображение 4">
+</div>
+
+
+---
+
+
+### № 106: Главное изображение для электронной коммерции - Ультрареалистичная фотография продукта по уходу за кожей на мокром пляжном песке
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Промпт с чрезвычайно высокой детализацией для фотографии косметических продуктов на мокром пляжном песке с реалистичными каплями воды, отражениями, естественным освещением и пляжными элементами для летних кампаний премиум-класса.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Ultra-realistic summer skincare product photography of a bronzing drop bottle named "{argument name="product name" default="Golden Glow - Bronzing Elixir"}", rectangular matte bottle in warm sun-kissed bronze tone with a clean white cap, placed diagonally on wet beach sand as a gentle ocean wave washes over it, delicate sea foam and tiny bubbles surrounding the base, water partially flowing across the label, fine sand texture visible beneath shallow clear water, golden sunlight casting natural highlights and soft shadows, high-detail water ripples and realistic foam patterns, fresh summer aesthetic, minimal clean branding centered and sharp, warm golden-hour beach lighting, cinematic top-down flat lay composition, natural reflections on wet surface, editorial beauty campaign style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury skincare advertisement Aspect ratio 4.5
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964560151_p210er_HA8A4DfaYAAGZt0.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Skincare Product Photography on Wet Beach Sand - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964560110_t40uhm_HA8A4F4WMAARMkG.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Skincare Product Photography on Wet Beach Sand - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964560140_37h06k_HA8A4DIWkAASP3u.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Skincare Product Photography on Wet Beach Sand - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964560958_m79uuv_HA8A4Dga4AAcXO2.jpg" width="600" alt="E-commerce Main Image - Ultra-Realistic Skincare Product Photography on Wet Beach Sand - Изображение 4">
+</div>
+
+
+---
+
+
+### № 107: Главное изображение для электронной коммерции - Премиальный студийный снимок ледяного напитка с черникой и мятой
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт фотографии напитков высокого класса, демонстрирующий ледяной напиток в стеклянной посуде с черникой, мятой, сиропом, льдом и каплями конденсата, подчеркивающий свежесть и аппетитность в чистой студийной обстановке.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "meta": {
+    "title": "Blueberry Mint Iced Drink – Premium Studio Shot",
+    "version": "1.0",
+    "type": "text-to-image",
+    "style": "Ultra-realistic beverage photography"
+  },
+  "scene": {
+    "subject": "Tall clear highball glass filled with blue blueberry mint soda",
+    "glass": "Transparent faceted glass with condensation droplets",
+    "liquid": "Vibrant gradient blue drink (deep blue at bottom fading to clear at top)",
+    "ice": "Large crystal-clear ice cubes filling the glass",
+    "garnish": [
+      "Fresh mint leaves inside and on top",
+      "Whole blueberries inside the drink",
+      "Blueberries resting around the base",
+      "Light wooden straw angled inside the glass"
+    ],
+    "effects": [
+      "Soft misty vapor rising from the top",
+      "Tiny bubbles in liquid",
+      "Water droplets on glass surface",
+      "Slight splash texture at bottom surface"
+    ]
+  },
+  "environment": {
+    "background": "Dark navy to black gradient backdrop",
+    "surface": "Glossy black reflective surface with scattered blueberries and mint leaves",
+    "atmosphere": "Moody, cinematic, high contrast"
+  },
+  "lighting": {
+    "type": "Professional studio lighting",
+    "setup": [
+      "Soft diffused key light from left",
+      "Cool rim light from right to enhance glass edges",
+      "Subtle backlight for vapor visibility"
+    ],
+    "highlights": "Sharp reflections on ice and glass",
+    "shadows": "Deep, dramatic shadows"
+  },
+  "camera": {
+    "angle": "Eye-level close-up",
+    "lens": "85mm macro lens",
+    "aperture": "f/2.8",
+    "depth_of_field": "Shallow depth of field, blurred background berries",
+    "resolution": "8K ultra-detailed",
+    "focus": "Sharp focus on glass center and mint leaves"
+  },
+  "quality_tags": [
+    "hyper-realistic",
+    "photorealistic",
+    "commercial beverage photography",
+    "crisp details",
+    "cinematic",
+    "high dynamic range",
+    "editorial drink advertisement style"
+  ]
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567216_nl1oqo_HA7guOTbMAAU4PR.jpg" width="600" alt="E-commerce Main Image - Premium Studio Shot of Blueberry Mint Iced Drink - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567300_zoetcw_HA7guP6a4AAXC4I.jpg" width="600" alt="E-commerce Main Image - Premium Studio Shot of Blueberry Mint Iced Drink - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964567353_wwbx4n_HA7guM9bwAAdh8D.jpg" width="600" alt="E-commerce Main Image - Premium Studio Shot of Blueberry Mint Iced Drink - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770964568000_qdmw4w_HA7guO7bsAIsP2A.jpg" width="600" alt="E-commerce Main Image - Premium Studio Shot of Blueberry Mint Iced Drink - Изображение 4">
+</div>
+
+
+---
+
+
+### № 108: Главное изображение для электронной коммерции - 8K фотография продукта с концептуальным вырезом (Боржоми)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Сложный промпт фотографии продукта с концептуальным 3D-вырезом минеральной воды Боржоми с визуализацией внутренних слоев, естественных элементов, водяных брызг и креативными эффектами освещения для инновационной презентации продукта.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "resolution_target": "8K",
+  "image_type": "studio product photography with conceptual cutaway",
+  "orientation": "portrait",
+  "overall_description": "A vertically oriented studio photograph of a metallic beverage can labeled 'Borjomi Flavored Water', shown intact but visually intersected by a horizontal torn-paper cutaway revealing densely packed red pomegranate seeds inside. The scene is minimal, high-detail, and sharply lit, emphasizing texture contrast between metal, paper, and fruit.",
+  "primary_subject": {
+    "object": "aluminum beverage can",
+    "brand_text_visible": "BORJOMI",
+    "product_text_visible": [
+      "FLAVORED WATER",
+      "без сахара"
+    ],
+    "additional_text_visible": "Text in Cyrillic script below 'FLAVORED WATER' (exact words not fully legible)",
+    "material": "brushed metallic aluminum",
+    "shape": "standard cylindrical can",
+    "top": {
+      "type": "standard can lid",
+      "finish": "silver metallic",
+      "pull_tab": "not visible from this angle"
+    },
+    "label_design": {
+      "base_colors": [
+        "silver",
+        "light pink",
+        "soft mauve"
+      ],
+      "graphics": "illustrated pomegranate drawing near the upper portion of the can",
+      "typography": "bold sans-serif for 'BORJOMI', vertically oriented letters on the right side of the can",
+      "layout": "brand name vertically aligned; product description horizontally aligned near center-lower area"
+    }
+  },
+  "cutaway_element": {
+    "type": "horizontal tear-through",
+    "position": "center of the can, spanning from left edge to right edge",
+    "appearance": {
+      "outer_edges": "white, rough, fibrous torn-paper texture",
+      "thickness": "thick paper layer with uneven jagged edges",
+      "depth": "appears to slice fully through the can visually"
+    },
+    "interior_content": {
+      "object": "pomegranate seeds (arils)",
+      "color": "deep red to ruby red",
+      "translucency": "slightly translucent with glossy highlights",
+      "density": "tightly packed, filling the entire horizontal opening",
+      "surface_detail": "individual seeds clearly separated, reflective, wet appearance"
+    }
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "silver",
+      "light pink",
+      "deep red"
+    ],
+    "accent_colors": [
+      "white",
+      "dark navy or black (text)"
+    ]
+  },
+  "lighting": {
+    "style": "soft studio lighting",
+    "direction": "frontal with slight top illumination",
+    "shadows": "soft, diffused shadow beneath the can",
+    "highlights": "clean specular highlights on metal surface and glossy fruit seeds"
+  },
+  "background": {
+    "color": "light gray",
+    "texture": "subtle cloudy or concrete-like gradient",
+    "focus": "out of focus, smooth backdrop"
+  },
+  "surface_and_environment": {
+    "surface": "flat gray tabletop",
+    "texture": "matte, lightly textured",
+    "reflection": "minimal to none"
+  },
+  "camera_and_compos
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878344907_lkuzxk_HA24INQaAAI30Fb.jpg" width="600" alt="E-commerce Main Image - 8K Product Photography with Conceptual Cutaway (Borjomi) - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878345060_acqga9_HA24IN7aAAAiCOC.jpg" width="600" alt="E-commerce Main Image - 8K Product Photography with Conceptual Cutaway (Borjomi) - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878344970_6wp7y0_HA24ITAaIAApjnd.jpg" width="600" alt="E-commerce Main Image - 8K Product Photography with Conceptual Cutaway (Borjomi) - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878345903_wq6ick_HA24Ig-bEAANN3-.jpg" width="600" alt="E-commerce Main Image - 8K Product Photography with Conceptual Cutaway (Borjomi) - Изображение 4">
+</div>
+
+
+---
+
+
+### № 109: Главное изображение для электронной коммерции - Эфирный визуал продукта с матовыми стеклянными руками
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Художественный промпт визуализации продукта с сюрреалистическими матовыми стеклянными руками, держащими косметический продукт, с мечтательным освещением, мягкими пастельными тонами и эфирной атмосферой для роскошных косметических брендов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+ "task": "photorealistic_product_visual",
+ "input": {
+ "reference_image": "USER_UPLOADED_IMAGE",
+ "preserve_product_identity": true,
+ "preserve_label_text": true,
+ "preserve_object_shape": true,
+ "preserve_centered_composition": true
+ },
+ "scene": {
+ "environment": "high-key studio",
+ "background": "pure white seamless",
+ "negative_space": "very high",
+ "depth_of_field": "layered depth with strong subject isolation"
+ },
+ "subject": {
+ "primary_object": "single product object",
+ "position": "perfectly centered, floating",
+ "orientation": "upright",
+ "scale": "natural product scale",
+ "clarity": "ultra-sharp, high micro-contrast"
+ },
+ "human_elements": {
+ "hands": {
+ "count": 2,
+ "layering": "positioned behind a frosted glass surface",
+ "visual_effect": "frosted glass diffusion, milky blur, softened edges",
+ "transparency": "semi-opaque",
+ "focus": "intentionally out of focus",
+ "gesture": "slow, delicate, abstract reach",
+ "interaction": "no contact with the product"
+ }
+ },
+ "optical_effects": {
+ "frosted_glass": {
+ "applied_to": "hands only",
+ "blur_type": "diffusion blur",
+ "edge_softness": "high",
+ "light_scatter": "subtle bloom"
+ }
+ },
+ "lighting": {
+ "style": "soft diffused studio lighting",
+ "direction": "frontal with gentle top wash",
+ "shadows": "extremely soft and minimal",
+ "highlights": "clean, controlled highlights on the product only",
+ "contrast": "low overall, high on product"
+ },
+ "materials_rendering": {
+ "product_surface": "premium, realistic, tactile",
+ "reflections": "clean and intentional",
+ "imperfections": "none"
+ },
+ "aesthetic": {
+ "mood": "ethereal, calm, refined",
+ "style": "high-end editorial product photography",
+ "visual_language": "minimal, airy, modern, poetic",
+ "emotion": "care, purity, precision"
+ },
+ "camera": {
+ "lens": "85mm",
+ "aperture": "f/2.0",
+ "angle": "eye-level",
+ "camera_motion": "none"
+ },
+ "post_processing": {
+ "retouching": "luxury commercial polish",
+ "grain": "none",
+ "color_grading": "clean whites with subtle warmth on the product"
+ },
+ "output": {
+ "resolution": "ultra_high_resolution",
+ "focus_priority": "product only",
+ "clarity_separation": "product razor sharp, background and hands diffused",
+ "artifacts": "none"
+ }
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878346292_9816kb_HA2tSKqaAAMrpAl.jpg" width="600" alt="E-commerce Main Image - Ethereal Product Visual with Frosted Glass Hands - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878346232_nv1fxm_HA2tSVAbsAATUGH.jpg" width="600" alt="E-commerce Main Image - Ethereal Product Visual with Frosted Glass Hands - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1770878346291_5ffac6_HA2tSEfaAAYCnhf.jpg" width="600" alt="E-commerce Main Image - Ethereal Product Visual with Frosted Glass Hands - Изображение 3">
+</div>
+
+
+---
+
+
+### № 110: Игровой ассет - Промпт сетки эмоций персонажа в стиле 3D Pixar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Промпт стилизованной сетки персонажей для создания листов эмоций 3D-персонажа в стиле Pixar с несколькими выражениями лица (счастливый, грустный, злой и т.д.) в едином макете для разработки игр или анимации.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+3D Pixar-style animated girl shown in a 6-panel grid, same character with short brown hair and big blue eyes, different emotions ({argument name="emotion 1" default="happy"}, {argument name="emotion 2" default="shocked"}, {argument name="emotion 3" default="angry"}, caring, confident, thumbs up), colorful solid backgrounds (yellow, blue, red, pink, purple, green), soft studio lighting, smooth 3D render, vibrant colors, ultra-detailed, 4K, animated movie quality.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223955641_bk7or2_HBNENwUaIAAiT6D.jpg" width="600" alt="Game Asset - 3D Pixar-Style Character Emotion Grid Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 111: Игровой ассет - Промпт портрета косплея Бэтгёрл фотореалистичный (преувеличенная анатомия)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт косплей-портрета с преувеличенными пропорциями, сочетающий фотореализм с стилизованными художественными элементами для драматичных, привлекающих внимание изображений персонажей с динамичными позами и детализированными костюмами.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "subject": {
+    "desc": "Megan Fox resemblance, fair skin, long straight dark brown/black hair over shoulders/back, symmetrical face with full lips, defined brows, green-hazel eyes, tiny Batgirl mask covering eyes",
+    "apparel": {
+      "item": "Batgirl inspired bodysuit",
+      "style": "Halter-neck sleeveless, high-cut legs",
+      "color": "Black base with glossy purple accents, yellow trim on legs, large yellow bat emblem on chest",
+      "details": "Tight stretch fabric emphasizing curves, black/purple stockings"
+    },
+    "anatomy": {
+      "body_type": "Exaggerated voluptuous hourglass",
+      "bust": "Large full voluminous with strong forward projection, tightly contained",
+      "hips": "Very wide hips, thick thighs, narrow waist",
+      "skin": "Smooth fair with natural tone variation"
+    }
+  },
+  "pose": {
+    "posture": "Standing upright, weight shifted to right hip (viewer's left) for pelvic tilt, torso slightly angled toward camera",
+    "limbs": {
+      "right_arm": "Extended down, hand resting on granite countertop",
+      "left_arm": "Hanging naturally by side, partially obscured by hip",
+      "head": "Slight tilt, facing forward"
+    },
+    "gaze": "Direct eye contact, soft neutral confident sultry expression"
+  },
+  "environment": {
+    "location": "Indoor bathroom",
+    "elements": [
+      "Speckled green/black granite countertop (left foreground)",
+      "Wooden door with tall frosted glass panel (right background)",
+      "Towel bar (background left)",
+      "Large Wonder Woman comic poster on black walls, small neon 'KeorUnreal' sign"
+    ]
+  },
+  "camera": {
+    "shot": "Medium (thighs up), vertical 3:4",
+    "angle": "Eye-level slightly frontal",
+    "lens": "50-85mm portrait",
+    "dof": "Moderate, sharp subject, slightly soft distinct background",
+    "framing": "Centered subject"
+  },
+  "lighting": "Soft diffuse indoor artificial, overhead/slightly frontal, even illumination, soft shadows under bust/hips, highlights on body contours and fabric sheen",
+  "mood": "Confident calm sultry, casual intimate domestic atmosphere",
+  "style": "Photorealistic smartphone photography, high-fidelity detailed fabric/skin textures, natural color grading, unstyled physical proportions",
+  "colors": "Black suit with vibrant yellow/purple accents dominant, green/black granite, warm wood, neutral walls, natural contrast/saturation",
+  "quality": "High-def sharp focus on eyes/face/suit pattern, low noise, minimal grain",
+  "negative_prompt": "small/reduced/flattened bust, lifted breasts, slimmed torso/hips, proportion averaging, plastic/airbrushed skin, beautification, stylization, depth flattening, wide distortion, mirror selfies, phone-in-hand, reflections"
+}
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223969490_wbzq70_HBM9X_ragAAdazt.jpg" width="600" alt="Game Asset - Photorealistic Batgirl Cosplay Portrait Prompt (Exaggerated Anatomy) - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223969574_zd9aob_HBM9X8lXUAE8zUE.jpg" width="600" alt="Game Asset - Photorealistic Batgirl Cosplay Portrait Prompt (Exaggerated Anatomy) - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223969753_55uv22_HBM9YCtXcAAMMET.jpg" width="600" alt="Game Asset - Photorealistic Batgirl Cosplay Portrait Prompt (Exaggerated Anatomy) - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771223970447_a71ju3_HBM9YKub0AE2QK5.jpg" width="600" alt="Game Asset - Photorealistic Batgirl Cosplay Portrait Prompt (Exaggerated Anatomy) - Изображение 4">
+</div>
+
+
+---
+
+
+### № 112: Игровой ассет - Генератор интимных сцен свидания для нескольких персонажей
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт романтической сцены, предназначенный для создания интимных моментов свидания между несколькими персонажами с настраиваемыми деталями, атмосферным освещением и кинематографической композицией для визуальных новелл или повествовательного контента.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+```
+close-up intimate composition of ALL REFERENCED CHARACTERS in their exact art style and exact clothes with the characters sitting across from each other in a cozy date setting that fits all character's environment. if character is an object, personify that object faithfully.
+ultra-photorealistic date venue formed by all characters' backgrounds while the activity and cuisine is defined by all character's styles, colors, and moodboards.
+all characters engaged in a natural getting-to-know-each-other interaction with relaxed body language showing genuine connection and fun with.
+warm atmospheric lighting complementing all characters' color palettes and moods, photorealistic ambient features floating throughout scene contextually matching the setting type with soft hearts fitting all characters vibes and artstyle.
+environment rendering in complete photorealistic 3D quality while all characters maintain their native art styles without blending, background softly blurred with bokeh effects highlighting the intimate date atmosphere, cozy and inviting ambiance with warm color temperature, high resolution, high quality, high detail, romantic yet comfortable setting where all characters feel naturally at home, volumetric lighting creating depth and warmth, scene composition emphasizing connection between all characters, no crowds, intimate private setting, candid moment of shared experience and discovery, accurate anatomy.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137206837_x5qef4_HBH_q2RakAUhngo.jpg" width="600" alt="Game Asset - Intimate Date Scene Generator for Multiple Characters - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137206887_no1dbq_HBINwwWaYAAdnGA.jpg" width="600" alt="Game Asset - Intimate Date Scene Generator for Multiple Characters - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137206962_qasgjm_HBIXswuakAADt8W.jpg" width="600" alt="Game Asset - Intimate Date Scene Generator for Multiple Characters - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137208004_ji6x7g_HBIfR6yaoAANGn5.jpg" width="600" alt="Game Asset - Intimate Date Scene Generator for Multiple Characters - Изображение 4">
+</div>
+
+
+---
+
+
+### № 113: Игровой ассет - Сетка персонажа в стиле 3D Pixar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт для создания презентаций листа персонажа с несколькими видами (спереди, сбоку, сзади) 3D-персонажа в стиле Pixar в едином организованном макете для справки по разработке игр или анимации.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+A 3D Pixar-style animated young male character showcased in a 6-panel grid layout, each panel featuring a different facial expression and outfit. Bright solid color backgrounds (yellow, blue, red, pink, purple, green). The character has soft brown wavy hair, expressive large eyes, smooth skin, and stylized cartoon proportions.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137187878_dit8pw_HBIKky2akAENzde.jpg" width="600" alt="Game Asset - 3D Pixar-Style Character Grid - Изображение 1">
+</div>
+
+
+---
+
+
+### № 114: Игровой ассет - Миниатюрные игрушечные солдатики на гигантской яичной скорлупе
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Креативный промпт макросъемки с изображением крошечных игрушечных солдатиков, размещенных на огромной треснутой яичной скорлупе, демонстрирующий сюрреалистическую игру масштабов и детализированные миниатюрные сцены с драматическим освещением.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Tiny British colonial toy soldiers in khaki uniforms and pith helmets climbing and rappelling over a giant cracked eggshell. The egg is broken open, glowing with bright orange yolk inside. Some soldiers descend with ropes, others stand on shell fragments or use tools like pickaxes. Broken shell pieces lie like rocks on the ground, with small yolk spheres in the distance. Golden sunset light shines from inside the egg, creating a dramatic, cinematic adventure scene. Ultra-realistic miniature diorama, macro photography, shallow depth of field, detailed textures.
+Negative prompt:
+blurry, low resolution, cartoon, anime, illustration, deformed figures, modern soldiers, futuristic weapons, text, watermark, flat lighting
+Style: photorealistic miniature photography
+Aspect ratio: 4:3 or 3:2
+Lighting: warm golden glow from inside the egg
+Camera: low angle macro shot
+Detail: ultra detailed
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137209047_mi3jzp_HBIB2yVacAAIt0r.jpg" width="600" alt="Game Asset - Miniature Toy Soldiers on a Giant Eggshell - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137209225_8g1occ_HBIB3OGbEAARAVc.jpg" width="600" alt="Game Asset - Miniature Toy Soldiers on a Giant Eggshell - Изображение 2">
+</div>
+
+
+---
+
+
+### № 115: Игровой ассет - 3D антропоморфный снежный барс в уличной одежде
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт стилизованного дизайна персонажей для создания классного антропоморфного снежного барса в модной уличной одежде с 3D-рендерингом в стиле Pixar, демонстрирующий индивидуальность и детали моды.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Full-body ultra-detailed 3D anthropomorphic snow leopard character with semi-realistic anatomy and lifelike fur, wearing luxury modern streetwear: oversized charcoal bomber jacket, techwear hoodie, tailored utility pants, premium high-top sneakers, and minimalist metal accessories. Confident natural fashion pose, slight motion as if mid photoshoot.
+Clean modern studio with soft gradient backdrop and subtle floor reflections. Cinematic soft key light, rim light on fur, realistic fabric texture and shadows. Hyper-realistic 3D render, film-quality materials, depth-of-field, ray tracing, editorial fashion composition, ultra-high resolution. full-body, ultra-detailed 3D anthropomorphic dog character with semi-realistic anatomy and lifelike fur, wearing luxury modern streetwear
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137216780_bl3490_HBH4-wgacAAuNtc.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Snow Leopard Streetwear - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137216958_hn51bj_HBH5BdDakAIwYC2.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Snow Leopard Streetwear - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137216966_6npd1t_HBH5RL0akAUeV9l.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Snow Leopard Streetwear - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137217691_f1jt1k_HBH5dRka8AEQJE0.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Snow Leopard Streetwear - Изображение 4">
+</div>
+
+
+---
+
+
+### № 116: Игровой ассет - Изменение персонажа тролля, чтобы сделать форму сердца
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт редактирования изображения, инструктирующий изменить позу или жест тролль-персонажа для формирования формы сердца руками, демонстрирующий возможности точного редактирования персонажей AI.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Change troll character to make the
+heart shape with it's hands and fingers
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137203621_6m7vs8_HBG00t9b0AAmmk1.jpg" width="600" alt="Game Asset - Changing Troll Character to Make Heart Shape - Изображение 1">
+</div>
+
+
+---
+
+
+### № 117: Игровой ассет - Макрорендеринг пушистого персонажа пчелы с каплей меда
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Очаровательный промпт макрорендеринга 3D-персонажа, представляющий милого пушистого персонажа пчелы с детализированным мехом, большими глазами и каплей меда, идеальный для детских игровых ресурсов или милых иллюстраций.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+
+
+```
+Ultra-detailed cinematic macro render of an adorable miniature fuzzy bee character flying mid-air, holding a glossy translucent honey droplet container with tiny curved black legs, the bee has soft golden-yellow fur with black stripes, oversized shiny black glass-like eyes, small delicate antennae, and semi-transparent wings frozen mid-flap, expressive and charming personality, stylized Pixar-quality character realism
+vertical 9:16 composition, subject centered slightly above middle, optimized for mobile viewing, strong vertical depth and motion direction
+dynamic motion blur background with streaked green foliage and soft natural colors to emphasize speed and flight, vertical motion streaks, shallow depth of field, subject perfectly sharp while background heavily blurred, creamy bokeh, strong subject isolation
+warm sunlight illuminating the bee’s fur, soft rim lighting around the edges, subsurface scattering in wings, honey droplet glowing amber with realistic translucency, refraction, and viscosity, physically accurate materials, global illumination
+macro photography look, 100mm macro lens, f/1.8 aperture, extreme detail in individual fur fibers, cinematic portrait orientation, premium animated film quality, octane render, unreal engine quality, nano banana pro style, ultra clean, high realism, 8k resolution, aspect ratio 9:16
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771137204725_1gspem_HBFrdBDakAAkfyb.jpg" width="600" alt="Game Asset - Macro Render of Fuzzy Bee Character with Honey Droplet - Изображение 1">
+</div>
+
+
+---
+
+
+### № 118: Игровой ассет - Промпт сюрреалистической сцены миниатюрного яичного искусства
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Творческий промпт макрофотографии с изображением миниатюрной сюрреалистической сцены, встроенной в яйцо или яичную скорлупу, с крошечными персонажами, детализированными элементами и художественным освещением для фантастических концептуальных изображений.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+{
+  "resolution": "8K",
+  "aspect_ratio": "3:4",
+  "style": "high-detail cinematic miniature scene, AI-edited surreal realism",
+  "scene_overview": {
+    "environment": "foggy forest with leafless trees",
+    "ground": "uneven dirt surface covered with small rocks and stones",
+    "atmosphere": "misty, muted, cool-toned background with soft depth-of-field blur"
+  },
+  "main_subject": {
+    "object": "giant cracked egg",
+    "position": "center of the frame",
+    "scale": "massive compared to surrounding human figures",
+    "shell": {
+      "color": "light brown",
+      "texture": "rough, cracked, broken open at the top front",
+      "edges": "jagged shell edges with visible thickness"
+    },
+    "interior": {
+      "egg_white": "opaque white, uneven texture, clinging to shell interior",
+      "yolk": {
+        "color": "vivid golden yellow",
+        "texture": "glossy, smooth, semi-liquid",
+        "state": "partially intact but actively flowing downward"
+      }
+    },
+    "motion": {
+      "yolk_flow": "thick stream of yolk pouring from the egg opening onto the ground",
+      "pooling": "yolk forming a shiny puddle at the base"
+    }
+  },
+  "human_figures": {
+    "count": 5,
+    "scale": "miniature compared to the egg",
+    "appearance": {
+      "gender": "not identifiable",
+      "faces": "not clearly visible",
+      "build": "average",
+      "posture": "active working poses"
+    },
+    "clothing": {
+      "helmets": "hard hats in orange and white",
+      "tops": "work jackets in blue and orange",
+      "pants": "dark work trousers",
+      "footwear": "work boots"
+    },
+    "tools": [
+      "shovel",
+      "metal bucket",
+      "wheelbarrow",
+      "drilling or jackhammer-like tool",
+      "ladder leaning against egg"
+    ],
+    "actions": [
+      "one figure shoveling yolk",
+      "one figure collecting yolk with a bucket",
+      "one figure operating a tool near the egg",
+      "one figure standing on a ladder inspecting the egg",
+      "one figure positioned near a wheelbarrow"
+    ]
+  },
+  "composition": {
+    "camera_angle": "eye-level with miniature figures",
+    "framing": "vertical composition with central focus on the egg",
+    "depth_of_field": "shallow, background trees blurred",
+    "foreground": "rocks, flowing yolk, workers",
+    "background": "dense forest of tall, bare trees fading into fog"
+  },
+  "lighting": {
+    "type": "soft diffused lighting",
+    "direction": "evenly lit from above and front",
+    "highlights": "strong reflections on the yolk",
+    "shadows": "soft shadows beneath figures and egg"
+  },
+  "color_palette": {
+    "primary_colors": [
+      "golden yellow",
+      "brown",
+      "gray",
+      "muted green"
+    ],
+    "contrast": "high contrast between bright yolk and subdued forest tones"
+  },
+  "visual_quality": {
+    "sharpness": "extreme detail in egg shell, yolk texture, and workers",
+    "realism": "photorealistic textures with surreal subject matter",
+    "no
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050440833_gd3hbw_HBDBtp7aQAAP2Aj.jpg" width="600" alt="Game Asset - Surreal Miniature Egg Art Scene Prompt - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050440871_wygb5h_HBDBtucawAAA7Nu.jpg" width="600" alt="Game Asset - Surreal Miniature Egg Art Scene Prompt - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050441465_50xsmq_HBDBt4TbMAANWZU.jpg" width="600" alt="Game Asset - Surreal Miniature Egg Art Scene Prompt - Изображение 3">
+</div>
+
+
+---
+
+
+### № 119: Игровой ассет - Промпт персонажа гигантского мира в стиле Pixar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+
+#### 📖 Описание
+
+Промпт дизайна персонажа для создания 3D-персонажей в стиле Pixar, взаимодействующих с объектами гигантского размера, подчеркивающий драматическую разницу в масштабе, выразительные позы и очаровательную эстетику для повествования или игровых ресурсов.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+
+
+
+
+```
+## SUBJECT & ACTION
+{argument name="character" default="[CHARACTER]"} holding a {argument name="object" default="[OBJECT]"} as a helmet and looking very ready for battle.
+The character looks determined but confused.
+## ENVIRONMENT & CONTEXT
+Scene takes place in a world where everything is giant sized.
+Background details: overgrown vegetation, blurred crowd.
+## VISUAL STYLE & AESTHETIC
+**Style:** Pixar-Style 3D Animation or Claymation
+**Lighting:** Golden Hour with God Rays breaking through dust particles
+**Camera:** Telephoto 200mm (Compressed background, subject isolation, bokeh)
+**Color Palette:** Vibrant Acid Pop Colors (Pink, Lime, Yellow)
+## DETAILS & TEXTURE
+- Focus on textures: Gritty concrete and rusting metal with peeling paint
+- Fluffy fur texture
+- High fidelity, 8k, extremely detailed masterpiece.
+## PARAMETERS
+--ar 3:2 --chaos 20 --style raw
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050462016_e9dt71_HBCx2-JXwAE0oTq.jpg" width="600" alt="Game Asset - Pixar-Style Giant World Character Prompt - Изображение 1">
+</div>
+
+
+---
+
+
+### № 120: Игровой ассет - 3D антропоморфная собака в уличной одежде
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+
+#### 📖 Описание
+
+Промпт стилизованного антропоморфного персонажа для создания классной собаки-персонажа в модной уличной одежде с рендерингом в стиле 3D Pixar, демонстрирующий личность и детали одежды для игровых ресурсов или анимации.
+
+<details>
+<summary>📝 Промпт (нажмите, чтобы развернуть)</summary>
+
+
+```
+Full-body 3D stylized anthropomorphic cartoon dog character wearing modern streetwear, oversized neon green hoodie, cargo pants, chunky sneakers, reflective sunglasses, silver chain necklace. Confident relaxed pose with hands in pockets. Minimal studio background in solid lime green. Soft studio lighting, smooth shadows, high detail fabric texture, Pixar-quality 3D render, ultra-clean composition, centered framing, fashion editorial character design, 8K resolution.
+```
+
+</details>
+
+
+#### 🖼️ Сгенерированные изображения
+
+
+##### Изображение 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050434063_3u0bx0_HBA5yxdbsAI4omW.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Dog in Streetwear - Изображение 1">
+</div>
+
+
+##### Изображение 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050434092_65ddic_HBA5y17asAAyM0f.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Dog in Streetwear - Изображение 2">
+</div>
+
+
+##### Изображение 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050434372_dkps4p_HBA5yxUbEAAsP0K.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Dog in Streetwear - Изображение 3">
+</div>
+
+
+##### Изображение 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771050435083_sj931t_HBA5y6wawAEZWZX.jpg" width="600" alt="Game Asset - 3D Anthropomorphic Dog in Streetwear - Изображение 4">
+</div>
+
+
+
+---
+
+---
+
+---
+
+## 📚 Доступно больше промптов
+
+<div align="center">
+
+### 🎯 Ещё 9270 промптов не показаны здесь
+
+Из-за ограничений длины контента GitHub мы можем отобразить только первые 120 обычных промптов в этом README.
+
+**[👉 Просмотреть все промпты в нашей веб-галерее](https://youmind.com/en-US/nano-banana-pro-prompts)**
+
+Возможности галереи:
+
+✨ Красивый макет сетки masonry
+
+🔍 Полнотекстовый поиск и фильтры
+
+🌍 Поддержка 17 языков
+
+📱 Оптимизированный мобильный интерфейс
+
+</div>
+
+---
+
+## 🤝 Как внести свой вклад
+
+Мы приветствуем вклад! Вы можете отправить промпты через:
+
+### 🐛 GitHub Issue
+
+1. Нажмите [**Отправить новый промпт**](https://github.com/NeirOSETIN/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. Заполните форму с деталями промпта и изображением
+3. Отправьте и дождитесь проверки командой
+4. Если одобрено (мы добавим метку `approved`), он автоматически синхронизируется с CMS
+5. Ваш промпт появится в README в течение 4 часов
+
+**Примечание:** Мы принимаем отправки только через GitHub Issues для обеспечения контроля качества.
+
+См. [CONTRIBUTING.md](docs/CONTRIBUTING.md) для подробных рекомендаций.
+
+---
+
+## 📄 Лицензия
+
+Лицензировано по [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 🙏 Благодарности
+
+- [Payload CMS](https://payloadcms.com/)
+- [youmind.com](https://youmind.com)
+
+---
+
+## ⭐ История звёзд
+
+[![График истории звёзд](https://api.star-history.com/svg?repos=NeirOSETIN/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#NeirOSETIN/awesome-nano-banana-pro-prompts&Date)
+
+---
+
+<div align="center">
+
+**[🌐 Просмотреть в веб-галерее](https://youmind.com/en-US/nano-banana-pro-prompts)** •
+**[📝 Отправить промпт](https://github.com/NeirOSETIN/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Поставить звезду этому репозиторию](https://github.com/NeirOSETIN/awesome-nano-banana-pro-prompts)**
+
+<sub>�� Этот README создан автоматически. Последнее обновление: 2026-02-16T16:30:22.460Z</sub>
+
+</div>
